@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+
+<script>
+async function getData(){
+    var response = await fetch("https://embed.embedplayer.site/getData", {
+    "headers": {
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,it;q=0.6",
+      "content-type": "application/x-www-form-urlencoded;charset=UTF-8;",
+      "priority": "u=1, i",
+      "sec-ch-ua": "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"",
+      "sec-ch-ua-arch": "\"x86\"",
+      "sec-ch-ua-bitness": "\"64\"",
+      "sec-ch-ua-full-version": "\"126.0.6478.127\"",
+      "sec-ch-ua-full-version-list": "\"Not/A)Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"126.0.6478.127\", \"Google Chrome\";v=\"126.0.6478.127\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-model": "\"\"",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-ch-ua-platform-version": "\"10.0.0\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin"
+    },
+    "referrer": "https://embed.embedplayer.site/public/filmes",
+    "referrerPolicy": "strict-origin-when-cross-origin",
+    "body": "list=series&type=serie&public=true",
+    "method": "POST",
+    "mode": "cors",
+    "credentials": "include"
+  },
+);
+console.log(response);
+}
+</script>
+</body>
+</html>

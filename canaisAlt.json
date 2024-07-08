@@ -1,0 +1,607 @@
+[
+    {
+        "name": "A&E",
+        "img": "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2021/06/AE.jpg",
+        "stream": "https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "ACI Sport",
+        "img": "https://foto2.newsauto.it/wp-content/uploads/2021/03/ACI_Sport_TV-780x470.jpg",
+        "stream": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"
+    },
+    {
+        "name": "Adult Swin",
+        "img": "https://i.pinimg.com/474x/e5/4e/72/e54e72b80c2c5bdf86d5f56a00536fe9.jpg",
+        "stream": "https://cdn-3.nxplay.com.br/ADULT_SWIN/tracks-v2a1/mono.m3u8"
+    },
+    {
+        "name": "All Sports",
+        "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/7a/f1/a47af1d6-710c-443f-9713-1af50126c009/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/1200x600wa.png",
+        "stream": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/.m3u8"
+    },
+    {
+        "name": "Anime Tv",
+        "img": "https://tv-online.vercel.app/animetv.png",
+        "stream": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
+    },
+    {
+        "name": "AXN",
+        "img": "https://tv-online.vercel.app/logo-axn.png",
+        "stream": "https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8"
+    },
+    {
+        "name": "Azzurra TV",
+        "img": "https://tv-online.vercel.app/azzurra.png",
+        "stream": "https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8"
+    },
+    {
+        "name": "Band",
+        "img": "https://tv-online.vercel.app/logo-band.png",
+        "stream": "https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Band News",
+        "img": "https://tv-online.vercel.app/logo-bandnews.png",
+        "stream": "https://cdn-3.nxplay.com.br/BAND_NEWS_TK/index.m3u8"
+    },
+    {
+        "name": "Band Sports",
+        "img": "https://tv-online.vercel.app/logo-bandsports.png",
+        "stream": "https://cdn-3.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8"
+    },
+    {
+        "name": "BBC America",
+        "img": "https://variety.com/wp-content/uploads/2014/02/bbc-america-logo1.jpg?w=1000",
+        "stream": "https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8"
+    },
+    {
+        "name": "BBC Drama",
+        "img": "https://s.yimg.com/ny/api/res/1.2/YXETiNTSNYHeRpw2pSyBNg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/es/efe.es/ce1f10df9af87ee69cf40cfa7146ce20",
+        "stream": "https://bbceu-bbcdrama-3-es.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name": "BBC News",
+        "img": "https://veja.abril.com.br/wp-content/uploads/2016/11/bbc14.jpg?quality=70&strip=all&w=720&crop=1",
+        "stream": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298"
+    },
+    {
+        "name": "Bein Sports X",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT920R5QuL30gb5JvijDr9nIH2HbWh5od2UvQ&s",
+        "stream": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8"
+    },
+    {
+        "name": "Blues TV",
+        "img": "https://tv-online.vercel.app/bluestv.png",
+        "stream": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+    },
+    {
+        "name": "Boxing TV",
+        "img": "https://th.bing.com/th/id/R.faa25488704fbcc1024bb29e07111366?rik=ReoYe86MNHI13Q&pid=ImgRaw&r=0",
+        "stream": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8"
+    },
+    {
+        "name": "Cartoon",
+        "img": "https://tv-online.vercel.app/logo-cartoon.png",
+        "stream": "https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8"
+    },
+    {
+        "name": "Chaves",
+        "img": "https://tv-online.vercel.app/chaves.png",
+        "stream": "http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8"
+    },
+    {
+        "name": "CCTV 5",
+        "img": "https://variety.com/wp-content/uploads/2014/07/cctv-logo.jpg?w=851",
+        "stream": "https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8"
+    },
+    {
+        "name": "CCTV 6",
+        "img": "https://variety.com/wp-content/uploads/2014/07/cctv-logo.jpg?w=851",
+        "stream": "https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8"
+    },
+    {
+        "name": "Classic Rock",
+        "img": "https://tv-online.vercel.app/logo-classicrock.png",
+        "stream": "https://cdn17.fntvchannel.com/index.m3u8"
+    },
+    {
+        "name": "CNN Brasil",
+        "img": "https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2019/03/cnn-brasil.jpg?fit=1280%2C720&ssl=1",
+        "stream": "https://cdn-1.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8"
+    },
+    {
+        "name": "CNN PT",
+        "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0e/43/5e0e4360-6396-64d3-6d64-0e495c2b7840/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+        "stream": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDI0IDI6NTozMyBQTSZoYXNoX3ZhbHVlPWNucUgzaHdacGhhZHB5MGtTY1JzRkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01OGVlZjM3OS0wMDlkLTQwY2EtYjIyOS1jNTRjNjEyMDI4Yzc=/"
+    },
+    {
+        "name": "CNN USA",
+        "img": "https://tv-online.vercel.app/logo-cnn.png",
+        "stream": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name": "Combate",
+        "img": "https://tv-online.vercel.app/logo-combate.png",
+        "stream": "https://bdta.pro/3134767531/5CqmEyGNTt/71846.m3u8"
+    },
+    {
+        "name": "Combate",
+        "img": "https://tv-online.vercel.app/logo-combate.png",
+        "stream": "https://brflu.walk-tv.com/5865/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Combate Global",
+        "img": "https://tv-online.vercel.app/combateglobal.png",
+        "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960"
+    },
+    {
+        "name": "CombaTV",
+        "img": "https://tv-online.vercel.app/combatv.png",
+        "stream": "https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8"
+    },
+    {
+        "name": "Cult Classic",
+        "img": "https://tv-online.vercel.app/cultmovie.png",
+        "stream": "https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8"
+    },
+    {
+        "name": "DAZN F1",
+        "img": "https://www.sportcal.com/wp-content/uploads/sites/32/2023/05/main64551cf91667f.jpg",
+        "stream": "https://pe.shortgod.com/temporal/play.php?id=199"
+    },
+    {
+        "name": "DeporTV",
+        "img": "https://th.bing.com/th/id/R.7daf1ba8b346d62a61ad2a26f56608ec?rik=60HjpD%2fmGqtVBg&pid=ImgRaw&r=0",
+        "stream": "https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8"
+    },
+    {
+        "name": "Discovery",
+        "img": "https://tv-online.vercel.app/logo-discovery.png",
+        "stream": "https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8"
+    },
+    {
+        "name": "https://tv-online.vercel.app/Discovery kids",
+        "img": "https://tv-online.vercel.app/logo-discoverykids.png",
+        "stream": "https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8"
+    },
+    {
+        "name": "Dreamworks",
+        "img": "https://tv-online.vercel.app/dreamworks.png",
+        "stream": "https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8"
+    },
+    {
+        "name": "ESPN",
+        "img": "https://tv-online.vercel.app/logo-espn.png",
+        "stream": "https://cdn-3.nxplay.com.br/ESPN/index.m3u8"
+    },
+    {
+        "name": "ESPN 2",
+        "img": "https://tv-online.vercel.app/logo-espn2.png",
+        "stream": "https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8"
+    },
+    {
+        "name": "ESPN 3",
+        "img": "https://tv-online.vercel.app/logo-espn3.png",
+        "stream": "https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8"
+    },
+    {
+        "name": "ESPN 4",
+        "img": "https://tv-online.vercel.app/espn4.png",
+        "stream": "https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8"
+    },
+    {
+        "name": "ESPN MX",
+        "img": "https://th.bing.com/th/id/OIP.27QQQNcRpNK_ZKN1iQZ8ywHaFp?rs=1&pid=ImgDetMain",
+        "stream": "https://pe.shortgod.com/temporal/play.php?id=15"
+    },
+    {
+        "name": "EuroNews",
+        "img": "https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png",
+        "stream": "https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name": "FIFA Plus",
+        "img": "https://tv-online.vercel.app/logo-fifa.png",
+        "stream": "https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1460&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"
+    },
+    {
+        "name": "Fight Network",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDDljlitxqvqs9F5VXhyEINWVddvzHbkGTg&s",
+        "stream": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES"
+    },
+    {
+        "name": "Fox 5",
+        "img": "https://t2.tudocdn.net/354933?w=1200&h=1200",
+        "stream": "https://bozztv.com/dvrfl05/gin-fox5/index.m3u8"
+    },
+    {
+        "name": "Fox News Now",
+        "img": "https://tv-online.vercel.app/logo-foxnow.png",
+        "stream": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Fox Sports MX",
+        "img": "https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc",
+        "stream": "https://pe.shortgod.com/temporal/play.php?id=24"
+    },
+    {
+        "name": "Fox Sports",
+        "img": "https://play-lh.googleusercontent.com/gtXMReEW3IykK5YU--siNJkTLjII8VlzdlpxG38ABN-8akoz64ZJTdxlhxdOjmpsxUc",
+        "stream": "https://pe.shortgod.com/temporal/play.php?id=157"
+    },
+    {
+        "name": "Futebol Live 1",
+        "img": "https://uploads.turbologo.com/uploads/design/preview_image/3154996/preview_image20210803-19139-1q9mt5h.png",
+        "stream": "https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8"
+    },
+    {
+        "name": "Futebol Live 2",
+        "img": "https://uploads.turbologo.com/uploads/design/preview_image/3154996/preview_image20210803-19139-1q9mt5h.png",
+        "stream": "https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8"
+    },
+    {
+        "name": "Futebol Live 3",
+        "img": "https://uploads.turbologo.com/uploads/design/preview_image/3154996/preview_image20210803-19139-1q9mt5h.png",
+        "stream": "https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8"
+    },
+    {
+        "name": "Futebol Live 4",
+        "img": "https://uploads.turbologo.com/uploads/design/preview_image/3154996/preview_image20210803-19139-1q9mt5h.png",
+        "stream": "https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8"
+    },
+    {
+        "name": "Futebol Live 5",
+        "img": "https://uploads.turbologo.com/uploads/design/preview_image/3154996/preview_image20210803-19139-1q9mt5h.png",
+        "stream": "https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8"
+    },
+    {
+        "name": "FX",
+        "img": "https://tv-online.vercel.app/logo-fx.png",
+        "stream": "https://brflu.walk-tv.com/5855/index.m3u8"
+    },
+    {
+        "name": "Globo",
+        "img": "https://tv-online.vercel.app/logo-globo.png",
+        "stream": "https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Globo SP",
+        "img": "https://tv-online.vercel.app/logo-globo.png",
+        "stream": "https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8"
+    },
+    {
+        "name": "Globo News",
+        "img": "https://tv-online.vercel.app/globonews.png",
+        "stream": "https://cdn-3.nxplay.com.br/GLOBO_NEWS_TK/index.m3u8"
+    },
+    {
+        "name": "Hallo Anime",
+        "img": "https://tv-online.vercel.app/halloanime.png",
+        "stream": "https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8"
+    },
+    {
+        "name": "Hallo Series",
+        "img": "https://tv-online.vercel.app/hallodoc.png",
+        "stream": "https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8"
+    },
+    {
+        "name": "Hallo Movies",
+        "img": "https://tv-online.vercel.app/hallomovie.png",
+        "stream": "https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni"
+    },
+    {
+        "name": "HBO",
+        "img": "https://tv-online.vercel.app/logo-hbo.png",
+        "stream": "https://brflu.walk-tv.com/5891/index.m3u8"
+    },
+    {
+        "name": "HBO2",
+        "img": "https://tv-online.vercel.app/logo-hbo2.png",
+        "stream": "https://brflu.walk-tv.com/5857/index.m3u8"
+    },
+    {
+        "name": "HBO X",
+        "img": "https://tv-online.vercel.app/hbox.png",
+        "stream": "https://watch.vcdn.in/hboxtreme/index.m3u8"
+    },
+    {
+        "name": "History",
+        "img": "https://tv-online.vercel.app/logo-history.png",
+        "stream": "https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8"
+    },
+    {
+        "name": "History 2",
+        "img": "https://th.bing.com/th/id/OIP.vu_R75k_pHEk3oQX04M6XwAAAA?w=384&h=216&rs=1&pid=ImgDetMain",
+        "stream": "https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8"
+    },
+    {
+        "name": "Inter TV",
+        "img": "https://tv-online.vercel.app/inter.png",
+        "stream": "https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8"
+    },
+    {
+        "name": "Kiss TV",
+        "img": "https://tv-online.vercel.app/logo-kiss.png",
+        "stream": "https://isaocorp.cloudecast.com/kisstv/index.m3u8"
+    },
+    {
+        "name": "La Liga",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-zc2pT2K5AguAGr8FZHBDZvZTjj1fLeBow&s",
+        "stream": "https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8"
+    },
+    {
+        "name": "Lazio TV",
+        "img": "https://tv-online.vercel.app/lazio.png",
+        "stream": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
+    },
+    {
+        "name": "Lone Star",
+        "img": "https://tv-online.vercel.app/logo-lonestar.png",
+        "stream": "https://lonestar-rakuten.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Man Utd TV",
+        "img": "https://tv-online.vercel.app/manutd.png",
+        "stream": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+    },
+    {
+        "name": "Megapix",
+        "img": "https://tv-online.vercel.app/logo-megapix.png",
+        "stream": "https://brflu.walk-tv.com/5897/index.m3u8"
+    },
+    {
+        "name": "MTV",
+        "img": "https://tv-online.vercel.app/mtv.png",
+        "stream": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8"
+    },
+    {
+        "name": "Multishow",
+        "img": "https://tv-online.vercel.app/multishow.png",
+        "stream": "https://brflu.walk-tv.com/5822/index.m3u8"
+    },
+    {
+        "name": "My Time",
+        "img": "https://tv-online.vercel.app/logo-mytime.png",
+        "stream": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Nickelodeon",
+        "img": "https://www.meioemensagem.com.br/wp-content/uploads/2023/09/Nickelodeon-identidade-marca-div.jpg",
+        "stream": "https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8"
+    },
+    {
+        "name": "Otaku Sign TV",
+        "img": "https://tv-online.vercel.app/otaku.png",
+        "stream": "https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8"
+    },
+    {
+        "name": "Outdoor Sports",
+        "img": "https://bassanglermag.com/wp-content/uploads/Outdoor-Channel.png",
+        "stream": "https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name": "Paramount",
+        "img": "https://tv-online.vercel.app/paramount.png",
+        "stream": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8"
+    },
+    {
+        "name": "Premiere",
+        "img": "https://tv-online.vercel.app/logo-premiere.png",
+        "stream": "http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8"
+    },
+    {
+        "name": "Premiere",
+        "img": "https://tv-online.vercel.app/logo-premiere.png",
+        "stream": "http://abc.embedmax.site/premiere1-0/index.m3u8"
+    },
+    {
+        "name": "Premiere",
+        "img": "https://tv-online.vercel.app/logo-premiere.png",
+        "stream": "https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Premiere 2",
+        "img": "https://tv-online.vercel.app/logo-premiere2.png",
+        "stream": "https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Premiere 2",
+        "img": "https://tv-online.vercel.app/logo-premiere2.png",
+        "stream": "http://abc.embedmax.site/premiere2-0/index.m3u8"
+    },
+    {
+        "name": "Premiere 3",
+        "img": "https://tv-online.vercel.app/logo-premiere3.png",
+        "stream": "https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Racing America",
+        "img": "https://tv-online.vercel.app/racing.png",
+        "stream": "https://lnc-racing-america.tubi.video/playlist.m3u8"
+    },
+    {
+        "name": "Rakuten TV",
+        "img": "https://tv-online.vercel.app/logo-rakuten.png",
+        "stream": "https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+        "name": "Real Madrid TV",
+        "img": "https://tv-online.vercel.app/realmadrid.png",
+        "stream": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8"
+    },
+    {
+        "name": "Record",
+        "img": "https://tv-online.vercel.app/logo-record.png",
+        "stream": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
+    },
+    {
+        "name": "Red Bull TV",
+        "img": "https://tv-online.vercel.app/redbulltv.png",
+        "stream": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+    },
+    {
+        "name": "Repretel 6",
+        "img": "https://th.bing.com/th/id/OIP.sX1kyv7gbDO5sZjkBbi5fwAAAA?w=218&h=150&rs=1&pid=ImgDetMain",
+        "stream": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "name": "Retrô Cartoon",
+        "img": "https://tv-online.vercel.app/retro.png",
+        "stream": "https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8"
+    },
+    {
+        "name": "Rock TV",
+        "img": "https://th.bing.com/th/id/OIP.r-LwvXaqe_bklWb6ylddVgAAAA?rs=1&pid=ImgDetMain",
+        "stream": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
+    },
+    {
+        "name": "RunTime Movie",
+        "img": "https://th.bing.com/th/id/OIP.E1PO0Ub-RxRR4MwC-oMDHAHaEK?rs=1&pid=ImgDetMain",
+        "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153"
+    },
+    {
+        "name": "SBT",
+        "img": "https://tv-online.vercel.app/logo-sbt.png",
+        "stream": "https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8"
+    },
+    {
+        "name": "Sony",
+        "img": "https://tv-online.vercel.app/sony.png",
+        "stream": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-3-main.m3u8"
+    },
+    {
+        "name": "Space",
+        "img": "https://tv-online.vercel.app/logo-space.png",
+        "stream": "https://cdn-2.nxplay.com.br/SPACE_TK/index.m3u8"
+    },
+    {
+        "name": "Sports Connect",
+        "img": "https://tv-online.vercel.app/sportsconnect.png",
+        "stream": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8"
+    },
+    {
+        "name": "Sports TV",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhqfMx8KqHMux8FHHw-PjUh3TQp1nfqAz_g&s",
+        "stream": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
+    },
+    {
+        "name": "SporTV",
+        "img": "https://tv-online.vercel.app/logo-sportv.png",
+        "stream": "https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8"
+    },
+    {
+        "name": "SporTV Alt",
+        "img": "https://tv-online.vercel.app/logo-sportv.png",
+        "stream": "http://45.235.0.78/SPORTV-HD/index.m3u8"
+    },
+    {
+        "name": "SporTV 2",
+        "img": "https://tv-online.vercel.app/logo-sportv2.png",
+        "stream": "https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "SporTV 3",
+        "img": "https://tv-online.vercel.app/sportv3.png",
+        "stream": "https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Sport TV1",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgq-r1pdWt5MCt7uuwDzO09L-FOZdCVeJ-g&s",
+        "stream": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)?CMCD=cid%3D%22798a38380ccf%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220973a203-2dac-4d35-a532-9088d218529c%22%2Csu&CMCD=cid%3D%22798a38380ccf%22%2Cmtp%3D5900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220973a203-2dac-4d35-a532-9088d218529c%22"
+    },
+    {
+        "name": "Sport TV1",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvNULj5wNq2LXv7qDNDyrw4N2jxCdP8swWxg&s",
+        "stream": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE%24SPORTTV2_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)?CMCD=cid%3D%22798a38380ccf%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220973a203-2dac-4d35-a532-9088d218529c%22%2Csu&CMCD=cid%3D%22798a38380ccf%22%2Cmtp%3D5900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220973a203-2dac-4d35-a532-9088d218529c%22&CMCD=cid%3D%22710ff0dd1e84%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22cbd22fbf-583c-48df-8d1e-9550784d8c0b%22%2Csu&CMCD=cid%3D%22710ff0dd1e84%22%2Cmtp%3D3600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22cbd22fbf-583c-48df-8d1e-9550784d8c0b%22"
+    },
+    {
+        "name": "Star",
+        "img": "https://tv-online.vercel.app/logo-star.png",
+        "stream": "https://brflu.walk-tv.com/5889/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "TC Premium",
+        "img": "https://tv-online.vercel.app/logo-tcpremium.png",
+        "stream": "https://brflu.walk-tv.com/5879/index.m3u8"
+    },
+    {
+        "name": "TC Action",
+        "img": "https://tv-online.vercel.app/logo-tcaction.png",
+        "stream": "https://brflu.walk-tv.com/5875/index.m3u8"
+    },
+    {
+        "name": "TC Cult",
+        "img": "https://tv-online.vercel.app/tccult.png",
+        "stream": "https://brflu.walk-tv.com/5899/index.m3u8"
+    },
+    {
+        "name": "TC Fun",
+        "img": "https://tv-online.vercel.app/logo-tcfun.png",
+        "stream": "https://brflu.walk-tv.com/5901/index.m3u8"
+    },
+    {
+        "name": "TC Pipoca",
+        "img": "https://tv-online.vercel.app/tcpipoca.png",
+        "stream": "https://brflu.walk-tv.com/5877/index.m3u8"
+    },
+    {
+        "name": "Tennis Ch",
+        "img": "https://tv-online.vercel.app/tennis.png",
+        "stream": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "TLC",
+        "img": "https://yt3.googleusercontent.com/Ut1p1Jgdg6qKWSs5x8cAki-p4ooiOu5ypZS2w6CqRHbduV1mNsUsNwMAUKrXiYZXsTHM51eE=s900-c-k-c0x00ffffff-no-rj",
+        "stream": "https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8"
+    },
+    {
+        "name": "TNT",
+        "img": "https://tv-online.vercel.app/logo-tnt.png",
+        "stream": "https://cdn-3.nxplay.com.br/TNT/index.m3u8"
+    },
+    {
+        "name": "TNT Series",
+        "img": "https://tv-online.vercel.app/tntseries.png",
+        "stream": "https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8"
+    },
+    {
+        "name": "TRT 1",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbx83bn06FY242eBMOs0PvB49ZmB_UQahdA&s",
+        "stream": "https://d1u68oyra9spme.cloudfront.net/master.m3u8"
+    },
+    {
+        "name": "TUDN TV",
+        "img": "https://mir-s3-cdn-cf.behance.net/projects/404/96616e173813731.Y3JvcCw3NjIsNTk2LDM1LDA.png",
+        "stream": "https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8"
+    },
+    {
+        "name": "TVI PT",
+        "img": "https://www.logotipo.pt/wp-content/uploads/2017/02/tvi.jpg",
+        "stream": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8"
+    },
+    {
+        "name": "TVMAX",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-TOsgmFH-Xx4ejVNmiqjELUH86FdyO8Npw&s",
+        "stream": "https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8"
+    },
+    {
+        "name": "Viva",
+        "img": "https://tv-online.vercel.app/logo-viva.png",
+        "stream": "https://brflu.walk-tv.com/5850/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Warner",
+        "img": "https://tv-online.vercel.app/warner.png",
+        "stream": "https://cdn-3.nxplay.com.br/WARNER_CHANNEL/index.m3u8"
+    },
+    {
+        "name": "Zona TUDN",
+        "img": "https://pbs.twimg.com/profile_images/1790490374240088064/V3eTP4qo_400x400.jpg",
+        "stream": "https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8"
+    },
+    {
+        "name": "BBC Drama",
+        "img": "https://pro2-bar-s3-cdn-cf3.myportfolio.com/9bd7203441d28976235640a73fe482f1/4f0ff9f7-08d9-4a44-8909-ecf24b75ccc7_rw_1920.jpg?h=f1a19c21fc056e80d505c260983be793",
+        "stream": "https://cdn-3.nxplay.com.br/WARNER_CHANNEL/index.m3u8"
+    }
+]

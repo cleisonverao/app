@@ -1,0 +1,1577 @@
+[ 
+    {
+      "titulo": "A Grande Conquista",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/A_Grande_Conquista_2.jpg/230px-A_Grande_Conquista_2.jpg",
+      "url": "https://reidoscanais.eu/embed/?id=agrandeconquista",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "A Grande Conquista 2",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/A_Grande_Conquista_2.jpg/230px-A_Grande_Conquista_2.jpg",
+      "url": "https://reidoscanais.eu/embed/?id=agrandeconquista2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rio de Janeiro (Globo Rio)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globorj-globorio",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rio de Janeiro (InterTV Alto Litoral)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globorj-intertvaltolitoral",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rio de Janeiro (InterTV Serra+Mar)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globorj-intertvserramar",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rio de Janeiro (TV Rio Sul)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globorj-tvriosul",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "São Paulo (Globo São Paulo)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosp-globosaopaulo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "São Paulo (EPTV Central)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosp-eptvcentral",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "São Paulo (TV Diário)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosp-tvdiario",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "São Paulo (TV TEM Itapetininga)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosp-tvtemitapetininga",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "São Paulo (TV Vanguarda S. J. Campos)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosp-tvvanguardasjcampos",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "São Paulo (TV Vanguarda Taubaté)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosp-tvvanguardataubate",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Minas Gerais (Globo Minas)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globomg-globominas",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Minas Gerais (InterTV dos Vales)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globomg-intertvdosvales",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Minas Gerais (TV Integração Araxá)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globomg-tvintegracaoaraxa",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Minas Gerais (TV Integração Juiz de Fora)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globomg-tvintegracaojuizdefora",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Minas Gerais (TV Integração Uberaba)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globomg-tvintegracaouberaba",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Espírito Santo (TV Gazeta Vitória)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globoes-tvgazetavitoria",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rio Grande do Sul (RBS TV Porto Alegre)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globors-rbstvportoalegre",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rio Grande do Sul (RBS TV Caxias do Sul)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globors-rbstvcaxiasdosul",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rio Grande do Sul (RBS TV Santa Cruz)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globors-rbstvsantacruz",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Santa Catarina (NSC TV Florianópolis)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosc-nsctvflorianopolis",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Santa Catarina (NSC TV Chapecó)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosc-nsctvchapeco",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Santa Catarina (NSC TV Joinville)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globosc-nsctvjoinville",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paraná (RPC Curitiba)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globopr-rpccuritiba",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Pernambuco (Globo Nordeste)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globope-globonordeste",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Pernambuco (TV Asa Branca)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globope-tvasabranca",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Bahia (TV Bahia)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globoba-tvbahia",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Bahia (TV Santa Cruz)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globoba-tvsantacruz",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Bahia (TV Sudoeste)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globoba-tvsudoeste",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Ceará (TV Verdes Mares Fortaleza)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globoce-tvverdesmaresfortaleza",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Ceará (TV Verdes Mares Cariri)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globoce-tvverdesmarescariri",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Piauí (TV Clube)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globopi-tvclube",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Maranhão (TV Mirante São Luís)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globoma-tvmirantessaoluis",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rio Grande do Norte (InterTV Cabugi)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globorn-intertvcabugi",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paraíba (TV Cabo Branco)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globopb-tvcabobranco",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Brasília (Globo Brasília)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globodf-globobrasilia",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Goiás (TV Anhanguera Goiânia)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globogo-tvanhangueragoiania",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Amazonas (Rede Amazônica Manaus)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globoam-redeamazonicamanaus",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Pará (TV Liberal Belém)",
+      "categoria": "Globo",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",
+      "url": "https://reidoscanais.eu/embed/?id=globopa-tvliberalbelem",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "SBT",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/tc1ALuu.png",
+      "url": "https://reidoscanais.eu/embed/?id=sbt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Band",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/SOfcdFf.png",
+      "url": "https://reidoscanais.eu/embed/?id=band",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Record SP",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/sz9gTTr.png",
+      "url": "https://reidoscanais.eu/embed/?id=recordsp",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rede TV!",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/ZJgD38F.png",
+      "url": "https://reidoscanais.eu/embed/?id=redetv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Diario",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/6ZNP8gs.png",
+      "url": "https://reidoscanais.eu/embed/?id=tvdiario",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Cultura",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/hcApLfE.png",
+      "url": "https://reidoscanais.eu/embed/?id=tvcultura",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Brasil",
+      "categoria": "Canais Abertos",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/512px-TV_Brasil_logo_2019.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=tvbrasil",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Globo News",
+      "categoria": "Noticias",
+      "img": "https://i.imgur.com/3yZyaCm.png",
+      "url": "https://reidoscanais.eu/embed/?id=globonews",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "CNN Brasil",
+      "categoria": "Noticias",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=cnnbrasil",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Band News",
+      "categoria": "Noticias",
+      "img": "https://i.imgur.com/3YlJsCL.png",
+      "url": "https://reidoscanais.eu/embed/?id=bandnews",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "JP News",
+      "categoria": "Noticias",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=jpnews",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Record News",
+      "categoria": "Noticias",
+      "img": "https://i.imgur.com/HZDRG0K.png",
+      "url": "https://reidoscanais.eu/embed/?id=recordnews",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Max",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Max_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=max",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Max 2",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Max_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=max2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Max 3",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Max_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=max3",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "ESPN",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=espn",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "ESPN 2",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=espn2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "ESPN 3",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=espn3",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "ESPN 4",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=espn4",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "ESPN 5",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=espn5",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "ESPN 6",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=espn6",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sportv",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/eHJ8Vm3.png",
+      "url": "https://reidoscanais.eu/embed/?id=sportv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sportv 2",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/eHJ8Vm3.png",
+      "url": "https://reidoscanais.eu/embed/?id=sportv2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sportv 3",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/eHJ8Vm3.png",
+      "url": "https://reidoscanais.eu/embed/?id=sportv3",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sportv (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/eHJ8Vm3.png",
+      "url": "https://reidoscanais.eu/embed/?id=sportvalternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sportv 2 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/eHJ8Vm3.png",
+      "url": "https://reidoscanais.eu/embed/?id=sportv2alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sportv 3 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/eHJ8Vm3.png",
+      "url": "https://reidoscanais.eu/embed/?id=sportv3alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere Clubes",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiereclubes",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 2",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 3",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere3",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 4",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere4",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 5",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere5",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 6",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere6",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 7",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere7",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 8",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere8",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere Clubes (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiereclubesalternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 2 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere2alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 3 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere3alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 4 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere4alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 5 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere5alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 6 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere6alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 7 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere7alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Premiere 8 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://reidoscanais.eu/embed/?id=premiere8alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount+",
+      "categoria": "Esportes",
+      "img": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountplus",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount+ 2",
+      "categoria": "Esportes",
+      "img": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountplus2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount+ 3",
+      "categoria": "Esportes",
+      "img": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountplus3",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount+ 4",
+      "categoria": "Esportes",
+      "img": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountplus4",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount+ (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountplusalternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount+ 2 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountplus2alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount+ 3 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountplus3alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount+ 4 (Alternativo)",
+      "categoria": "Esportes",
+      "img": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountplus4alternativo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Combate",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/ZPYK5jr.png",
+      "url": "https://reidoscanais.eu/embed/?id=combate",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "UFC Fight Pass",
+      "categoria": "Esportes",
+      "img": "https://raichu-uploads.s3.amazonaws.com/logo_ufc-fight-pass_J5LrAt.png",
+      "url": "https://reidoscanais.eu/embed/?id=ufcfightpass",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Fox Sports 2",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/VbPBoYF.png",
+      "url": "https://reidoscanais.eu/embed/?id=foxsports2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Band Sports",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/EuPvzJe.png",
+      "url": "https://reidoscanais.eu/embed/?id=bandsports",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Nosso Futebol",
+      "categoria": "Esportes",
+      "img": "https://i.pinimg.com/originals/fe/1a/e9/fe1ae9abc45d5d2c7f6cf83e0c76ac7b.webp",
+      "url": "https://reidoscanais.eu/embed/?id=nossofutebol",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TNT Sports",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/XA3zxEE.png",
+      "url": "https://reidoscanais.eu/embed/?id=tntsports",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Telecine Premium",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/uVFgIr8.png",
+      "url": "https://reidoscanais.eu/embed/?id=telecinepremium",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Telecine Pipoca",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/hW9JYXr.png",
+      "url": "https://reidoscanais.eu/embed/?id=telecinepipoca",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Telecine Action",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/BHYWG0h.png",
+      "url": "https://reidoscanais.eu/embed/?id=telecineaction",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Telecine Touch",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/Nky0hRo.png",
+      "url": "https://reidoscanais.eu/embed/?id=telecinetouch",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Telecine Fun",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/MO2Ynki.png",
+      "url": "https://reidoscanais.eu/embed/?id=telecinefun",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Telecine Cult",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/6GuHXnr.png",
+      "url": "https://reidoscanais.eu/embed/?id=telecinecult",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "HBO",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=hbo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "HBO 2",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=hbo2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "HBO Plus",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=hboplus",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "HBO Family",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=hbofamily",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "HBO Signature",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=hbosignature",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "HBO Xtreme",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=hboxtreme",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Discovery Channel",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=discoverychannel",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Discovery World",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/Yb3oUls.png",
+      "url": "https://reidoscanais.eu/embed/?id=discoveryworld",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Discovery Turbo",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/WuOhLl4.png",
+      "url": "https://reidoscanais.eu/embed/?id=discoveryturbo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Discovery ID",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=discoveryid",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Discovery Kids",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/C0VEHXU.png",
+      "url": "https://reidoscanais.eu/embed/?id=discoverykids",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Discovery H&H",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png",
+      "url": "https://reidoscanais.eu/embed/?id=discoveryheh",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Discovery Theater",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/T07gvEb.png",
+      "url": "https://reidoscanais.eu/embed/?id=discoverytheater",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Discovery Science",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png",
+      "url": "https://reidoscanais.eu/embed/?id=discoveryscience",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Comedy Central",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=comedycentral",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "MTV",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=mtv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "MTV Live",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/3UByLqb.png",
+      "url": "https://reidoscanais.eu/embed/?id=mtvlive",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Nick Jr",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=nickjr",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Lifetime",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=lifetime",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Agro+",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/sFcOZeo.png",
+      "url": "https://reidoscanais.eu/embed/?id=agromais",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Arte1",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/Ivnk7A6.png",
+      "url": "https://reidoscanais.eu/embed/?id=arte1",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Terra Viva",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/wnYsE3O.png",
+      "url": "https://reidoscanais.eu/embed/?id=terraviva",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "AMC",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=amc",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "AXN",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=axn",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "BIS",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/VUt1lmH.png",
+      "url": "https://reidoscanais.eu/embed/?id=bis",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Canal Brasil",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png",
+      "url": "https://reidoscanais.eu/embed/?id=canalbrasil",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "E!",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=e",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "FX",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=fx",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Gloob",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/N1BUULh.png",
+      "url": "https://reidoscanais.eu/embed/?id=gloob",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Gloobinho",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/UWkHErt.png",
+      "url": "https://reidoscanais.eu/embed/?id=gloobinho",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "GNT",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/XymcvMy.png",
+      "url": "https://reidoscanais.eu/embed/?id=gnt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "History",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=history",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "History 2",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=history2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Megapix",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/qTYv5jt.png",
+      "url": "https://reidoscanais.eu/embed/?id=megapix",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Modo Viagem",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg",
+      "url": "https://reidoscanais.eu/embed/?id=modoviagem",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Multishow",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/bqVg8nT.png",
+      "url": "https://reidoscanais.eu/embed/?id=multishow",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Canal Off",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/1biaLgJ.png",
+      "url": "https://reidoscanais.eu/embed/?id=canaloff",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Studio Universal",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png",
+      "url": "https://reidoscanais.eu/embed/?id=studiouniversal",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "SyFy",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/4fMWhUE.png",
+      "url": "https://reidoscanais.eu/embed/?id=syfy",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Universal TV",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/Jt0B1Ac.png",
+      "url": "https://reidoscanais.eu/embed/?id=universaltv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Cinemax",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=cinemax",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Cinecanal",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png",
+      "url": "https://reidoscanais.eu/embed/?id=cinecanal",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Paramount Network",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=paramountnetwork",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Animal Planet",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=animalplanet",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Cartoon Network",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=cartoonnetwork",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Disney Channel",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=disneychannel",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "National Geographic",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=nationalgeographic",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Nickelodeon",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=nickelodeon",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sony Channel",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",
+      "url": "https://reidoscanais.eu/embed/?id=sonychannel",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sony Movies",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=sonymovies",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Space",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=space",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Star Channel",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=starchannel",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Food Network",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/6l7us9Y.png",
+      "url": "https://reidoscanais.eu/embed/?id=foodnetwork",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Warner TV",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png",
+      "url": "https://reidoscanais.eu/embed/?id=warnertv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TruTV",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=trutv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TLC",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=tlc",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Viva",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/512px-Canal_Viva_2018_wordmark.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=viva",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "A&E",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=aee",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TNT",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=tnt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Eleven 1 Portugal",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/STN37zd.png",
+      "url": "https://reidoscanais.eu/embed/?id=elevensports_pt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Eleven 2 Portugal",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/bGRgFwo.png",
+      "url": "https://reidoscanais.eu/embed/?id=elevensports2_pt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Eleven 3 Portugal",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/lrcWrFs.png",
+      "url": "https://reidoscanais.eu/embed/?id=elevensports3_pt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Eleven 4 Portugal",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/OUGHmuH.png",
+      "url": "https://reidoscanais.eu/embed/?id=elevensports4_pt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Eleven 5 Portugal",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/rw8Qr1l.png",
+      "url": "https://reidoscanais.eu/embed/?id=elevensports5_pt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Eleven 6 Portugal",
+      "categoria": "Esportes",
+      "img": "https://i.imgur.com/0dAM5uT.png",
+      "url": "https://reidoscanais.eu/embed/?id=elevensports6_pt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Empreender",
+      "categoria": "Entretenimento",
+      "img": "https://i.ibb.co/2nVmDJC/transferir.png",
+      "url": "https://reidoscanais.eu/embed/?id=empreender",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sabor & Arte",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png",
+      "url": "https://reidoscanais.eu/embed/?id=saborearte",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Aparecida",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",
+      "url": "https://reidoscanais.eu/embed/?id=aparecida",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rá-Tim-Bum",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",
+      "url": "https://reidoscanais.eu/embed/?id=ratimbum",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TNT Novelas",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",
+      "url": "https://reidoscanais.eu/embed/?id=tntnovelas",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Fish TV",
+      "categoria": "Entretenimento",
+      "img": "https://bravi.tv/wp-content/uploads/2019/09/Logo-Fish-TV-versao-mono-principal-1-1-768x219.png",
+      "url": "https://reidoscanais.eu/embed/?id=fishtv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": " Cartoonito",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=cartoonito",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Fashion TV",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/cZWKyuM.png",
+      "url": "https://reidoscanais.eu/embed/?id=fashiontv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Curta!",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/Rwrh0zU.png",
+      "url": "https://reidoscanais.eu/embed/?id=curta",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "HGTV",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=hgtv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "WooHoo",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/me622pa.png",
+      "url": "https://reidoscanais.eu/embed/?id=woohoo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "ZooMoo",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/ciTJrnl.png",
+      "url": "https://reidoscanais.eu/embed/?id=zoomoo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Music Box Brazil",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/CDPCF2X.png",
+      "url": "https://reidoscanais.eu/embed/?id=musicboxbrasil",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "MTV 00s",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",
+      "url": "https://reidoscanais.eu/embed/?id=mtvs_00",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": " Film & Arts Brazil",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/2kHUsl7.png",
+      "url": "https://reidoscanais.eu/embed/?id=filmearts",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Box Brazil",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/BMqSDNn.png",
+      "url": "https://reidoscanais.eu/embed/?id=primeboxbrazil",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "CNN International",
+      "categoria": "Noticias",
+      "img": "https://i.imgur.com/05S3yYZ.png",
+      "url": "https://reidoscanais.eu/embed/?id=cnninternational",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Gazeta",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/0sksWse.png",
+      "url": "https://reidoscanais.eu/embed/?id=gazeta",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rede Gospel",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/mttSwgO.png",
+      "url": "https://reidoscanais.eu/embed/?id=redegospel",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Senado",
+      "categoria": "Noticias",
+      "img": "https://i.imgur.com/duy6waL.png",
+      "url": "https://reidoscanais.eu/embed/?id=tvsenado",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Camara",
+      "categoria": "Noticias",
+      "img": "https://i.imgur.com/Sdou1Ab.png",
+      "url": "https://reidoscanais.eu/embed/?id=tvcamara",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Brasil Paralelo",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/d/d6/Logo_BPL.png",
+      "url": "https://reidoscanais.eu/embed/?id=brasilparalelo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Futura",
+      "categoria": "Canais Abertos",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png",
+      "url": "https://reidoscanais.eu/embed/?id=futura",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Canal do Boi",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/pVM5MhS.png",
+      "url": "https://reidoscanais.eu/embed/?id=canaldoboi",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": " AgroBrasil TV",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/aNkP7Zd.png",
+      "url": "https://reidoscanais.eu/embed/?id=agrobrasil",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Canal Rural",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/exdDHml.png",
+      "url": "https://reidoscanais.eu/embed/?id=novotempo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Rede Vida",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/mP1qfp2.png",
+      "url": "https://reidoscanais.eu/embed/?id=redevida",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Pai Eterno",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/iuoXchN.png",
+      "url": "https://reidoscanais.eu/embed/?id=tvpaieterno",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Evangelizar",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/IrYR7Kp.png",
+      "url": "https://reidoscanais.eu/embed/?id=tvevangelizar",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TV Cancao Nova",
+      "categoria": "Canais Abertos",
+      "img": "https://i.imgur.com/OaM9hkH.png",
+      "url": "https://reidoscanais.eu/embed/?id=cancaonova",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "USA",
+      "categoria": "Entretenimento",
+      "img": "https://canalusa.com.br/img/logorojo.png",
+      "url": "https://reidoscanais.eu/embed/?id=usa",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Adult Swim",
+      "categoria": "Entretenimento",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png",
+      "url": "https://reidoscanais.eu/embed/?id=adultswim",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "TCM",
+      "categoria": "Entretenimento",
+      "img": "https://i.imgur.com/UUxM3yD.png",
+      "url": "https://reidoscanais.eu/embed/?id=tcm",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Playboy TV",
+      "categoria": "Adulto",
+      "img": "https://i.imgur.com/5di4Nis.png",
+      "url": "https://reidoscanais.eu/embed/?id=playboy",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sex Prive",
+      "categoria": "Adulto",
+      "img": "https://i.imgur.com/irp3iLP.png",
+      "url": "https://reidoscanais.eu/embed/?id=sexprive",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sextreme",
+      "categoria": "Adulto",
+      "img": "https://i.imgur.com/jWsW2Rd.png",
+      "url": "https://reidoscanais.eu/embed/?id=sextreme",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sexy Hot",
+      "categoria": "Adulto",
+      "img": "https://i.imgur.com/Fs8xVoY.png",
+      "url": "https://reidoscanais.eu/embed/?id=sexyhot",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Venus",
+      "categoria": "Adulto",
+      "img": "https://i.imgur.com/4LFXPMk.png",
+      "url": "https://reidoscanais.eu/embed/?id=venus",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sport TV PT",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_SportTV.svg",
+      "url": "https://reidoscanais.eu/embed/?id=sporttvpt",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sport TV PT 2",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_SportTV.svg",
+      "url": "https://reidoscanais.eu/embed/?id=sporttvpt2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sport TV PT 3",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_SportTV.svg",
+      "url": "https://reidoscanais.eu/embed/?id=sporttvpt3",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sport TV PT 4",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_SportTV.svg",
+      "url": "https://reidoscanais.eu/embed/?id=sporttvpt4",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sport TV PT 5",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_SportTV.svg",
+      "url": "https://reidoscanais.eu/embed/?id=sporttvpt5",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Sport TV PT 6",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_SportTV.svg",
+      "url": "https://reidoscanais.eu/embed/?id=sporttvpt6",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Video",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=primevideo",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Video 2",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=primevideo2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Video 3",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=primevideo3",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Video 4",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=primevideo4",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Video 5",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=primevideo5",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Video 6",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=primevideo6",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Video 7",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=primevideo7",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Prime Video 8",
+      "categoria": "Esportes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=primevideo8",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "CazéTV",
+      "categoria": "Esportes",
+      "img": "https://i.ibb.co/JcnN7Xj/Perfil-casimito.webp",
+      "url": "https://reidoscanais.eu/embed/?id=cazetv",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "CazéTV 2",
+      "categoria": "Esportes",
+      "img": "https://i.ibb.co/JcnN7Xj/Perfil-casimito.webp",
+      "url": "https://reidoscanais.eu/embed/?id=cazetv2",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "CazéTV 3",
+      "categoria": "Esportes",
+      "img": "https://i.ibb.co/JcnN7Xj/Perfil-casimito.webp",
+      "url": "https://reidoscanais.eu/embed/?id=cazetv3",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Melhor do OnlyFans",
+      "categoria": "Adulto",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cc/OnlyFans_logo.svg",
+      "url": "https://reidoscanais.eu/embed/?id=onlyfans",
+      "epg": "https://www.meuguia.tv/"
+    },
+    {
+      "titulo": "Melhor do Privacy",
+      "categoria": "Adulto",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sejaprivacy.svg",
+      "url": "https://reidoscanais.eu/embed/?id=privacy",
+      "epg": "https://www.meuguia.tv/"
+    }
+  ]

@@ -1,0 +1,407 @@
+[ 
+    {
+        "id": 2653,
+        "title": "Attack on Titan",
+        "date": "2024-03-09 14:48:14",
+        "embed": 1429,
+        "image": "https://image.tmdb.org/t/p/w300/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/1429"
+    },
+    {
+        "id": 2647,
+        "title": "Classroom of the Elite",
+        "date": "2024-03-03 00:30:58",
+        "embed": 72517,
+        "image": "https://image.tmdb.org/t/p/w300/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/72517"
+    },
+    {
+        "id": 2646,
+        "title": "Turma do Barulho",
+        "date": "2024-03-02 23:04:52",
+        "embed": 154524,
+        "image": "https://image.tmdb.org/t/p/w300/g1DgfhkneXTRzJH38POYm4Es3gQ.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/154524"
+    },
+    {
+        "id": 2645,
+        "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+        "date": "2024-03-02 22:48:35",
+        "embed": 236144,
+        "image": "https://image.tmdb.org/t/p/w300/zN6kspmbYSwR8nmNeKvD4efNnxj.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/236144"
+    },
+    {
+        "id": 2644,
+        "title": "High School of the Dead",
+        "date": "2024-03-02 20:53:42",
+        "embed": 56998,
+        "image": "https://image.tmdb.org/t/p/w300/ivWNDYPxDMjc82ajeSPuyq70hu9.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/56998"
+    },
+    {
+        "id": 2642,
+        "title": "Frieren e a Jornada para o Além",
+        "date": "2024-03-02 15:07:07",
+        "embed": 209867,
+        "image": "https://image.tmdb.org/t/p/w300/c0y8ScAJnSs5xMZ9b1lm2k9gSwz.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/209867"
+    },
+    {
+        "id": 2638,
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "date": "2024-02-29 03:48:04",
+        "embed": 85937,
+        "image": "https://image.tmdb.org/t/p/w300/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/85937"
+    },
+    {
+        "id": 2628,
+        "title": "Os Sete Pecados Capitais - Nanatsu No Taizai",
+        "date": "2024-02-23 21:00:44",
+        "embed": 62104,
+        "image": "https://image.tmdb.org/t/p/w300/nC74XDzNd2F7hH8q0XqyZfzLV5D.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/62104"
+    },
+    {
+        "id": 2627,
+        "title": "Jigokuraku",
+        "date": "2024-02-23 01:33:38",
+        "embed": 117465,
+        "image": "https://image.tmdb.org/t/p/w300/vjiIuR3XGpoGSumQ7DziPAmxIYR.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/117465"
+    },
+    {
+        "id": 2626,
+        "title": "Yofukashi no Uta",
+        "date": "2024-02-23 00:03:20",
+        "embed": 138357,
+        "image": "https://image.tmdb.org/t/p/w300/veh7M4ho0vgqkW0n0hx1Up42elV.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/138357"
+    },
+    {
+        "id": 2625,
+        "title": "Tsuki ga Michibiku Isekai Douchuu",
+        "date": "2024-02-22 23:30:10",
+        "embed": 111819,
+        "image": "https://image.tmdb.org/t/p/w300/ciPDoPMqd3icCBHsIlhIb3UyOd2.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/111819"
+    },
+    {
+        "id": 2624,
+        "title": "Shaman King: Flowers",
+        "date": "2024-02-22 23:25:08",
+        "embed": 232865,
+        "image": "https://image.tmdb.org/t/p/w300/eD0eKzDkdvoThLvqaS0Z7RGtC8L.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/232865"
+    },
+    {
+        "id": 2623,
+        "title": "Oroka na Tenshi wa Akuma to Odoru",
+        "date": "2024-02-22 23:22:15",
+        "embed": 231357,
+        "image": "https://image.tmdb.org/t/p/w300/48dmF9JLqB5YRwAFcpfnRSM2l5K.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/231357"
+    },
+    {
+        "id": 2622,
+        "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+        "date": "2024-02-22 23:15:32",
+        "embed": 218843,
+        "image": "https://image.tmdb.org/t/p/w300/4msN2f5WeKVldbdxSymdndWTOmr.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/218843"
+    },
+    {
+        "id": 2621,
+        "title": "Ishura",
+        "date": "2024-02-22 23:09:42",
+        "embed": 220286,
+        "image": "https://image.tmdb.org/t/p/w300/4QJjj63L1pfhiF9rSRAVbwB4lLp.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/220286"
+    },
+    {
+        "id": 2620,
+        "title": "Himesama Goumon no Jikan desu",
+        "date": "2024-02-22 23:05:45",
+        "embed": 229443,
+        "image": "https://image.tmdb.org/t/p/w300/pgN7ezTcwLiZHfMy6DUJ3v851U5.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/229443"
+    },
+    {
+        "id": 2619,
+        "title": "HIGH CARD",
+        "date": "2024-02-22 21:53:38",
+        "embed": 194665,
+        "image": "https://image.tmdb.org/t/p/w300/zLtHqKWqU2vh1tNoHfHAvTWdUQc.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/194665"
+    },
+    {
+        "id": 2618,
+        "title": "Dosanko Gal wa Namara Menkoi",
+        "date": "2024-02-22 20:15:35",
+        "embed": 213181,
+        "image": "https://image.tmdb.org/t/p/w300/vsVhyFhtJ6XBc0FkVQpvqsPjNm7.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/213181"
+    },
+    {
+        "id": 2617,
+        "title": "Detective Conan: Zero no Tea Time",
+        "date": "2024-02-22 19:25:24",
+        "embed": 195053,
+        "image": "https://image.tmdb.org/t/p/w300/AtNw5nXnON4oChajNC521wXQmVl.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/195053"
+    },
+    {
+        "id": 2616,
+        "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+        "date": "2024-02-22 19:23:58",
+        "embed": 222930,
+        "image": "https://image.tmdb.org/t/p/w300/m3jSoC9aCTI5euALkCTuiGVVIeS.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/222930"
+    },
+    {
+        "id": 2615,
+        "title": "Sengoku Youko",
+        "date": "2024-02-22 19:20:03",
+        "embed": 234995,
+        "image": "https://image.tmdb.org/t/p/w300/1PhAZuk6RG0u5meBkVg9oEFphVt.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/234995"
+    },
+    {
+        "id": 2614,
+        "title": "Metallic Rouge",
+        "date": "2024-02-22 19:18:05",
+        "embed": 222787,
+        "image": "https://image.tmdb.org/t/p/w300/wlHjte7xC8ZfgAMxUKxLL77ejyC.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/222787"
+    },
+    {
+        "id": 2613,
+        "title": "Mahou Shoujo ni Akogarete",
+        "date": "2024-02-22 19:15:44",
+        "embed": 236338,
+        "image": "https://image.tmdb.org/t/p/w300/dvIguIZqqQKCt7YiKq7evfk5NW3.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/236338"
+    },
+    {
+        "id": 2612,
+        "title": "Jaku-Chara Tomozaki-kun",
+        "date": "2024-02-22 17:03:56",
+        "embed": 99083,
+        "image": "https://image.tmdb.org/t/p/w300/xWhkbeNtpdvtmLkknzjbLoBghrA.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/99083"
+    },
+    {
+        "id": 2611,
+        "title": "Gekai Elise",
+        "date": "2024-02-22 16:54:35",
+        "embed": 221310,
+        "image": "https://image.tmdb.org/t/p/w300/htJef5Rp7z1vMEuCV3SRdVIHr2x.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/221310"
+    },
+    {
+        "id": 2609,
+        "title": "Death Note",
+        "date": "2024-02-21 21:07:17",
+        "embed": 13916,
+        "image": "https://image.tmdb.org/t/p/w300/mOlEbXcb6ufRJKogI35KqsSlCfB.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/13916"
+    },
+    {
+        "id": 2606,
+        "title": "The Boys Apresenta: Diabólicos",
+        "date": "2024-02-20 18:02:10",
+        "embed": 152483,
+        "image": "https://image.tmdb.org/t/p/w300/7bsHAsS1RDtslictkApeb7cedLL.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/152483"
+    },
+    {
+        "id": 2594,
+        "title": "Diários de uma Apotecária (Kusuriya no Hitorigoto)",
+        "date": "2024-02-18 02:39:54",
+        "embed": 220542,
+        "image": "https://image.tmdb.org/t/p/w300/ASAtJGXmOE99YoAH0ZkF8rBNrF.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/220542"
+    },
+    {
+        "id": 2593,
+        "title": "The Strongest Tank s Labyrinth Raids",
+        "date": "2024-02-18 01:08:55",
+        "embed": 236532,
+        "image": "https://image.tmdb.org/t/p/w300/4m9xXDHAjIPw0Wia4wuj7ZAuegJ.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/236532"
+    },
+    {
+        "id": 2592,
+        "title": "Sakura Quest",
+        "date": "2024-02-18 00:07:46",
+        "embed": 71013,
+        "image": "https://image.tmdb.org/t/p/w300/i6WaWU24du7OfBDXDSUp6Sp7QgO.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/71013"
+    },
+    {
+        "id": 2590,
+        "title": "Nozomanu Fushi no Boukensha",
+        "date": "2024-02-17 03:34:50",
+        "embed": 197848,
+        "image": "https://image.tmdb.org/t/p/w300/eYfyC5foNQVxi0dosgwUl8obHLg.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/197848"
+    },
+    {
+        "id": 2589,
+        "title": "Chiyu Mahou no Machigatta Tsukaikata",
+        "date": "2024-02-17 02:51:15",
+        "embed": 131365,
+        "image": "https://image.tmdb.org/t/p/w300/1WbGhlLj1z6PC6Vrz5baouodURB.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/131365"
+    },
+    {
+        "id": 2588,
+        "title": "Solo Leveling",
+        "date": "2024-02-16 22:45:52",
+        "embed": 127532,
+        "image": "https://image.tmdb.org/t/p/w300/qEmHC7sV1lj3JHf5xQKshmGcq24.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/127532"
+    },
+    {
+        "id": 2587,
+        "title": "Ninja Kamui",
+        "date": "2024-02-16 18:58:09",
+        "embed": 202284,
+        "image": "https://image.tmdb.org/t/p/w300/3nmDXGCDcHbtP3Rw4vi9RD3cmmX.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/202284"
+    },
+    {
+        "id": 2570,
+        "title": "Mestres do Universo: A Revolução",
+        "date": "2024-02-05 19:30:56",
+        "embed": 234721,
+        "image": "https://image.tmdb.org/t/p/w300/gJd7leBA9VvRefWLYuVFHSBPVoW.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/234721"
+    },
+    {
+        "id": 2510,
+        "title": "Samurai de Olhos Azuis",
+        "date": "2023-11-13 21:24:03",
+        "embed": 225180,
+        "image": "https://image.tmdb.org/t/p/w300/oGkh6ByqaSKXlW6SkIOBXJWvLan.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/225180"
+    },
+    {
+        "id": 2480,
+        "title": "Castlevania: Noturno",
+        "date": "2023-09-29 14:53:33",
+        "embed": 123548,
+        "image": "https://image.tmdb.org/t/p/w300/1swj9HxDkjzsO3yHlSwRA38hMFN.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/123548"
+    },
+    {
+        "id": 2461,
+        "title": "Drag Race Brasil",
+        "date": "2023-08-31 21:05:56",
+        "embed": 216276,
+        "image": "https://image.tmdb.org/t/p/w300/aKkiTk02qh3rN2dNYPG6Kj0sRgP.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/216276"
+    },
+    {
+        "id": 2427,
+        "title": "Hunter x Hunter (1999)",
+        "date": "2023-08-03 18:41:46",
+        "embed": 45952,
+        "image": "https://image.tmdb.org/t/p/w300/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/45952"
+    },
+    {
+        "id": 2410,
+        "title": "She-Ra e as Princesas do Poder",
+        "date": "2023-07-25 22:32:52",
+        "embed": 79732,
+        "image": "https://image.tmdb.org/t/p/w300/z4wDYybbhuKCdYydZnULl7sNQpC.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/79732"
+    },
+    {
+        "id": 2402,
+        "title": "Yu Yu Hakusho (1992)",
+        "date": "2023-07-24 18:24:13",
+        "embed": 30669,
+        "image": "https://www.themoviedb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/30669"
+    },
+    {
+        "id": 2361,
+        "title": "Naruto",
+        "date": "2023-07-04 19:42:46",
+        "embed": 46260,
+        "image": "https://image.tmdb.org/t/p/w300/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/46260"
+    },
+    {
+        "id": 2360,
+        "title": "Arifureta Shokugyou de Sekai Saikyou",
+        "date": "2023-07-04 00:58:49",
+        "embed": 86034,
+        "image": "https://image.tmdb.org/t/p/w300/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/86034"
+    },
+    {
+        "id": 2353,
+        "title": "One Punch Man",
+        "date": "2023-07-01 21:44:14",
+        "embed": 63926,
+        "image": "https://image.tmdb.org/t/p/w300/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/63926"
+    },
+    {
+        "id": 2351,
+        "title": "Dragon Ball Super",
+        "date": "2023-07-01 14:34:30",
+        "embed": 62715,
+        "image": "https://image.tmdb.org/t/p/w300/yJAOi2n0VYBEXdPI1NXv5FiOcBX.jpg",
+        "reports": 0,
+        "preview": "https://embed.embedplayer.site/anime/62715"
+    }
+]
