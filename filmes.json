@@ -1,5 +1,509 @@
 [
   {
+    "id": 15159,
+    "title": "Maria Callas  HD - DUB *",
+    "date": "2024-12-12 18:37:00",
+    "embed": "tt22893404",
+    "image": "https://image.tmdb.org/t/p/w300/bVx8uZv6rEeT0iJAPJkZnxxxVmN.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt22893404"
+  },
+  {
+    "id": 15158,
+    "title": "Missão Antena: Uma Aventura Intergaláctica  HD - DUB *",
+    "date": "2024-12-12 18:35:44",
+    "embed": "tt13387818",
+    "image": "https://image.tmdb.org/t/p/w300/uNk6g6ZkCJtdkbXeyTpLvAG9ANq.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt13387818"
+  },
+  {
+    "id": 15157,
+    "title": "Sugarcane HD - DUB *",
+    "date": "2024-12-12 18:34:43",
+    "embed": "tt30319854",
+    "image": "https://image.tmdb.org/t/p/w300/vOZVZ42bSYYOfGJGTkXGrxDFP4g.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt30319854"
+  },
+  {
+    "id": 15156,
+    "title": "Slime - Uma Aventura Pegajosa  HD - DUB *",
+    "date": "2024-12-12 18:33:53",
+    "embed": "tt11428638",
+    "image": "https://image.tmdb.org/t/p/w300/dhQ24ZgHwFohdZMsX8HoJijuoFt.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt11428638"
+  },
+  {
+    "id": 15155,
+    "title": "Observador HD - DUB *",
+    "date": "2024-12-12 18:33:10",
+    "embed": "tt12004038",
+    "image": "https://image.tmdb.org/t/p/w300/2cQMVHBaP1wK0UBX5SGDahB3lp3.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt12004038"
+  },
+  {
+    "id": 15154,
+    "title": "Seven Cemeteries  HD - DUB - LEG *",
+    "date": "2024-12-12 18:09:20",
+    "embed": "tt15330144",
+    "image": "https://image.tmdb.org/t/p/w300/tDOVQe5RFwd9l8Es7A0EOqzo011.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt15330144"
+  },
+  {
+    "id": 15153,
+    "title": "Our Man In L.A.  HD - DUB - LEG *",
+    "date": "2024-12-12 18:08:10",
+    "embed": "tt18722864",
+    "image": "https://image.tmdb.org/t/p//w300/",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt18722864"
+  },
+  {
+    "id": 15152,
+    "title": "Haunted by Her Name HD - DUB - LEG *",
+    "date": "2024-12-12 18:02:09",
+    "embed": "tt21829344",
+    "image": "https://image.tmdb.org/t/p/w300/gxJF7MNUORNZZc7OOCsUVDmHsQK.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt21829344"
+  },
+  {
+    "id": 15151,
+    "title": "Betrayed by Love HD - DUB - LEG *",
+    "date": "2024-12-12 17:54:51",
+    "embed": "tt33132235",
+    "image": "https://image.tmdb.org/t/p/w300/eFpOEuXwwTv8e1BRMs9pDLj7Bv0.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt33132235"
+  },
+  {
+    "id": 15150,
+    "title": "A Real Pain HD - DUB - LEG *",
+    "date": "2024-12-12 17:50:58",
+    "embed": "tt21823606",
+    "image": "https://image.tmdb.org/t/p/w300/ekrH4ait6NgnRmPZOP4TCXqLrzQ.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt21823606"
+  },
+  {
+    "id": 15149,
+    "title": "Na Trilha do Perigo  HD - DUB *",
+    "date": "2024-12-10 15:57:07",
+    "embed": "tt12180508",
+    "image": "https://image.tmdb.org/t/p/w300/tpZgKe2NrNAjbyuKCSODuPw31ua.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt12180508"
+  },
+  {
+    "id": 15148,
+    "title": "O Homem de Branco HD - DUB *",
+    "date": "2024-12-10 14:12:47",
+    "embed": "tt12742070",
+    "image": "https://image.tmdb.org/t/p/w300/1KnS7wlr6Flqfuim2nBhzNG2sKy.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt12742070"
+  },
+  {
+    "id": 15147,
+    "title": "Marte Um  HD - DUB *",
+    "date": "2024-12-10 14:03:38",
+    "embed": "tt16377816",
+    "image": "https://image.tmdb.org/t/p/w300/mYA6m2kruLxmqAApVcX8uMc0jNJ.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt16377816"
+  },
+  {
+    "id": 15146,
+    "title": "O Carma de um Assassino 2  HD - DUB *",
+    "date": "2024-12-10 14:02:48",
+    "embed": "tt9669176",
+    "image": "https://image.tmdb.org/t/p/w300/4IHdjH7tRr8M54ndfqWOWkUbUyV.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt9669176"
+  },
+  {
+    "id": 15145,
+    "title": "O Carma de Um Assassino HD - DUB *",
+    "date": "2024-12-10 14:01:31",
+    "embed": "tt6237612",
+    "image": "https://image.tmdb.org/t/p/w300/ikSJWKUZEgXYsB1UMAYlNxqzXwT.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt6237612"
+  },
+  {
+    "id": 15144,
+    "title": "O Melhor Espetáculo de Natal de Todos os Tempos HD - DUB *",
+    "date": "2024-12-10 14:00:36",
+    "embed": "tt2347285",
+    "image": "https://image.tmdb.org/t/p/w300/F4RTbMNWsFphGb73I2KhURkua8.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt2347285"
+  },
+  {
+    "id": 15143,
+    "title": "Uma Segunda Chance HD - DUB *",
+    "date": "2024-12-10 13:59:32",
+    "embed": "tt14904720",
+    "image": "https://image.tmdb.org/t/p/w300/gfZ6c2W7oBC2PEzqQrhbeo96vNr.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt14904720"
+  },
+  {
+    "id": 15142,
+    "title": "Desejos Ocultos   HD - DUB *",
+    "date": "2024-12-09 15:09:40",
+    "embed": "tt6547786",
+    "image": "https://image.tmdb.org/t/p/w300/v63dgsTmcgcnh3c10c6Cxy2Y9Ta.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt6547786"
+  },
+  {
+    "id": 15141,
+    "title": "Te Espero no Fim da Jornada  HD - LEG *",
+    "date": "2024-12-09 14:51:43",
+    "embed": "tt31843865",
+    "image": "https://image.tmdb.org/t/p/w300/uTZju1zwQ7KeKe2VbTRIjerhED3.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt31843865"
+  },
+  {
+    "id": 15140,
+    "title": "Theo, além da liberdade HD - DUB *",
+    "date": "2024-12-09 14:51:11",
+    "embed": "tt7778314",
+    "image": "https://image.tmdb.org/t/p/w300/9M3ZGJ8eH32AtZmqF3pOIwcX3Vp.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt7778314"
+  },
+  {
+    "id": 15139,
+    "title": "BoBoiBoy Movie 2 HD - DUB *",
+    "date": "2024-12-09 14:11:42",
+    "embed": "tt10419266",
+    "image": "https://image.tmdb.org/t/p/w300/y8EijsAJLyipw9cbbcMmdkPEGK8.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt10419266"
+  },
+  {
+    "id": 15138,
+    "title": "Izzy Lyon - O Rei do Giro HD - DUB *",
+    "date": "2024-12-09 14:05:42",
+    "embed": "tt6463956",
+    "image": "https://image.tmdb.org/t/p/w300/cJ6FJ8JZyW1D8AhSaJRs4RQUUz.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt6463956"
+  },
+  {
+    "id": 15137,
+    "title": "Na Mira dos Assassinos HD - DUB *",
+    "date": "2024-12-09 14:04:41",
+    "embed": "tt13831544",
+    "image": "https://image.tmdb.org/t/p/w300/AftVaxgPrKh6BdxdqDZ3Pxh9hNP.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt13831544"
+  },
+  {
+    "id": 15136,
+    "title": "Pornô: Sedutora e Fatal HD - DUB *",
+    "date": "2024-12-09 14:03:07",
+    "embed": "tt8485772",
+    "image": "https://image.tmdb.org/t/p/w300/1zgugDjeC24ip242hEETR9CaUar.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt8485772"
+  },
+  {
+    "id": 15135,
+    "title": "Se Fosse Amor HD - DUB *",
+    "date": "2024-12-09 13:58:14",
+    "embed": "tt13361814",
+    "image": "https://image.tmdb.org/t/p/w300/mCrtA3REVQvSwmNf5bIDSQxxdBQ.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt13361814"
+  },
+  {
+    "id": 15134,
+    "title": "Sintonizados no Amor HD - DUB *",
+    "date": "2024-12-09 13:57:12",
+    "embed": "tt13318052",
+    "image": "https://image.tmdb.org/t/p/w300/cIGPPTfxKvoezGB4yxmIqa33ROn.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt13318052"
+  },
+  {
+    "id": 15133,
+    "title": "O Senhor dos Anéis: A Guerra dos Rohirrim HDTS - DUB *",
+    "date": "2024-12-09 13:55:27",
+    "embed": "tt14824600",
+    "image": "https://image.tmdb.org/t/p/w300/4ZXzO32rKk5bSoDZA6KpTzVJA.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt14824600"
+  },
+  {
+    "id": 15132,
+    "title": "Coraline e o Mundo Secreto   HD - DUB *",
+    "date": "2024-12-08 18:29:39",
+    "embed": "tt0327597",
+    "image": "https://image.tmdb.org/t/p/w300/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt0327597"
+  },
+  {
+    "id": 15131,
+    "title": "Sem Risco Aparente HD - DUB *",
+    "date": "2024-12-08 18:26:35",
+    "embed": "tt0292610",
+    "image": "https://image.tmdb.org/t/p/w300/29t7THr2KxAHcCrtd1yxaaNW3g9.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt0292610"
+  },
+  {
+    "id": 15130,
+    "title": "AmnesiA  HD DUB *",
+    "date": "2024-12-08 18:25:28",
+    "embed": "tt0205738",
+    "image": "https://image.tmdb.org/t/p/w300/yCzSA5IBkUbMYIVV6vXIT2bmYIg.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt0205738"
+  },
+  {
+    "id": 15129,
+    "title": "Colateral  HD - DUB *",
+    "date": "2024-12-08 15:41:48",
+    "embed": "tt0369339",
+    "image": "https://image.tmdb.org/t/p/w300/55vfQqilh6KNCxym03v7cMMCTqs.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt0369339"
+  },
+  {
+    "id": 15128,
+    "title": "Fragmentado    HD - DUB *",
+    "date": "2024-12-08 15:40:21",
+    "embed": "tt4972582",
+    "image": "https://image.tmdb.org/t/p/w300/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt4972582"
+  },
+  {
+    "id": 15127,
+    "title": "Juventude Perdida   HD - DUB *",
+    "date": "2024-12-08 15:38:56",
+    "embed": "tt8529772",
+    "image": "https://image.tmdb.org/t/p/w300/mo37GJpkqkEaLkVzYDLIHzTC4Zp.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt8529772"
+  },
+  {
+    "id": 15126,
+    "title": "Oblivion  HD - DUB *",
+    "date": "2024-12-08 15:36:36",
+    "embed": "tt1483013",
+    "image": "https://image.tmdb.org/t/p/w300/A6wFgFFEgymebp518fcsa71jnSu.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt1483013"
+  },
+  {
+    "id": 15125,
+    "title": "Thank You, Next  HD - DUB *",
+    "date": "2024-12-08 15:34:01",
+    "embed": "tt21955024",
+    "image": "https://image.tmdb.org/t/p/w300/39RitehgWDpqs3UBNlH06N8nHEF.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt21955024"
+  },
+  {
+    "id": 15124,
+    "title": "Jogo de Assassinato HD - DUB *",
+    "date": "2024-12-08 15:31:30",
+    "embed": "tt11311754",
+    "image": "https://image.tmdb.org/t/p/w300/3EO8O7t9BI1PiKSGpN1RzEmQdhJ.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt11311754"
+  },
+  {
+    "id": 15123,
+    "title": "Bad Actor  HD - LEG *",
+    "date": "2024-12-07 15:36:38",
+    "embed": "tt32144505",
+    "image": "https://image.tmdb.org/t/p/w300/6xqLFzDUXzVybQnYZktYgLkL592.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt32144505"
+  },
+  {
+    "id": 15122,
+    "title": "EXIBINDO O PERDÃO   HD - DUB - LEG *",
+    "date": "2024-12-07 15:35:34",
+    "embed": "tt28523838",
+    "image": "https://image.tmdb.org/t/p/w300/8nLgHDaOsVCJdqyPtdflqnYPBcH.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt28523838"
+  },
+  {
+    "id": 15121,
+    "title": "Ghosts of Red Ridge HD - DUB *",
+    "date": "2024-12-07 15:34:37",
+    "embed": "tt31040456",
+    "image": "https://image.tmdb.org/t/p/w300/3IrF1QxYEl4GMlzgW7OhgWOld8X.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt31040456"
+  },
+  {
+    "id": 15120,
+    "title": "Guerra Contra o Terror HD - DUB *",
+    "date": "2024-12-07 15:33:48",
+    "embed": "tt21217688",
+    "image": "https://image.tmdb.org/t/p/w300/vmzvUmqqZQHsdfQac34HeASCy6w.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt21217688"
+  },
+  {
+    "id": 15119,
+    "title": "Mistério no Ártico   HD - DUB *",
+    "date": "2024-12-07 15:30:07",
+    "embed": "tt18482470",
+    "image": "https://image.tmdb.org/t/p/w300/xp3FD8TiDuU35kGySvmFtCi6xZy.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt18482470"
+  },
+  {
+    "id": 15118,
+    "title": "Roubo Cibernético: Bilhões em Bitcoins   HD - DUB *",
+    "date": "2024-12-07 15:29:26",
+    "embed": "tt18224682",
+    "image": "https://image.tmdb.org/t/p/w300/dgEl6dpihzhrIQE9JofwMCARNQ8.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt18224682"
+  },
+  {
+    "id": 15117,
+    "title": "A Rede Social HD - DUB *",
+    "date": "2024-12-06 14:49:16",
+    "embed": "tt1285016",
+    "image": "https://image.tmdb.org/t/p/w300/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt1285016"
+  },
+  {
+    "id": 15116,
+    "title": "Acampamento com a Mamãe HD - DUB *",
+    "date": "2024-12-06 13:30:16",
+    "embed": "tt29368988",
+    "image": "https://image.tmdb.org/t/p/w300/5rDvw8ESyywu7ClZz15uDOSnm1h.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt29368988"
+  },
+  {
+    "id": 15115,
+    "title": "Problemista HD - DUB *",
+    "date": "2024-12-06 13:29:08",
+    "embed": "tt15078804",
+    "image": "https://image.tmdb.org/t/p/w300/9qnMdti0Iw5mk1i0EfE19jaEw0s.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt15078804"
+  },
+  {
+    "id": 15114,
+    "title": "Tudo pelo Meu Irmão HD - DUB *",
+    "date": "2024-12-06 13:28:12",
+    "embed": "tt26733317",
+    "image": "https://image.tmdb.org/t/p/w300/rxh0nZxZMZ7jogcCKcMpYZkoq1C.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt26733317"
+  },
+  {
+    "id": 15113,
+    "title": "Uma Surpresa de Natal HD - DUB *",
+    "date": "2024-12-06 13:26:23",
+    "embed": "tt23736528",
+    "image": "https://image.tmdb.org/t/p/w300/A73tcsaqr0Kt71ol9of7hE6AoiI.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt23736528"
+  },
+  {
+    "id": 15112,
+    "title": "Vidro HD - DUB *",
+    "date": "2024-12-06 13:25:24",
+    "embed": "tt6823368",
+    "image": "https://image.tmdb.org/t/p/w300/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt6823368"
+  },
+  {
+    "id": 15111,
+    "title": "Virgem Maria HD - DUB *",
+    "date": "2024-12-06 13:24:25",
+    "embed": "tt32084246",
+    "image": "https://image.tmdb.org/t/p/w300/re0v3aJtHVBJcFKc4EqpND6DdFr.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt32084246"
+  },
+  {
+    "id": 15110,
+    "title": "A Chave do Problema HD - DUB *",
+    "date": "2024-12-05 13:43:51",
+    "embed": "tt15829724",
+    "image": "https://image.tmdb.org/t/p/w300/PFJ2wNS3m5A85CFNPszc3bbDsc.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt15829724"
+  },
+  {
+    "id": 15109,
+    "title": "A Virgem Vermelha HD - DUB *",
+    "date": "2024-12-05 13:40:09",
+    "embed": "tt27599713",
+    "image": "https://image.tmdb.org/t/p/w300/dkZVd7FzDTh8C1bAKioQK6ulRZ4.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt27599713"
+  },
+  {
+    "id": 15108,
+    "title": "Aquele Natal HD - DUB *",
+    "date": "2024-12-05 13:38:47",
+    "embed": "tt14855468",
+    "image": "https://image.tmdb.org/t/p/w300/rWs3Q9bT7zCH6t004z67UGuWUwu.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt14855468"
+  },
+  {
+    "id": 15107,
+    "title": "O Poder Da Oração  HD - DUB *",
+    "date": "2024-12-05 13:37:50",
+    "embed": "tt7242832",
+    "image": "https://image.tmdb.org/t/p/w300/eI4lPP3bekvSng7DEwDRqmUkpok.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt7242832"
+  },
+  {
+    "id": 15106,
+    "title": "O Sol Também é Uma Estrela HD - DUB *",
+    "date": "2024-12-05 13:36:28",
+    "embed": "tt6423362",
+    "image": "https://image.tmdb.org/t/p/w300/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt6423362"
+  },
+  {
+    "id": 15105,
+    "title": "O Trem Italiano da Felicidade HD - DUB *",
+    "date": "2024-12-05 13:35:34",
+    "embed": "tt29242846",
+    "image": "https://image.tmdb.org/t/p/w300/3JDI96OG9aY1cgp6o2BiTwBjp17.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt29242846"
+  },
+  {
+    "id": 15104,
+    "title": "Suaves e Discretas HD - DUB *",
+    "date": "2024-12-05 13:33:00",
+    "embed": "tt14557188",
+    "image": "https://image.tmdb.org/t/p/w300/aAK25IGWGCk33c2rO2eYcek9rIB.jpg",
+    "reports": 0,
+    "preview": "https://embed.embedplayer.site/tt14557188"
+  },
+  {
     "id": 15103,
     "title": "Avalanche do Amor HD - DUB *",
     "date": "2024-12-03 14:04:29",
@@ -217,7 +721,7 @@
   },
   {
     "id": 15078,
-    "title": "Memórias de um Caracol  HD - LEG *",
+    "title": "Memórias de um Caracol HD - DUB - LEG *",
     "date": "2024-12-02 12:38:45",
     "embed": "tt23770030",
     "image": "https://image.tmdb.org/t/p/w300/19U0lKuT3LebdS1ZVn1Mbq04Uw9.jpg",
@@ -1126,7 +1630,7 @@
   },
   {
     "id": 14977,
-    "title": "Depravação HD - LEG *",
+    "title": "Depravação  HD - DUB - LEG *",
     "date": "2024-11-19 13:34:52",
     "embed": "tt1659324",
     "image": "https://image.tmdb.org/t/p/w300/lMZNd7AiVKjA29imjOiTMXPUOeO.jpg",
@@ -1666,7 +2170,7 @@
   },
   {
     "id": 14917,
-    "title": "Gladiador 2 HDTS - DUB*",
+    "title": "Gladiador 2 HD - DUB*",
     "date": "2024-11-12 15:17:41",
     "embed": "tt9218128",
     "image": "https://image.tmdb.org/t/p/w300/8mjYwWT50GkRrrRdyHzJorfEfcl.jpg",
@@ -2602,7 +3106,7 @@
   },
   {
     "id": 14811,
-    "title": "Sem Refúgio  HD - DUB *",
+    "title": "Sem Refúgio HD - DUB - LEG *",
     "date": "2024-11-01 13:45:04",
     "embed": "tt28129054",
     "image": "https://image.tmdb.org/t/p/w300/1aOPPkXASkd2By3EKIw66Ilx5qF.jpg",
@@ -4114,7 +4618,7 @@
   },
   {
     "id": 14643,
-    "title": "Os Horrores do Caddo Lake HD - DUB *",
+    "title": "Os Horrores do Caddo Lake HD - DUB - LEG *",
     "date": "2024-10-10 13:33:50",
     "embed": "tt15552142",
     "image": "https://image.tmdb.org/t/p/w300/vbAIe8DgAfrhkfwK8uiujXQEIoZ.jpg",
@@ -5545,7 +6049,7 @@
   },
   {
     "id": 14484,
-    "title": "Não Solte!   HDTS - DUB - LEG *",
+    "title": "Não Solte!   HD - DUB - LEG *",
     "date": "2024-09-20 23:02:55",
     "embed": "tt14415204",
     "image": "https://image.tmdb.org/t/p/w300/b6DU3kBmicMbpNvvkqf1cHaceMF.jpg",
@@ -25993,7 +26497,7 @@
   },
   {
     "id": 12125,
-    "title": "Captive HD DUB - LEG",
+    "title": "Captive HD DUB - LEG*",
     "date": "2023-11-05 19:55:17",
     "embed": "tt11584674",
     "image": "https://image.tmdb.org/t/p/w300/AdNNDYY8YfsbYGBI8GHTiQiy52n.jpg",
@@ -27424,7 +27928,7 @@
   },
   {
     "id": 11960,
-    "title": "Without Her HD DUB - LEG",
+    "title": "Without Her HD DUB - LEG  *",
     "date": "2023-10-01 21:44:53",
     "embed": "tt17520962",
     "image": "https://image.tmdb.org/t/p/w300/zLlxccmWS4iLuMK35ap1smUSTJE.jpg",
@@ -38331,15 +38835,6 @@
     "preview": "https://embed.embedplayer.site/tt21821424"
   },
   {
-    "id": 10695,
-    "title": "Pornô: Sedutora e Fatal HD DUB *",
-    "date": "2022-12-26 15:11:50",
-    "embed": "tt8485772",
-    "image": "https://image.tmdb.org/t/p/w300/1zgugDjeC24ip242hEETR9CaUar.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt8485772"
-  },
-  {
     "id": 10693,
     "title": "Mergulho HD DUB *",
     "date": "2022-12-26 15:08:55",
@@ -39283,15 +39778,6 @@
     "image": "https://image.tmdb.org/t/p/w300/rvFeNpYimvtEEZgkhiBfXJA5oTf.jpg",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt21199996"
-  },
-  {
-    "id": 10577,
-    "title": "Soft & Quiet HD LEG/DUB",
-    "date": "2022-11-28 18:04:02",
-    "embed": "tt14557188",
-    "image": "https://image.tmdb.org/t/p/w300/aAK25IGWGCk33c2rO2eYcek9rIB.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt14557188"
   },
   {
     "id": 10576,
@@ -40507,15 +40993,6 @@
     "image": "https://image.tmdb.org/t/p/w300/sdrm9MwEvCu9QjGbGFKK8NhZVDP.jpg",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt10805630"
-  },
-  {
-    "id": 10439,
-    "title": "O Carma de um Assassino 2 HD-DUB/LEG *",
-    "date": "2022-11-04 19:37:11",
-    "embed": "tt9669176",
-    "image": "https://image.tmdb.org/t/p/w300/r2tDSD6kcHflPzsGepl8aTPTWxy.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt9669176"
   },
   {
     "id": 10438,
@@ -42568,15 +43045,6 @@
     "image": "https://image.tmdb.org/t/p/w300/aB7lSaNEpRUckaexlrvhGEFgpDf.jpg",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt17527124"
-  },
-  {
-    "id": 10179,
-    "title": "Bullet Proof HD-LEG/DUB",
-    "date": "2022-09-04 19:17:48",
-    "embed": "tt10198564",
-    "image": "https://image.tmdb.org/t/p/w300/5EzpTMkpg3DecNoP2DAOBlh0Fi6.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt10198564"
   },
   {
     "id": 10177,
@@ -45880,15 +46348,6 @@
     "image": "https://image.tmdb.org/t/p/w300/nBHKT3pm5DmidZd5VS4bD5Hc2S3.jpg",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt11703710"
-  },
-  {
-    "id": 9757,
-    "title": "Watcher HD LEG/DUB*",
-    "date": "2022-06-21 22:22:02",
-    "embed": "tt12004038",
-    "image": "https://image.tmdb.org/t/p/w300/tNsT0gtiYOb9qx0xFqvQwKqVvHq.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt12004038"
   },
   {
     "id": 9756,
@@ -49833,15 +50292,6 @@
     "preview": "https://embed.embedplayer.site/tt15711350"
   },
   {
-    "id": 9271,
-    "title": "Ash & Dust *",
-    "date": "2022-03-17 14:06:48",
-    "embed": "tt13831544",
-    "image": "https://image.tmdb.org/t/p/w300/kWyVwvbQfYzEv3sesrDP1M6rcFL.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt13831544"
-  },
-  {
     "id": 9269,
     "title": "One Night Off HD-LEG/DUB",
     "date": "2022-03-17 14:03:38",
@@ -52387,15 +52837,6 @@
     "image": "",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt15653954"
-  },
-  {
-    "id": 8967,
-    "title": "This Game s Called Murder HD-LEG/DUB",
-    "date": "2021-12-25 14:31:00",
-    "embed": "tt11311754",
-    "image": "https://image.tmdb.org/t/p/w300/3EO8O7t9BI1PiKSGpN1RzEmQdhJ.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt11311754"
   },
   {
     "id": 8966,
@@ -67824,15 +68265,6 @@
     "preview": "https://embed.embedplayer.site/tt7403772"
   },
   {
-    "id": 7077,
-    "title": "Desejos Ocultos HD-DUB *",
-    "date": "2020-05-30 15:28:54",
-    "embed": "tt6547786",
-    "image": "https://image.tmdb.org/t/p/w300/qIKjPZ4EvK8mQh4IUHwgLT2Imtc.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt6547786"
-  },
-  {
     "id": 7075,
     "title": "PressÃ¡gio HD-DUB",
     "date": "2020-05-30 15:10:44",
@@ -67867,15 +68299,6 @@
     "image": "https://image.tmdb.org/t/p/w300/ioYtzheqeyVvZE2P1Xw2gFvet4D.jpg",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt3976144"
-  },
-  {
-    "id": 7071,
-    "title": "Um Romance Proibido HD-DUB",
-    "date": "2020-05-29 15:16:23",
-    "embed": "tt3139538",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTYyMzM5NTI2Ml5BMl5BanBnXkFtZTgwODAyNzExNDE@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt3139538"
   },
   {
     "id": 7070,
@@ -79461,15 +79884,6 @@
     "preview": "https://embed.embedplayer.site/tt1606390"
   },
   {
-    "id": 5550,
-    "title": "Oblivion HD-DUB",
-    "date": "2019-09-12 15:00:29",
-    "embed": "tt1483013",
-    "image": "https://image.tmdb.org/t/p/w300/8TE77jL2e4zdERpv8hnBAHUmFRx.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt1483013"
-  },
-  {
     "id": 5549,
     "title": "Sem PerdÃ£o HD-DUB",
     "date": "2019-09-12 14:55:58",
@@ -80863,15 +81277,6 @@
     "image": "https://image.tmdb.org/t/p/w300/88yhHlE7P5P2pWLXFYn2FXN57La.jpg",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt7804254"
-  },
-  {
-    "id": 5373,
-    "title": "Coraline e o Mundo Secreto",
-    "date": "2019-07-10 14:34:00",
-    "embed": "tt0327597",
-    "image": "https://image.tmdb.org/t/p/w300/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt0327597"
   },
   {
     "id": 5372,
@@ -86733,15 +87138,6 @@
     "preview": "https://embed.embedplayer.site/tt1433822"
   },
   {
-    "id": 4595,
-    "title": "Vidro HD-DUB",
-    "date": "2019-01-20 12:36:50",
-    "embed": "tt6823368",
-    "image": "https://image.tmdb.org/t/p/w300/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt6823368"
-  },
-  {
     "id": 4594,
     "title": "FYRE: The Greatest Party That Never Happened LEG",
     "date": "2019-01-20 12:36:11",
@@ -88081,15 +88477,6 @@
     "image": "https://image.tmdb.org/t/p/w300/8NLZtd2n6Ax0mTnk62OHlMcooir.jpg",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt2241351"
-  },
-  {
-    "id": 4407,
-    "title": "Fragmentado",
-    "date": "2018-12-06 19:51:05",
-    "embed": "tt4972582",
-    "image": "https://image.tmdb.org/t/p/w300/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt4972582"
   },
   {
     "id": 4406,
@@ -94111,15 +94498,6 @@
     "image": "https://image.tmdb.org/t/p/w300/1GcgM16djXnnnVc6dXApgg9OfNr.jpg",
     "reports": 0,
     "preview": "https://embed.embedplayer.site/tt7056864"
-  },
-  {
-    "id": 3634,
-    "title": "Colateral",
-    "date": "2018-12-04 13:53:47",
-    "embed": "tt0369339",
-    "image": "https://image.tmdb.org/t/p/w300/luaCdru9mok7iCUGALkKDOVsptd.jpg",
-    "reports": 0,
-    "preview": "https://embed.embedplayer.site/tt0369339"
   },
   {
     "id": 3635,
