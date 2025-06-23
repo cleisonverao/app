@@ -3,5352 +3,2160 @@
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "A&E",
-    "url": "http://185.236.183.117:14002"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "A&E",
-    "url": "http://185.236.183.117:14003"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "A&E",
-    "url": "http://185.236.183.117:14004"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Agro",
-    "name": "AGRO",
-    "url": "http://185.236.183.117:14005"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Agro",
-    "name": "AGRO",
-    "url": "http://185.236.183.117:14006"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Agro",
-    "name": "AGRO",
-    "url": "http://185.236.183.117:14007"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "AMC",
-    "url": "http://185.236.183.117:14008"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "AMC",
-    "url": "http://185.236.183.117:14009"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "AMC",
-    "url": "http://185.236.183.117:14010"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "AMC",
-    "url": "http://185.236.183.117:14011"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "ANIMAL PLANET",
-    "url": "http://185.236.183.117:14012"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "ANIMAL PLANET",
-    "url": "http://185.236.183.117:14013"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "ANIMAL PLANET",
-    "url": "http://185.236.183.117:14014"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "ANIMAL PLANET",
-    "url": "http://185.236.183.117:14015"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "ARTE1",
-    "url": "http://185.236.183.117:14016"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "ARTE1",
-    "url": "http://185.236.183.117:14017"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "ARTE1",
-    "url": "http://185.236.183.117:14018"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "ARTE1",
-    "url": "http://185.236.183.117:14019"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "AXN",
-    "url": "http://185.236.183.117:14020"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "AXN",
-    "url": "http://185.236.183.117:14021"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "AXN",
-    "url": "http://185.236.183.117:14022"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "AXN",
-    "url": "http://185.236.183.117:14023"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14027"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14028"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14029"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14030"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14031"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14032"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14033"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14034"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14035"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14036"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14037"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14038"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
-    "url": "http://185.236.183.117:14039"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "BAND",
+    "group": "",
+    "name": "PARAMOUNT +",
     "url": "http://185.236.183.117:14040"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Notícias",
-    "name": "BAND NEWS",
+    "group": "",
+    "name": "PARAMOUNT +",
     "url": "http://185.236.183.117:14041"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Notícias",
-    "name": "BAND NEWS",
-    "url": "http://185.236.183.117:14042"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "BAND NEWS",
+    "group": "",
+    "name": "PARAMOUNT +",
     "url": "http://185.236.183.117:14043"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Notícias",
-    "name": "BAND NEWS",
-    "url": "http://185.236.183.117:14044"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "BAND SPORTS",
+    "group": "",
+    "name": "PARAMOUNT +",
     "url": "http://185.236.183.117:14045"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "BAND SPORTS",
+    "group": "",
+    "name": "PARAMOUNT +",
     "url": "http://185.236.183.117:14046"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "BAND SPORTS",
+    "group": "",
+    "name": "GLOBO",
     "url": "http://185.236.183.117:14047"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "BAND SPORTS",
-    "url": "http://185.236.183.117:14048"
+    "group": "",
+    "name": "GLOBOPLAY NOVELAS",
+    "url": "http://185.236.183.117:14053"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "BAND SPORTS",
-    "url": "http://185.236.183.117:14050"
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.236.183.117:14055"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN",
-    "url": "http://185.236.183.117:14051"
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.236.183.117:14056"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Música",
-    "name": "BIS",
-    "url": "http://185.236.183.117:14066"
+    "group": "",
+    "name": "CAZE TV",
+    "url": "http://185.236.183.117:14059"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Música",
-    "name": "BIS",
-    "url": "http://185.236.183.117:14067"
+    "group": "",
+    "name": "CAZE TV",
+    "url": "http://185.236.183.117:14061"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Música",
-    "name": "BIS",
+    "group": "",
+    "name": "DAZN",
     "url": "http://185.236.183.117:14068"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "CINEMAX",
-    "url": "http://185.236.183.117:14112"
+    "group": "",
+    "name": "NOSSO FUTEBOL",
+    "url": "http://185.236.183.117:14069"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "CINEMAX",
-    "url": "http://185.236.183.117:14113"
+    "group": "",
+    "name": "NOSSO FUTEBOL",
+    "url": "http://185.236.183.117:14070"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "CINEMAX",
-    "url": "http://185.236.183.117:14114"
+    "group": "",
+    "name": "NOSSO FUTEBOL",
+    "url": "http://185.236.183.117:14071"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "CINEMAX",
-    "url": "http://185.236.183.117:14115"
+    "group": "",
+    "name": "NOSSO FUTEBOL",
+    "url": "http://185.236.183.117:14072"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Notícias",
-    "name": "CNN",
-    "url": "http://185.236.183.117:14121"
+    "group": "",
+    "name": "CURTA!",
+    "url": "http://185.236.183.117:14117"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "COMBATE",
-    "url": "http://185.236.183.117:14122"
+    "group": "",
+    "name": "HBO SIGNATURE",
+    "url": "http://185.236.183.117:14177"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "COMBATE",
-    "url": "http://185.236.183.117:14123"
+    "group": "",
+    "name": "HBO SIGNATURE",
+    "url": "http://185.236.183.117:14178"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "COMBATE",
-    "url": "http://185.236.183.117:14124"
+    "group": "",
+    "name": "HBO SIGNATURE",
+    "url": "http://185.236.183.117:14179"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "COMBATE",
-    "url": "http://185.236.183.117:14125"
+    "group": "",
+    "name": "HBO",
+    "url": "http://185.236.183.117:14186"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "COMEDY CENTRAL",
-    "url": "http://185.236.183.117:14127"
+    "group": "",
+    "name": "RELIGIOSO",
+    "url": "http://185.236.183.117:14226"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "COMEDY CENTRAL",
-    "url": "http://185.236.183.117:14128"
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.236.183.117:14227"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "COMEDY CENTRAL",
-    "url": "http://185.236.183.117:14129"
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.236.183.117:14228"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "COMEDY CENTRAL",
-    "url": "http://185.236.183.117:14130"
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.236.183.117:14229"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Moda",
-    "name": "FASHION TV",
-    "url": "http://185.236.183.117:14197"
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.236.183.117:14230"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Moda",
-    "name": "FASHION TV",
-    "url": "http://185.236.183.117:14198"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Moda",
-    "name": "FASHION TV",
-    "url": "http://185.236.183.117:14199"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Pesca",
-    "name": "FISH TV",
-    "url": "http://185.236.183.117:14204"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Pesca",
-    "name": "FISH TV",
-    "url": "http://185.236.183.117:14205"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Pesca",
-    "name": "FISH TV",
-    "url": "http://185.236.183.117:14206"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Pesca",
-    "name": "FISH TV",
-    "url": "http://185.236.183.117:14207"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Viagem",
-    "name": "MODO VIAGEM",
-    "url": "http://185.236.183.117:14213"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Viagem",
-    "name": "MODO VIAGEM",
-    "url": "http://185.236.183.117:14214"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Viagem",
-    "name": "MODO VIAGEM",
-    "url": "http://185.236.183.117:14224"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "GLOOB",
-    "url": "http://185.236.183.117:14378"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "GLOOB",
-    "url": "http://185.236.183.117:14379"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "GLOOB",
-    "url": "http://185.236.183.117:14380"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "GLOOB",
-    "url": "http://185.236.183.117:14381"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
+    "group": "",
     "name": "GLOBINHO",
-    "url": "http://185.236.183.117:14382"
+    "url": "http://185.236.183.117:14384"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Infantil",
+    "group": "",
     "name": "GLOBINHO",
-    "url": "http://185.236.183.117:14383"
+    "url": "http://185.236.183.117:14385"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "GNT",
-    "url": "http://185.236.183.117:14386"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "GNT",
-    "url": "http://185.236.183.117:14387"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "GNT",
-    "url": "http://185.236.183.117:14388"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "GNT",
-    "url": "http://185.236.183.117:14389"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
+    "group": "",
     "name": "H2",
-    "url": "http://185.236.183.117:14390"
+    "url": "http://185.236.183.117:14391"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Documentários",
+    "group": "",
     "name": "H2",
-    "url": "http://185.236.183.117:14392"
+    "url": "http://185.236.183.117:14393"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
+    "group": "",
+    "name": "HBO",
+    "url": "http://185.236.183.117:14394"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO",
+    "url": "http://185.236.183.117:14395"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO",
+    "url": "http://185.236.183.117:14396"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO",
+    "url": "http://185.236.183.117:14397"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO2",
+    "url": "http://185.236.183.117:14398"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO2",
+    "url": "http://185.236.183.117:14399"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO2",
+    "url": "http://185.236.183.117:14400"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO2",
+    "url": "http://185.236.183.117:14401"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO FAMILY",
+    "url": "http://185.236.183.117:14402"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO FAMILY",
+    "url": "http://185.236.183.117:14403"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO FAMILY",
+    "url": "http://185.236.183.117:14404"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO FAMILY",
+    "url": "http://185.236.183.117:14405"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO +",
+    "url": "http://185.236.183.117:14406"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO +",
+    "url": "http://185.236.183.117:14407"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO +",
+    "url": "http://185.236.183.117:14408"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO +",
+    "url": "http://185.236.183.117:14409"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO MUNDI",
+    "url": "http://185.236.183.117:14410"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO MUNDI",
+    "url": "http://185.236.183.117:14411"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO MUNDI",
+    "url": "http://185.236.183.117:14412"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO MUNDI",
+    "url": "http://185.236.183.117:14413"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO POP",
+    "url": "http://185.236.183.117:14414"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO POP",
+    "url": "http://185.236.183.117:14415"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO SIGNATURE",
+    "url": "http://185.236.183.117:14420"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO SIGNATURE",
+    "url": "http://185.236.183.117:14421"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO XTREME",
+    "url": "http://185.236.183.117:14422"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO XTREME",
+    "url": "http://185.236.183.117:14423"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO XTREME",
+    "url": "http://185.236.183.117:14424"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO XTREME",
+    "url": "http://185.236.183.117:14425"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
     "name": "HGTV",
-    "url": "http://185.236.183.117:14429"
+    "url": "http://15.235.11.7:14144"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "HGTV",
-    "url": "http://185.236.183.117:14430"
+    "group": "",
+    "name": "HISTORY",
+    "url": "http://15.235.11.7:14132"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "HGTV",
-    "url": "http://185.236.183.117:14431"
+    "group": "",
+    "name": "HISTORY",
+    "url": "http://185.236.183.117:14434"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "HGTV",
-    "url": "http://185.236.183.117:14432"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY ID",
-    "url": "http://185.236.183.117:14437"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY ID",
-    "url": "http://185.236.183.117:14438"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY ID",
-    "url": "http://185.236.183.117:14439"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY ID",
-    "url": "http://185.236.183.117:14440"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
+    "group": "",
     "name": "JP NEWS",
-    "url": "http://185.236.183.117:14441"
+    "url": "http://185.236.183.117:14442"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Notícias",
-    "name": "CANAL UOL",
+    "group": "",
+    "name": "JP NEWS",
+    "url": "http://185.236.183.117:14443"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "JP NEWS",
+    "url": "http://185.236.183.117:14444"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "LIFE TIME",
+    "url": "http://185.236.183.117:14445"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "LIFE TIME",
+    "url": "http://185.236.183.117:14446"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "LIFE TIME",
+    "url": "http://185.236.183.117:14447"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "LIFE TIME",
+    "url": "http://185.236.183.117:14448"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MEGAPIX",
+    "url": "http://185.236.183.117:14449"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MEGAPIX",
+    "url": "http://185.236.183.117:14450"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MEGAPIX",
+    "url": "http://185.236.183.117:14451"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MEGAPIX",
+    "url": "http://185.236.183.117:14452"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "E!",
+    "url": "http://15.235.11.7:14151"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV COLORS",
+    "url": "http://15.235.11.7:14149"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV",
+    "url": "http://185.236.183.117:14453"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV",
+    "url": "http://185.236.183.117:14454"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV",
+    "url": "http://185.236.183.117:14455"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV",
+    "url": "http://185.236.183.117:14456"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV HITS",
+    "url": "http://185.236.183.117:14457"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV HITS",
+    "url": "http://185.236.183.117:14458"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV HITS",
     "url": "http://185.236.183.117:14459"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Notícias",
+    "group": "",
+    "name": "MTV HITS",
+    "url": "http://185.236.183.117:14460"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV CHILI",
+    "url": "http://185.236.183.117:14461"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV CHILI",
+    "url": "http://185.236.183.117:14462"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV CHILI",
+    "url": "http://185.236.183.117:14463"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV CHILI",
+    "url": "http://185.236.183.117:14464"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MULTSHOW",
+    "url": "http://15.235.11.7:14146"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MULTSHOW",
+    "url": "http://185.236.183.117:14465"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MULTSHOW",
+    "url": "http://185.236.183.117:14466"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MULTSHOW",
+    "url": "http://185.236.183.117:14467"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MULTSHOW",
+    "url": "http://185.236.183.117:14468"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "BOX MUSIC",
+    "url": "http://185.236.183.117:14469"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "BOX MUSIC",
+    "url": "http://185.236.183.117:14470"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "BOX MUSIC",
+    "url": "http://185.236.183.117:14471"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NHK WORLD",
+    "url": "http://185.236.183.117:14476"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NHK WORLD",
+    "url": "http://185.236.183.117:14477"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NICK JUNIOR",
+    "url": "http://185.236.183.117:14478"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NICK JUNIOR",
+    "url": "http://185.236.183.117:14479"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NICK JUNIOR",
+    "url": "http://185.236.183.117:14480"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NICK JUNIOR",
+    "url": "http://185.236.183.117:14481"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NICKELODEON",
+    "url": "http://185.236.183.117:14482"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NICKELODEON",
+    "url": "http://185.236.183.117:14483"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NICKELODEON",
+    "url": "http://185.236.183.117:14484"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "NICKELODEON",
+    "url": "http://185.236.183.117:14485"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
     "name": "CANAL UOL",
-    "url": "http://185.236.183.117:14489"
+    "url": "http://185.236.183.117:14488"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Notícias",
-    "name": "RECORD NEWS",
-    "url": "http://185.236.183.117:14567"
+    "group": "",
+    "name": "OFF",
+    "url": "http://185.236.183.117:14490"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14568"
+    "group": "",
+    "name": "OFF",
+    "url": "http://185.236.183.117:14492"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14569"
+    "group": "",
+    "name": "OFF",
+    "url": "http://185.236.183.117:14493"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14570"
+    "group": "",
+    "name": "PARAMOUNT NETWORK",
+    "url": "http://185.236.183.117:14495"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14571"
+    "group": "",
+    "name": "PARAMOUNT NETWORK",
+    "url": "http://185.236.183.117:14496"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14574"
+    "group": "",
+    "name": "PARAMOUNT NETWORK",
+    "url": "http://185.236.183.117:14497"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14575"
+    "group": "",
+    "name": "PARAMOUNT NETWORK",
+    "url": "http://185.236.183.117:14498"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14576"
+    "group": "",
+    "name": "PLAY BOY",
+    "url": "http://185.236.183.117:14501"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14577"
+    "group": "",
+    "name": "HBO MUNDI",
+    "url": "http://185.236.183.117:14502"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14578"
+    "group": "",
+    "name": "PLAY BOY",
+    "url": "http://185.236.183.117:14503"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14579"
+    "group": "",
+    "name": "PLAY BOY",
+    "url": "http://185.236.183.117:14504"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14580"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.117:14581"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Internacional",
-    "name": "SIC TV",
-    "url": "http://185.236.183.117:14572"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Internacional",
-    "name": "SIC TV",
-    "url": "http://185.236.183.117:14573"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "CANAL BRASIL",
-    "url": "http://185.236.183.117:14582"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14583"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14584"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14585"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14586"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14591"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14592"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14593"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14594"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14614"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14722"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14723"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14724"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14725"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14734"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14735"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14736"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14738"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Religioso",
-    "name": "RELIGIOSO",
-    "url": "http://185.236.183.117:14739"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "REDE TV",
-    "url": "http://185.236.183.117:14587"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "REDE TV",
-    "url": "http://185.236.183.117:14588"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "REDE TV",
-    "url": "http://185.236.183.117:14589"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "REDE TV",
-    "url": "http://185.236.183.117:14590"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14595"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14596"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14597"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14598"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14599"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14600"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14601"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14602"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14603"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14604"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14605"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14606"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14607"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14608"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14609"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14610"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14611"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14612"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14613"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14615"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14616"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14617"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14618"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14620"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14621"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14622"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14623"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "SBT",
-    "url": "http://185.236.183.117:14624"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "SEXTREME",
-    "url": "http://185.236.183.117:14625"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "SEXTREME",
-    "url": "http://185.236.183.117:14626"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "SEXTREME",
-    "url": "http://185.236.183.117:14627"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "SEXHOT",
-    "url": "http://185.236.183.117:14628"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "SEXHOT",
-    "url": "http://185.236.183.117:14629"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "SEXHOT",
-    "url": "http://185.236.183.117:14630"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "SONY CHANNEL",
-    "url": "http://185.236.183.117:14634"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "SONY CHANNEL",
-    "url": "http://185.236.183.117:14635"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "SONY CHANNEL",
-    "url": "http://185.236.183.117:14636"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "SONY CHANNEL",
-    "url": "http://185.236.183.117:14637"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "SPACE",
-    "url": "http://185.236.183.117:14638"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "SPACE",
-    "url": "http://185.236.183.117:14639"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "SPACE",
-    "url": "http://185.236.183.117:14640"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "SPACE",
-    "url": "http://185.236.183.117:14641"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV",
-    "url": "http://185.236.183.117:14642"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV",
-    "url": "http://185.236.183.117:14643"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV",
-    "url": "http://185.236.183.117:14644"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV",
-    "url": "http://185.236.183.117:14645"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV 2",
-    "url": "http://185.236.183.117:14646"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV 2",
-    "url": "http://185.236.183.117:14647"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV 2",
-    "url": "http://185.236.183.117:14648"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV 2",
-    "url": "http://185.236.183.117:14649"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV 3",
-    "url": "http://185.236.183.117:14650"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV 3",
-    "url": "http://185.236.183.117:14651"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV 3",
-    "url": "http://185.236.183.117:14652"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "SPORTV 3",
-    "url": "http://185.236.183.117:14653"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "STUDIO UNIVERSAL",
-    "url": "http://185.236.183.117:14658"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "STUDIO UNIVERSAL",
-    "url": "http://185.236.183.117:14659"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "STUDIO UNIVERSAL",
-    "url": "http://185.236.183.117:14660"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "STUDIO UNIVERSAL",
-    "url": "http://185.236.183.117:14661"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "USA",
-    "url": "http://185.236.183.117:14662"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "USA",
-    "url": "http://185.236.183.117:14663"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "USA",
-    "url": "http://185.236.183.117:14664"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "USA",
-    "url": "http://185.236.183.117:14665"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Novelas",
-    "name": "TNT NOVELAS",
-    "url": "http://185.236.183.117:14666"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Novelas",
-    "name": "TNT NOVELAS",
-    "url": "http://185.236.183.117:14667"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Novelas",
-    "name": "TNT NOVELAS",
-    "url": "http://185.236.183.117:14668"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Novelas",
-    "name": "TNT NOVELAS",
-    "url": "http://185.236.183.117:14669"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TCM",
-    "url": "http://185.236.183.117:14670"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TCM",
-    "url": "http://185.236.183.117:14671"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TCM",
-    "url": "http://185.236.183.117:14672"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE ACTION",
-    "url": "http://185.236.183.117:14673"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE ACTION",
-    "url": "http://185.236.183.117:14674"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE ACTION",
-    "url": "http://185.236.183.117:14675"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE ACTION",
-    "url": "http://185.236.183.117:14676"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE FUN",
-    "url": "http://185.236.183.117:14677"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE FUN",
-    "url": "http://185.236.183.117:14678"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE FUN",
-    "url": "http://185.236.183.117:14679"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE FUN",
-    "url": "http://185.236.183.117:14680"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE PIPOCA",
-    "url": "http://185.236.183.117:14681"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE PIPOCA",
-    "url": "http://185.236.183.117:14682"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE PIPOCA",
-    "url": "http://185.236.183.117:14683"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE PIPOCA",
-    "url": "http://185.236.183.117:14684"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE PREMIUM",
-    "url": "http://185.236.183.117:14685"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE PREMIUM",
-    "url": "http://185.236.183.117:14686"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE PREMIUM",
-    "url": "http://185.236.183.117:14687"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE PREMIUM",
-    "url": "http://185.236.183.117:14688"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE TOUCH",
-    "url": "http://185.236.183.118:14689"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE TOUCH",
-    "url": "http://185.236.183.118:14690"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE TOUCH",
-    "url": "http://185.236.183.118:14691"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE TOUCH",
-    "url": "http://185.236.183.118:14692"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE CULT",
-    "url": "http://185.236.183.118:14693"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE CULT",
-    "url": "http://185.236.183.118:14694"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE CULT",
-    "url": "http://185.236.183.118:14695"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "TELECINE CULT",
-    "url": "http://185.236.183.118:14696"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TERRAVIVA",
-    "url": "http://185.236.183.117:14697"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TERRAVIVA",
-    "url": "http://185.236.183.117:14698"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TERRAVIVA",
-    "url": "http://185.236.183.117:14754"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TLC",
-    "url": "http://185.236.183.117:14699"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TLC",
-    "url": "http://185.236.183.117:14700"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TLC",
-    "url": "http://185.236.183.117:14701"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TLC",
-    "url": "http://185.236.183.117:14702"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "TOONCAST",
-    "url": "http://185.236.183.117:14711"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "TOONCAST",
-    "url": "http://185.236.183.117:14712"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "TOONCAST",
-    "url": "http://185.236.183.117:14713"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TRADE BRASIL",
-    "url": "http://185.236.183.117:14714"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "TRADE BRASIL",
-    "url": "http://185.236.183.117:14715"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MUSIC BOX",
-    "url": "http://185.236.183.117:14718"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MUSIC BOX",
-    "url": "http://185.236.183.118:14720"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Viagem",
-    "name": "TRAVEL",
-    "url": "http://185.236.183.117:14719"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "ADULT SWIM",
-    "url": "http://185.236.183.117:14721"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "TV BRASIL",
-    "url": "http://185.236.183.117:14726"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "TV BRASIL",
-    "url": "http://185.236.183.117:14727"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "TV BRASIL",
-    "url": "http://185.236.183.117:14728"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Legislativo",
-    "name": "TV CAMARA",
-    "url": "http://185.236.183.117:14729"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Legislativo",
-    "name": "TV CAMARA",
-    "url": "http://185.236.183.117:14730"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "RATIMBUM",
-    "url": "http://185.236.183.117:14740"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "RATIMBUM",
-    "url": "http://185.236.183.117:14741"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "RATIMBUM",
-    "url": "http://185.236.183.117:14743"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Legislativo",
-    "name": "TV SENADO",
-    "url": "http://185.236.183.117:14744"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Legislativo",
-    "name": "TV SENADO",
-    "url": "http://185.236.183.117:14745"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Legislativo",
-    "name": "TV SENADO",
-    "url": "http://185.236.183.117:14751"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "VIVA",
-    "url": "http://185.236.183.117:14755"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "VIVA",
-    "url": "http://185.236.183.117:14756"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "VIVA",
-    "url": "http://185.236.183.117:14757"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "WOOHOO",
-    "url": "http://185.236.183.117:14762"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "SERIES",
-    "name": "WARNER",
-    "url": "http://185.236.183.118:14758"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "SERIES",
-    "name": "WARNER",
-    "url": "http://185.236.183.118:14759"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "SERIES",
-    "name": "WARNER",
-    "url": "http://185.236.183.118:14760"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "SERIES",
-    "name": "WARNER",
-    "url": "http://185.236.183.118:14761"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17231"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17232"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17233"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17234"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17235"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17236"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17237"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17238"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17239"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17240"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17241"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17242"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17243"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17244"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17245"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17246"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17247"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17248"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17249"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17250"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17251"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17252"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17253"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17255"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17256"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17258"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17259"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17260"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17261"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17262"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17263"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17264"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17265"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17266"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17267"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17268"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17269"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17270"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17271"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17272"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17273"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17274"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17275"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17276"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17277"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17278"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17279"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17280"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17281"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17282"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17283"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17284"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17285"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17286"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17287"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17288"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17289"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17290"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17291"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17292"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17293"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17294"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17295"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17296"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17297"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17298"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17299"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17300"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17301"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17302"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17303"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17304"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17305"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17306"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17307"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17308"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17309"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17310"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17311"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17312"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17313"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17314"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17315"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17317"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17322"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17323"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17324"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17325"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17326"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17327"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17328"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17329"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17330"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17331"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17332"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17333"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17334"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17335"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17336"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17337"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17338"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17339"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17340"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17341"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17342"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17343"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17344"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17345"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17346"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17347"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17348"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17349"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17350"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17351"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17352"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17353"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17354"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17355"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17356"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17357"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17358"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17359"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17360"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17361"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17362"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17363"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17364"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17365"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17366"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17367"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17368"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17369"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17370"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17371"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17372"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17373"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17374"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17375"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17376"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.116:17377"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.118:14227"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.118:14228"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.118:14229"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.118:14230"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.118:14287"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "GLOBO",
-    "url": "http://185.236.183.118:14376"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "GLOBO NEWS",
-    "url": "http://185.236.183.116:17318"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "GLOBO NEWS",
-    "url": "http://185.236.183.116:17319"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "GLOBO NEWS",
-    "url": "http://185.236.183.116:17320"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "GLOBO NEWS",
-    "url": "http://185.236.183.116:17321"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "TV CULTURA",
-    "url": "http://185.236.183.116:17257"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "JP NEWS",
-    "url": "http://185.236.183.116:17442"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "JP NEWS",
-    "url": "http://185.236.183.116:17443"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "JP NEWS",
-    "url": "http://185.236.183.116:17444"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "LIFETIME",
-    "url": "http://185.236.183.116:17445"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "LIFETIME",
-    "url": "http://185.236.183.116:17446"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "LIFETIME",
-    "url": "http://185.236.183.116:17447"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "LIFETIME",
-    "url": "http://185.236.183.116:17448"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "MEGAPIX",
-    "url": "http://185.236.183.116:17449"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "MEGAPIX",
-    "url": "http://185.236.183.116:17450"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "MEGAPIX",
-    "url": "http://185.236.183.116:17451"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "MEGAPIX",
-    "url": "http://185.236.183.116:17452"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV",
-    "url": "http://185.236.183.116:17453"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV",
-    "url": "http://185.236.183.116:17454"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV",
-    "url": "http://185.236.183.116:17455"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV HITS",
-    "url": "http://185.236.183.116:17456"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV HITS",
-    "url": "http://185.236.183.116:17457"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV HITS",
-    "url": "http://185.236.183.116:17458"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV HITS",
-    "url": "http://185.236.183.116:17459"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV HITS",
-    "url": "http://185.236.183.116:17460"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV NOW",
-    "url": "http://185.236.183.116:17461"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV NOW",
-    "url": "http://185.236.183.116:17462"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV NOW",
-    "url": "http://185.236.183.116:17463"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MTV NOW",
-    "url": "http://185.236.183.116:17464"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "MULTSHOW",
-    "url": "http://185.236.183.116:17465"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "MULTSHOW",
-    "url": "http://185.236.183.116:17466"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "MULTSHOW",
-    "url": "http://185.236.183.116:17467"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "MULTSHOW",
-    "url": "http://185.236.183.116:17468"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MUSIC BOX",
-    "url": "http://185.236.183.116:17469"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Música",
-    "name": "MUSIC BOX",
-    "url": "http://185.236.183.116:17470"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Internacional",
-    "name": "NHK",
-    "url": "http://185.236.183.116:17471"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Internacional",
-    "name": "NHK",
-    "url": "http://185.236.183.116:17476"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICK JUNIOR",
-    "url": "http://185.236.183.116:17477"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICK JUNIOR",
-    "url": "http://185.236.183.116:17478"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICK JUNIOR",
-    "url": "http://185.236.183.116:17479"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICK JUNIOR",
-    "url": "http://185.236.183.116:17480"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICKELODEON",
-    "url": "http://185.236.183.116:17481"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICKELODEON",
-    "url": "http://185.236.183.116:17482"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICKELODEON",
-    "url": "http://185.236.183.116:17483"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICKELODEON",
-    "url": "http://185.236.183.116:17484"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "NICKELODEON",
-    "url": "http://185.236.183.116:17485"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "CANAL OFF",
-    "url": "http://185.236.183.116:17490"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "CANAL OFF",
-    "url": "http://185.236.183.116:17492"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "CANAL OFF",
-    "url": "http://185.236.183.116:17493"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "PARAMOUNT",
-    "url": "http://185.236.183.116:17495"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "PARAMOUNT",
-    "url": "http://185.236.183.116:17496"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "PARAMOUNT",
-    "url": "http://185.236.183.116:17497"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "PARAMOUNT",
-    "url": "http://185.236.183.116:17498"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "PLAYBOY",
-    "url": "http://185.236.183.116:17501"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "PLAYBOY",
-    "url": "http://185.236.183.116:17502"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "PLAYBOY",
-    "url": "http://185.236.183.116:17503"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Adulto",
-    "name": "PLAYBOY",
-    "url": "http://185.236.183.116:17504"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
+    "group": "",
     "name": "POLISHOP",
-    "url": "http://185.236.183.116:17505"
+    "url": "http://185.236.183.117:14505"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
+    "group": "",
     "name": "POLISHOP",
-    "url": "http://185.236.183.116:17506"
+    "url": "http://185.236.183.117:14506"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
     "name": "PRIME",
-    "url": "http://185.236.183.116:17535"
+    "url": "http://185.236.183.117:14535"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
     "name": "PRIME",
-    "url": "http://185.236.183.116:17536"
+    "url": "http://185.236.183.117:14536"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
     "name": "PRIME",
-    "url": "http://185.236.183.116:17537"
+    "url": "http://185.236.183.117:14537"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "PRIME",
-    "url": "http://185.236.183.116:17538"
+    "group": "",
+    "name": "RAI ITALIA",
+    "url": "http://185.236.183.117:14538"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17539"
+    "url": "http://185.236.183.117:14539"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17540"
+    "url": "http://185.236.183.117:14540"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17541"
+    "url": "http://185.236.183.117:14541"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17542"
+    "url": "http://185.236.183.117:14542"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17543"
+    "url": "http://185.236.183.117:14543"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17544"
+    "url": "http://185.236.183.117:14544"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17545"
+    "url": "http://185.236.183.117:14545"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17546"
+    "url": "http://185.236.183.117:14546"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17547"
+    "url": "http://185.236.183.117:14547"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17548"
+    "url": "http://185.236.183.117:14548"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17549"
+    "url": "http://185.236.183.117:14549"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17550"
+    "url": "http://185.236.183.117:14550"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Abertos",
+    "group": "",
     "name": "RECORD",
-    "url": "http://185.236.183.116:17551"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17552"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17553"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17554"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17555"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17556"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17557"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17558"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17559"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17560"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17561"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17562"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17563"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17564"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17565"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Abertos",
-    "name": "RECORD",
-    "url": "http://185.236.183.116:17566"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "CNN BRASIL",
-    "url": "http://185.236.183.118:14116"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "CNN BRASIL",
-    "url": "http://185.236.183.118:14117"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "CNN BRASIL",
-    "url": "http://185.236.183.118:14118"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "CNN BRASIL",
-    "url": "http://185.236.183.118:14119"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "CNN BRASIL",
-    "url": "http://185.236.183.118:14120"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "TV CULTURA",
-    "url": "http://185.236.183.118:14133"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "TV CULTURA",
-    "url": "http://185.236.183.118:14134"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "TV CULTURA",
-    "url": "http://185.236.183.118:14135"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "TV CULTURA",
-    "url": "http://185.236.183.118:14136"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "CURTA!",
-    "url": "http://185.236.183.118:14137"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "CURTA!",
-    "url": "http://185.236.183.118:14138"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "CURTA!",
-    "url": "http://185.236.183.118:14139"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "CURTA!",
-    "url": "http://185.236.183.118:14140"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY CHANNEL",
-    "url": "http://185.236.183.118:14141"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY CHANNEL",
-    "url": "http://185.236.183.118:14142"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY CHANNEL",
-    "url": "http://185.236.183.118:14143"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY CHANNEL",
-    "url": "http://185.236.183.118:14144"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "HOME&HEALT",
-    "url": "http://185.236.183.118:14145"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "HOME&HEALT",
-    "url": "http://185.236.183.118:14146"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "HOME&HEALT",
-    "url": "http://185.236.183.118:14147"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "HOME&HEALT",
-    "url": "http://185.236.183.118:14148"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "DISNEY KIDS",
-    "url": "http://185.236.183.118:14149"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "DISNEY KIDS",
-    "url": "http://185.236.183.118:14150"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "DISNEY KIDS",
-    "url": "http://185.236.183.118:14151"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "DISNEY KIDS",
-    "url": "http://185.236.183.118:14152"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY SCIENCIE",
-    "url": "http://185.236.183.118:14153"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY SCIENCIE",
-    "url": "http://185.236.183.118:14154"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY SCIENCIE",
-    "url": "http://185.236.183.118:14155"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY SCIENCIE",
-    "url": "http://185.236.183.118:14156"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY THEATER",
-    "url": "http://185.236.183.118:14157"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY THEATER",
-    "url": "http://185.236.183.118:14158"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY THEATER",
-    "url": "http://185.236.183.118:14159"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY THEATER",
-    "url": "http://185.236.183.118:14160"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY TURBO",
-    "url": "http://185.236.183.118:14161"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY TURBO",
-    "url": "http://185.236.183.118:14162"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY TURBO",
-    "url": "http://185.236.183.118:14163"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY TURBO",
-    "url": "http://185.236.183.118:14164"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY WOLRD",
-    "url": "http://185.236.183.118:14165"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY CHANNEL",
-    "url": "http://185.236.183.118:14166"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY THEATER",
-    "url": "http://185.236.183.118:14167"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "DISCOVERY THEATER",
-    "url": "http://185.236.183.118:14168"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "E!",
-    "url": "http://185.236.183.118:14173"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "E!",
-    "url": "http://185.236.183.118:14174"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "E!",
-    "url": "http://185.236.183.118:14175"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "E!",
-    "url": "http://185.236.183.118:14176"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN",
-    "url": "http://185.236.183.118:14177"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN",
-    "url": "http://185.236.183.118:14178"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN",
-    "url": "http://185.236.183.118:14179"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN",
-    "url": "http://185.236.183.118:14180"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 2",
-    "url": "http://185.236.183.118:14181"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 2",
-    "url": "http://185.236.183.118:14182"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 2",
-    "url": "http://185.236.183.118:14183"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 2",
-    "url": "http://185.236.183.118:14184"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 3",
-    "url": "http://185.236.183.118:14185"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 3",
-    "url": "http://185.236.183.118:14186"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 3",
-    "url": "http://185.236.183.118:14187"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 3",
-    "url": "http://185.236.183.118:14188"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 4",
-    "url": "http://185.236.183.118:14189"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 4",
-    "url": "http://185.236.183.118:14190"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 4",
-    "url": "http://185.236.183.118:14191"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 4",
-    "url": "http://185.236.183.118:14192"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 5",
-    "url": "http://185.236.183.118:14212"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 5",
-    "url": "http://185.236.183.118:14213"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 5",
-    "url": "http://185.236.183.118:14214"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 5",
-    "url": "http://185.236.183.118:14215"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 6",
-    "url": "http://185.236.183.118:14193"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 6",
-    "url": "http://185.236.183.118:14194"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 6",
-    "url": "http://185.236.183.118:14195"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "ESPN 6",
-    "url": "http://185.236.183.118:14196"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "FILM & ARTS",
-    "url": "http://185.236.183.118:14200"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "FILM & ARTS",
-    "url": "http://185.236.183.118:14201"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "FILM & ARTS",
-    "url": "http://185.236.183.118:14202"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "FILM & ARTS",
-    "url": "http://185.236.183.118:14203"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "FOOD NETWORK",
-    "url": "http://185.236.183.118:14208"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "FOOD NETWORK",
-    "url": "http://185.236.183.118:14209"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "FOOD NETWORK",
-    "url": "http://185.236.183.118:14210"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "FOOD NETWORK",
-    "url": "http://185.236.183.118:14211"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "FUTURA",
-    "url": "http://185.236.183.118:14216"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "FUTURA",
-    "url": "http://185.236.183.118:14217"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Cultura",
-    "name": "FUTURA",
-    "url": "http://185.236.183.118:14218"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "GNT",
-    "url": "http://185.236.183.118:14223"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "GNT",
-    "url": "http://185.236.183.118:14224"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "GNT",
-    "url": "http://185.236.183.118:14225"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Variedades",
-    "name": "GNT",
-    "url": "http://185.236.183.118:14226"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "GLOBINHO",
-    "url": "http://185.236.183.118:14384"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Infantil",
-    "name": "GLOBINHO",
-    "url": "http://185.236.183.118:14385"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "HISTORY 2",
-    "url": "http://185.236.183.118:14391"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "HISTORY 2",
-    "url": "http://185.236.183.118:14393"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO",
-    "url": "http://185.236.183.118:14396/"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO",
-    "url": "http://185.236.183.118:14105"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO",
-    "url": "http://185.236.183.118:14394"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO",
-    "url": "http://185.236.183.118:14395"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO",
-    "url": "http://185.236.183.118:14396"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO",
-    "url": "http://185.236.183.118:14397"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO 2",
-    "url": "http://185.236.183.118:14398"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO 2",
-    "url": "http://185.236.183.118:14399"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO 2",
-    "url": "http://185.236.183.118:14400"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO 2",
-    "url": "http://185.236.183.118:14401"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO FAMILY",
-    "url": "http://185.236.183.118:14402"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO FAMILY",
-    "url": "http://185.236.183.118:14403"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO FAMILY",
-    "url": "http://185.236.183.118:14404"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO FAMILY",
-    "url": "http://185.236.183.118:14405"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO+",
-    "url": "http://185.236.183.118:14406"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO+",
-    "url": "http://185.236.183.118:14407"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO+",
-    "url": "http://185.236.183.118:14408"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO+",
-    "url": "http://185.236.183.118:14409"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO MUNDI",
-    "url": "http://185.236.183.118:14410"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO MUNDI",
-    "url": "http://185.236.183.118:14411"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO MUNDI",
-    "url": "http://185.236.183.118:14412"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO MUNDI",
-    "url": "http://185.236.183.118:14413"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO POP",
-    "url": "http://185.236.183.118:14414"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO POP",
-    "url": "http://185.236.183.118:14415"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO POP",
-    "url": "http://185.236.183.118:14416"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO POP",
-    "url": "http://185.236.183.118:14433"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO POP",
-    "url": "http://185.236.183.116:17417"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO SIGNATURE",
-    "url": "http://185.236.183.116:17418"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO SIGNATURE",
-    "url": "http://185.236.183.116:17419"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO SIGNATURE",
-    "url": "http://185.236.183.116:17420"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO SIGNATURE",
-    "url": "http://185.236.183.116:17421"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO XTREME",
-    "url": "http://185.236.183.116:17422"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO XTREME",
-    "url": "http://185.236.183.116:17423"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO XTREME",
-    "url": "http://185.236.183.116:17424"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Filmes e Séries",
-    "name": "HBO XTREME",
-    "url": "http://185.236.183.116:17425"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "HISTORY",
-    "url": "http://185.236.183.116:17434"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "HISTORY",
-    "url": "http://185.236.183.118:14435"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "HISTORY",
-    "url": "http://185.236.183.118:14436"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Documentários",
-    "name": "HISTORY",
-    "url": "http://185.236.183.118:14488"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Notícias",
-    "name": "CANAL UOL",
-    "url": "http://185.236.183.118:14491"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14127"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14128"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.117:14529"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.117:14530"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.117:14531"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.117:14532"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.117:14533"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.117:14534"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
     "url": "http://185.236.183.117:14551"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14507"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14552"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14508"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14553"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14509"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14554"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14510"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14555"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14511"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14556"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14512"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14557"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14513"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14558"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14514"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14559"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14515"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14560"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14516"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14561"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14517"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14562"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14518"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14563"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14519"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14564"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14520"
+    "group": "",
+    "name": "RECORD NEWS",
+    "url": "http://185.236.183.117:14565"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14521"
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.236.183.117:14566"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14522"
+    "group": "",
+    "name": "TELECINE TOUCH",
+    "url": "http://185.236.183.117:14691"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14523"
+    "group": "",
+    "name": "TELECINE TOUCH",
+    "url": "http://185.236.183.117:14692"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14524"
+    "group": "",
+    "name": "TELECINE CULT",
+    "url": "http://185.236.183.117:14693"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14525"
+    "group": "",
+    "name": "TELECINE CULT",
+    "url": "http://185.236.183.117:14694"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14526"
+    "group": "",
+    "name": "TELECINE CULT",
+    "url": "http://185.236.183.117:14695"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14527"
+    "group": "",
+    "name": "TELECINE CULT",
+    "url": "http://185.236.183.117:14696"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14528"
+    "group": "",
+    "name": "OFF",
+    "url": "http://15.235.11.7:14074"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Esportes",
-    "name": "PREMIERE",
-    "url": "http://185.236.183.118:14552"
+    "group": "",
+    "name": "OFF",
+    "url": "http://15.235.11.7:14075"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
+    "name": "OFF",
+    "url": "http://15.235.11.7:14076"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "CNN BRASIL",
+    "url": "http://15.235.11.7:14118"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "BAND NEWS",
+    "url": "http://15.235.11.7:14121"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "JP NEWS",
+    "url": "http://15.235.11.7:14124"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "CNN",
+    "url": "http://15.235.11.7:14128"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HISTORY",
+    "url": "http://15.235.11.7:14132"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HGTV",
+    "url": "http://15.235.11.7:14144"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MULTISHOW",
+    "url": "http://15.235.11.7:14146"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MTV",
+    "url": "http://15.235.11.7:14149"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "E!",
+    "url": "http://15.235.11.7:14151"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "COMEDY CENTRAL",
+    "url": "http://15.235.11.7:14156"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "WOOHOO",
+    "url": "http://15.235.11.7:14159"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "BIS",
+    "url": "http://15.235.11.7:14162"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "FISHTV",
+    "url": "http://15.235.11.7:14165"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "FOOD NETWORK",
+    "url": "http://15.235.11.7:14168"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "CURTA!",
+    "url": "http://15.235.11.7:14171"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "CNAL BRASIL",
+    "url": "http://15.235.11.7:14172"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE PIPOCA",
+    "url": "http://15.235.50.115:14005"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE PIPOCA",
+    "url": "http://15.235.50.115:14006"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE PREMIUM",
+    "url": "http://15.235.50.115:14007"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE PREMIUM",
+    "url": "http://15.235.50.115:14008"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE PREMIUM",
+    "url": "http://15.235.50.115:14009"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE TOUCH",
+    "url": "http://15.235.50.115:14011"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE TOUCH",
+    "url": "http://15.235.50.115:14012"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE TOUCH",
+    "url": "http://15.235.50.115:14013"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE CULT",
+    "url": "http://15.235.50.115:14014"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE CULT",
+    "url": "http://15.235.50.115:14015"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE FUN",
+    "url": "http://15.235.50.115:14016"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE FUN",
+    "url": "http://15.235.50.115:14017"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TELECINE FUN",
+    "url": "http://15.235.50.115:14018"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "ESPN",
+    "url": "http://15.235.50.115:14056"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "PREMIERE",
+    "url": "http://15.235.50.112:14020"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY TURBO",
+    "url": "http://15.235.50.112:14097"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "H&H",
+    "url": "http://15.235.50.112:14100"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY THEATER",
+    "url": "http://15.235.50.112:14103"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY SCIENCE",
+    "url": "http://15.235.50.112:14106"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TLC",
+    "url": "http://15.235.50.112:14109"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY WORLD",
+    "url": "http://15.235.50.112:14112"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY ID",
+    "url": "http://15.235.50.112:14115"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO",
+    "url": "http://15.235.50.112:14186"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO 2",
+    "url": "http://15.235.50.112:14189"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HOB FAMILY",
+    "url": "http://15.235.50.112:14192"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO MUNDI",
+    "url": "http://15.235.50.112:14195"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY KIDS",
+    "url": "http://15.235.50.112:14561"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.246.208.74:14100"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.246.208.74:14108"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.246.208.74:14110"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.246.208.74:14120"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://185.246.208.74:14140"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY CHANNEL",
+    "url": "http://185.246.208.74:14144"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "SBT",
+    "url": "http://185.246.208.74:14367"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "PREMIERE",
+    "url": "http://185.246.208.74:14882"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "PREMIERE",
+    "url": "http://185.246.208.74:14452"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "RECORD",
+    "url": "http://185.246.208.74:14660"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "PREMIERE",
+    "url": "http://185.246.208.74:14870"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBONEWS",
+    "url": "http://79.127.238.228:14093/GLOBONEWS"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://79.127.238.228:14211/GLOBO"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBO",
+    "url": "http://79.127.238.228:14217/GLOBO"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "BAND",
+    "url": "http://79.127.238.228:14298/BAND"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GNT",
+    "url": "http://79.127.238.228:14402/GNT"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TLC",
+    "url": "http://79.127.238.228:14433/TLC"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBOPLAY",
+    "url": "http://79.127.238.228:14455/GLOBOPLAY"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "A&E",
+    "url": "http://79.127.238.228:14551/A&E"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "AXN",
+    "url": "http://79.127.238.228:14563/AXN"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MEGAPIX",
+    "url": "http://79.127.238.228:14592/MEGAPIX"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
     "name": "TNT",
-    "url": "http://185.236.183.118:14703"
+    "url": "http://79.127.238.228:14629/TNT"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
+    "name": "WARNER",
+    "url": "http://79.127.238.228:14647/WARNER"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "PREMIERE",
+    "url": "http://15.235.11.7:14019"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "PREMIERE",
+    "url": "http://15.235.50.112:14020"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY TURBO",
+    "url": "http://15.235.50.112:14097"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "H&H",
+    "url": "http://15.235.50.112:14100"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY THEATER",
+    "url": "http://15.235.50.112:14103"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY SCIENCE",
+    "url": "http://15.235.50.112:14106"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TLC",
+    "url": "http://15.235.50.112:14109"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY WORLD",
+    "url": "http://15.235.50.112:14112"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY ID",
+    "url": "http://15.235.50.112:14115"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO",
+    "url": "http://15.235.50.112:14186"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO 2",
+    "url": "http://15.235.50.112:14189"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HOB FAMILY",
+    "url": "http://15.235.50.112:14192"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "HBO MUNDI",
+    "url": "http://15.235.50.112:14195"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DISCOVERY KIDS",
+    "url": "http://15.235.50.112:14561"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
     "name": "TNT",
-    "url": "http://185.236.183.118:14704"
+    "url": "http://185.236.183.117:14703"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
     "name": "TNT",
-    "url": "http://185.236.183.118:14705"
+    "url": "http://185.236.183.117:14704"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
     "name": "TNT",
-    "url": "http://185.236.183.118:14706"
+    "url": "http://185.236.183.117:14705"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
+    "name": "TNT",
+    "url": "http://185.236.183.117:14706"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
     "name": "TNT SERIES",
-    "url": "http://185.236.183.118:14707"
+    "url": "http://185.236.183.117:14707"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
     "name": "TNT SERIES",
-    "url": "http://185.236.183.118:14708"
+    "url": "http://185.236.183.117:14708"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
     "name": "TNT SERIES",
-    "url": "http://185.236.183.118:14709"
+    "url": "http://185.236.183.117:14709"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Filmes e Séries",
+    "group": "",
     "name": "TNT SERIES",
-    "url": "http://185.236.183.118:14710"
+    "url": "http://185.236.183.117:14710"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
+    "group": "",
     "name": "TRADE BRASIL",
-    "url": "http://185.236.183.118:14716"
+    "url": "http://185.236.183.117:14716"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
+    "group": "",
     "name": "TRADE BRASIL",
-    "url": "http://185.236.183.118:14717"
+    "url": "http://185.236.183.117:14717"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "UNIVERSAL TV",
-    "url": "http://185.236.183.118:14746"
+    "group": "",
+    "name": "TRAVEL",
+    "url": "http://185.236.183.117:14720"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
-    "group": "Variedades",
-    "name": "UNIVERSAL TV",
-    "url": "http://185.236.183.118:14747"
+    "group": "",
+    "name": "RELIGIOSO",
+    "url": "http://185.236.183.117:14737"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "RATIMBUM",
+    "url": "http://185.236.183.117:14742"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "UNIVERSAL CHANNEL",
+    "url": "http://185.236.183.117:14746"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "UNIVERSAL CHANNEL",
+    "url": "http://185.236.183.117:14747"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "UNIVERSAL CHANNEL",
+    "url": "http://185.236.183.117:14748"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "UNIVERSAL CHANNEL",
+    "url": "http://185.236.183.117:14749"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "VENUS",
+    "url": "http://185.236.183.117:14750"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBOPLAY NOVELAS",
+    "url": "http://185.236.183.117:14756"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "GLOBOPLAY NOVELAS",
+    "url": "http://185.236.183.117:14757"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "WARNER",
+    "url": "http://185.236.183.117:14758"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "WARNER",
+    "url": "http://185.236.183.117:14759"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "WARNER",
+    "url": "http://185.236.183.117:14760"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "WARNER",
+    "url": "http://185.236.183.117:14761"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "WOOHOO",
+    "url": "http://185.236.183.117:14763"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "WOOHOO",
+    "url": "http://185.236.183.117:14764"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "WOOHOO",
+    "url": "http://185.236.183.117:14765"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DUM DUM",
+    "url": "http://185.236.183.117:14766"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DUM DUM",
+    "url": "http://185.236.183.117:14767"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DUM DUM",
+    "url": "http://185.236.183.117:14768"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "DUM DUM",
+    "url": "http://185.236.183.117:14769"
   }
 ]
