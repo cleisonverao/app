@@ -1,1542 +1,1618 @@
 [
   {
-    "titulo": "Rio de Janeiro (Globo Rio)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globorj-globorio",
-    "epg": "#"
+    "id": "powercouple2025",
+    "name": "Power Couple 2025 (Sinal 1)",
+    "logo": "https://i.ibb.co/7dQN9xfs/images.jpg",
+    "category": "realityshow",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=powercouple2025",
+    "category_name": "Reality Show"
+  },
+  {
+    "id": "powercouple2025-2",
+    "name": "Power Couple 2025 (Sinal 2)",
+    "logo": "https://i.ibb.co/7dQN9xfs/images.jpg",
+    "category": "realityshow",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=powercouple2025-2",
+    "category_name": "Reality Show"
+  },
+  {
+    "id": "powercouple2025-3",
+    "name": "Power Couple 2025 (Sinal 3)",
+    "logo": "https://i.ibb.co/7dQN9xfs/images.jpg",
+    "category": "realityshow",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=powercouple2025-3",
+    "category_name": "Reality Show"
+  },
+  {
+    "id": "powercouple2025-4",
+    "name": "Power Couple 2025 (Sinal 4)",
+    "logo": "https://i.ibb.co/7dQN9xfs/images.jpg",
+    "category": "realityshow",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=powercouple2025-4",
+    "category_name": "Reality Show"
+  },
+  {
+    "id": "globoam-redeamazonicamanaus",
+    "name": "Amazonas (Rede Amazônica Manaus)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoam-redeamazonicamanaus",
+    "category_name": "Globo"
+  },
+  {
+    "id": "globoba-tvbahia",
+    "name": "Bahia (TV Bahia)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoba-tvbahia",
+    "category_name": "Globo"
+  },
+  {
+    "id": "globoba-tvsantacruz",
+    "name": "Bahia (TV Santa Cruz)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoba-tvsantacruz",
+    "category_name": "Globo"
+  },
+  {
+    "id": "globoba-tvsudoeste",
+    "name": "Bahia (TV Sudoeste)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoba-tvsudoeste",
+    "category_name": "Globo"
+  },
+  {
+    "id": "globodf-globobrasilia",
+    "name": "Brasília (Globo Brasília)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globodf-globobrasilia",
+    "category_name": "Globo"
+  },
+  {
+    "id": "globoce-tvverdesmarescariri",
+    "name": "Ceará (TV Verdes Mares Cariri)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoce-tvverdesmarescariri",
+    "category_name": "Globo"
+  },
+  {
+    "id": "globoce-tvverdesmaresfortaleza",
+    "name": "Ceará (TV Verdes Mares Fortaleza)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoce-tvverdesmaresfortaleza",
+    "category_name": "Globo"
+  },
+  {
+    "id": "globoes-tvgazetavitoria",
+    "name": "Espírito Santo (TV Gazeta Vitória)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoes-tvgazetavitoria",
+    "category_name": "Globo"
+  },
+  {
+    "id": "globogo-tvanhangueragoiania",
+    "name": "Goiás (TV Anhanguera Goiânia)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globogo-tvanhangueragoiania",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Rio de Janeiro (InterTV Alto Litoral)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globorj-intertvaltolitoral",
-    "epg": "#"
+    "id": "globoma-tvmirantessaoluis",
+    "name": "Maranhão (TV Mirante São Luís)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoma-tvmirantessaoluis",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Rio de Janeiro (InterTV Serra+Mar)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globorj-intertvserramar",
-    "epg": "#"
+    "id": "globomg-globominas",
+    "name": "Minas Gerais (Globo Minas)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globomg-globominas",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Rio de Janeiro (TV Rio Sul)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globorj-tvriosul",
-    "epg": "#"
+    "id": "globomg-intertvdosvales",
+    "name": "Minas Gerais (InterTV dos Vales)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globomg-intertvdosvales",
+    "category_name": "Globo"
   },
   {
-    "titulo": "S\u00e3o Paulo (Globo S\u00e3o Paulo)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosp-globosaopaulo",
-    "epg": "#"
+    "id": "globomg-tvintegracaoaraxa",
+    "name": "Minas Gerais (TV Integração Araxá)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globomg-tvintegracaoaraxa",
+    "category_name": "Globo"
   },
   {
-    "titulo": "S\u00e3o Paulo (EPTV Central)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosp-eptvcentral",
-    "epg": "#"
+    "id": "globomg-tvintegracaojuizdefora",
+    "name": "Minas Gerais (TV Integração Juiz de Fora)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globomg-tvintegracaojuizdefora",
+    "category_name": "Globo"
   },
   {
-    "titulo": "S\u00e3o Paulo (TV Di\u00e1rio)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosp-tvdiario",
-    "epg": "#"
+    "id": "globomg-tvintegracaouberaba",
+    "name": "Minas Gerais (TV Integração Uberaba)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globomg-tvintegracaouberaba",
+    "category_name": "Globo"
   },
   {
-    "titulo": "S\u00e3o Paulo (TV TEM Itapetininga)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosp-tvtemitapetininga",
-    "epg": "#"
+    "id": "globopa-tvliberalbelem",
+    "name": "Pará (TV Liberal Belém)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globopa-tvliberalbelem",
+    "category_name": "Globo"
   },
   {
-    "titulo": "S\u00e3o Paulo (TV Vanguarda S. J. Campos)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosp-tvvanguardasjcampos",
-    "epg": "#"
+    "id": "globopb-tvcabobranco",
+    "name": "Paraíba (TV Cabo Branco)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globopb-tvcabobranco",
+    "category_name": "Globo"
   },
   {
-    "titulo": "S\u00e3o Paulo (TV Vanguarda Taubat\u00e9)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosp-tvvanguardataubate",
-    "epg": "#"
+    "id": "globopr-rpccuritiba",
+    "name": "Paraná (RPC Curitiba)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globopr-rpccuritiba",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Minas Gerais (Globo Minas)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globomg-globominas",
-    "epg": "#"
+    "id": "globope-globonordeste",
+    "name": "Pernambuco (Globo Nordeste)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globope-globonordeste",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Minas Gerais (InterTV dos Vales)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globomg-intertvdosvales",
-    "epg": "#"
+    "id": "globope-tvasabranca",
+    "name": "Pernambuco (TV Asa Branca)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globope-tvasabranca",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Minas Gerais (TV Integra\u00e7\u00e3o Arax\u00e1)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globomg-tvintegracaoaraxa",
-    "epg": "#"
+    "id": "globopi-tvclube",
+    "name": "Piauí (TV Clube)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globopi-tvclube",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Minas Gerais (TV Integra\u00e7\u00e3o Juiz de Fora)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globomg-tvintegracaojuizdefora",
-    "epg": "#"
+    "id": "globorj-globorio",
+    "name": "Rio de Janeiro (Globo Rio)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globorj-globorio",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Minas Gerais (TV Integra\u00e7\u00e3o Uberaba)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globomg-tvintegracaouberaba",
-    "epg": "#"
+    "id": "globorj-intertvaltolitoral",
+    "name": "Rio de Janeiro (InterTV Alto Litoral)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globorj-intertvaltolitoral",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Esp\u00edrito Santo (TV Gazeta Vit\u00f3ria)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globoes-tvgazetavitoria",
-    "epg": "#"
+    "id": "globorj-intertvserramar",
+    "name": "Rio de Janeiro (InterTV Serra+Mar)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globorj-intertvserramar",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Rio Grande do Sul (RBS TV Porto Alegre)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globors-rbstvportoalegre",
-    "epg": "#"
+    "id": "globorj-tvriosul",
+    "name": "Rio de Janeiro (TV Rio Sul)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globorj-tvriosul",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Rio Grande do Sul (RBS TV Caxias do Sul)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globors-rbstvcaxiasdosul",
-    "epg": "#"
+    "id": "globorn-intertvcabugi",
+    "name": "Rio Grande do Norte (InterTV Cabugi)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globorn-intertvcabugi",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Rio Grande do Sul (RBS TV Santa Cruz)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globors-rbstvsantacruz",
-    "epg": "#"
+    "id": "globors-rbstvcaxiasdosul",
+    "name": "Rio Grande do Sul (RBS TV Caxias do Sul)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globors-rbstvcaxiasdosul",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Santa Catarina (NSC TV Florian\u00f3polis)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosc-nsctvflorianopolis",
-    "epg": "#"
+    "id": "globors-rbstvportoalegre",
+    "name": "Rio Grande do Sul (RBS TV Porto Alegre)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globors-rbstvportoalegre",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Santa Catarina (NSC TV Chapec\u00f3)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosc-nsctvchapeco",
-    "epg": "#"
+    "id": "globors-rbstvsantacruz",
+    "name": "Rio Grande do Sul (RBS TV Santa Cruz)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globors-rbstvsantacruz",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Santa Catarina (NSC TV Joinville)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globosc-nsctvjoinville",
-    "epg": "#"
+    "id": "globosc-nsctvchapeco",
+    "name": "Santa Catarina (NSC TV Chapecó)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosc-nsctvchapeco",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Paran\u00e1 (RPC Curitiba)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globopr-rpccuritiba",
-    "epg": "#"
+    "id": "globosc-nsctvflorianopolis",
+    "name": "Santa Catarina (NSC TV Florianópolis)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosc-nsctvflorianopolis",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Pernambuco (Globo Nordeste)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globope-globonordeste",
-    "epg": "#"
+    "id": "globosc-nsctvjoinville",
+    "name": "Santa Catarina (NSC TV Joinville)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosc-nsctvjoinville",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Pernambuco (TV Asa Branca)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globope-tvasabranca",
-    "epg": "#"
+    "id": "globosp-eptvcentral",
+    "name": "São Paulo (EPTV Central)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosp-eptvcentral",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Bahia (TV Bahia)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globoba-tvbahia",
-    "epg": "#"
+    "id": "globosp-globosaopaulo",
+    "name": "São Paulo (Globo São Paulo)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosp-globosaopaulo",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Bahia (TV Santa Cruz)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globoba-tvsantacruz",
-    "epg": "#"
+    "id": "globosp-tvdiario",
+    "name": "São Paulo (TV Diário)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosp-tvdiario",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Bahia (TV Sudoeste)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globoba-tvsudoeste",
-    "epg": "#"
+    "id": "globosp-tvtemitapetininga",
+    "name": "São Paulo (TV TEM Itapetininga)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosp-tvtemitapetininga",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Cear\u00e1 (TV Verdes Mares Fortaleza)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globoce-tvverdesmaresfortaleza",
-    "epg": "#"
+    "id": "globosp-tvvanguardasjcampos",
+    "name": "São Paulo (TV Vanguarda S. J. Campos)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosp-tvvanguardasjcampos",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Cear\u00e1 (TV Verdes Mares Cariri)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globoce-tvverdesmarescariri",
-    "epg": "#"
+    "id": "globosp-tvvanguardataubate",
+    "name": "São Paulo (TV Vanguarda Taubaté)",
+    "logo": "https://reidoscanais.vip/img/tvglobo.png",
+    "category": "globo",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globosp-tvvanguardataubate",
+    "category_name": "Globo"
   },
   {
-    "titulo": "Piau\u00ed (TV Clube)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globopi-tvclube",
-    "epg": "#"
+    "id": "band",
+    "name": "Band",
+    "logo": "https://reidoscanais.vip/img/band.png",
+    "category": "canais-abertos",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=band",
+    "category_name": "Canais Abertos"
   },
   {
-    "titulo": "Maranh\u00e3o (TV Mirante S\u00e3o Lu\u00eds)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globoma-tvmirantessaoluis",
-    "epg": "#"
+    "id": "record",
+    "name": "Record ",
+    "logo": "https://reidoscanais.vip/img/record.png",
+    "category": "canais-abertos",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=record",
+    "category_name": "Canais Abertos"
   },
   {
-    "titulo": "Rio Grande do Norte (InterTV Cabugi)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globorn-intertvcabugi",
-    "epg": "#"
+    "id": "redetv",
+    "name": "Rede TV!",
+    "logo": "https://reidoscanais.vip/img/redetv.png",
+    "category": "canais-abertos",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=redetv",
+    "category_name": "Canais Abertos"
   },
   {
-    "titulo": "Para\u00edba (TV Cabo Branco)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globopb-tvcabobranco",
-    "epg": "#"
+    "id": "sbt",
+    "name": "SBT",
+    "logo": "https://reidoscanais.vip/img/sbt.png",
+    "category": "canais-abertos",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sbt",
+    "category_name": "Canais Abertos"
   },
   {
-    "titulo": "Bras\u00edlia (Globo Bras\u00edlia)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globodf-globobrasilia",
-    "epg": "#"
+    "id": "tvbrasil",
+    "name": "TV Brasil",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/512px-TV_Brasil_logo_2019.svg.png",
+    "category": "canais-abertos",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tvbrasil",
+    "category_name": "Canais Abertos"
   },
   {
-    "titulo": "Goi\u00e1s (TV Anhanguera Goi\u00e2nia)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globogo-tvanhangueragoiania",
-    "epg": "#"
+    "id": "tvcultura",
+    "name": "TV Cultura",
+    "logo": "https://i.imgur.com/hcApLfE.png",
+    "category": "canais-abertos",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tvcultura",
+    "category_name": "Canais Abertos"
   },
   {
-    "titulo": "Amazonas (Rede Amaz\u00f4nica Manaus)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globoam-redeamazonicamanaus",
-    "epg": "#"
+    "id": "bandnews",
+    "name": "Band News",
+    "logo": "https://i.imgur.com/3YlJsCL.png",
+    "category": "noticias",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=bandnews",
+    "category_name": "Notícias"
   },
   {
-    "titulo": "Par\u00e1 (TV Liberal Bel\u00e9m)",
-    "categoria": "Globo",
-    "img": "https:\/\/reidoscanais.cc\/img\/tvglobo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globopa-tvliberalbelem",
-    "epg": "#"
+    "id": "cnnbrasil",
+    "name": "CNN Brasil",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png",
+    "category": "noticias",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cnnbrasil",
+    "category_name": "Notícias"
   },
   {
-    "titulo": "SBT",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/tc1ALuu.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sbt",
-    "epg": "#"
+    "id": "globonews",
+    "name": "Globo News",
+    "logo": "https://i.imgur.com/3yZyaCm.png",
+    "category": "noticias",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globonews",
+    "category_name": "Notícias"
   },
   {
-    "titulo": "Band",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/SOfcdFf.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=band",
-    "epg": "#"
+    "id": "jpnews",
+    "name": "JP News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
+    "category": "noticias",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=jpnews",
+    "category_name": "Notícias"
   },
   {
-    "titulo": "Record SP",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/sz9gTTr.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=recordsp",
-    "epg": "#"
+    "id": "recordnews",
+    "name": "Record News",
+    "logo": "https://i.imgur.com/HZDRG0K.png",
+    "category": "noticias",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=recordnews",
+    "category_name": "Notícias"
   },
   {
-    "titulo": "Rede TV!",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/ZJgD38F.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=redetv",
-    "epg": "#"
+    "id": "bandsports",
+    "name": "Band Sports",
+    "logo": "https://i.imgur.com/EuPvzJe.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=bandsports",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "TV Cultura",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/hcApLfE.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tvcultura",
-    "epg": "#"
+    "id": "cazetv",
+    "name": "CazéTV",
+    "logo": "https://i.ibb.co/JcnN7Xj/Perfil-casimito.webp",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cazetv",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "TV Brasil",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a9\/TV_Brasil_logo_2019.svg\/512px-TV_Brasil_logo_2019.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tvbrasil",
-    "epg": "#"
+    "id": "cazetv2",
+    "name": "CazéTV 2",
+    "logo": "https://i.ibb.co/JcnN7Xj/Perfil-casimito.webp",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cazetv2",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Globo News",
-    "categoria": "Noticias",
-    "img": "https:\/\/i.imgur.com\/3yZyaCm.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=globonews",
-    "epg": "#"
+    "id": "cazetv3",
+    "name": "CazéTV 3",
+    "logo": "https://i.ibb.co/JcnN7Xj/Perfil-casimito.webp",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cazetv3",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "CNN Brasil",
-    "categoria": "Noticias",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5f\/CNN_Brasil.svg\/512px-CNN_Brasil.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cnnbrasil",
-    "epg": "#"
+    "id": "combate",
+    "name": "Combate",
+    "logo": "https://i.imgur.com/ZPYK5jr.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=combate",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Band News",
-    "categoria": "Noticias",
-    "img": "https:\/\/i.imgur.com\/3YlJsCL.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=bandnews",
-    "epg": "#"
+    "id": "disneyplus",
+    "name": "Disney Plus (Eventos)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/disneyplus",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "JP News",
-    "categoria": "Noticias",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/26\/Jovem_Pan_logo_2018.svg\/512px-Jovem_Pan_logo_2018.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=jpnews",
-    "epg": "#"
+    "id": "espn",
+    "name": "ESPN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=espn",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Record News",
-    "categoria": "Noticias",
-    "img": "https:\/\/i.imgur.com\/HZDRG0K.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=recordnews",
-    "epg": "#"
+    "id": "espn2",
+    "name": "ESPN 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=espn2",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Max",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/ce\/Max_logo.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=max",
-    "epg": "#"
+    "id": "espn3",
+    "name": "ESPN 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=espn3",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Max 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/ce\/Max_logo.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=max2",
-    "epg": "#"
+    "id": "espn4",
+    "name": "ESPN 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=espn4",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Max 3",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/ce\/Max_logo.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=max3",
-    "epg": "#"
+    "id": "espn5",
+    "name": "ESPN 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=espn5",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "ESPN",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/ESPN_wordmark.svg\/512px-ESPN_wordmark.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=espn",
-    "epg": "#"
+    "id": "espn6",
+    "name": "ESPN 6",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=espn6",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "ESPN 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/ESPN_wordmark.svg\/512px-ESPN_wordmark.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=espn2",
-    "epg": "#"
+    "id": "max",
+    "name": "Max",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Max_logo.svg",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=max",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "ESPN 3",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/ESPN_wordmark.svg\/512px-ESPN_wordmark.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=espn3",
-    "epg": "#"
+    "id": "max2",
+    "name": "Max 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Max_logo.svg",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=max2",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "ESPN 4",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/ESPN_wordmark.svg\/512px-ESPN_wordmark.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=espn4",
-    "epg": "#"
+    "id": "max3",
+    "name": "Max 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Max_logo.svg",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=max3",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "ESPN 5",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/ESPN_wordmark.svg\/512px-ESPN_wordmark.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=espn5",
-    "epg": "#"
+    "id": "nossofutebol",
+    "name": "Nosso Futebol",
+    "logo": "https://i.pinimg.com/originals/fe/1a/e9/fe1ae9abc45d5d2c7f6cf83e0c76ac7b.webp",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=nossofutebol",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "ESPN 6",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/ESPN_wordmark.svg\/512px-ESPN_wordmark.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=espn6",
-    "epg": "#"
+    "id": "paramountplus",
+    "name": "Paramount+",
+    "logo": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=paramountplus",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportv",
-    "epg": "#"
+    "id": "paramountplus2",
+    "name": "Paramount+ 2",
+    "logo": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=paramountplus2",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportv2",
-    "epg": "#"
+    "id": "paramountplus3",
+    "name": "Paramount+ 3",
+    "logo": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=paramountplus3",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv 3",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportv3",
-    "epg": "#"
+    "id": "paramountplus4",
+    "name": "Paramount+ 4",
+    "logo": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=paramountplus4",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv 4",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportv4",
-    "epg": "#"
+    "id": "premiereclubes",
+    "name": "Premiere",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiereclubes",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv Mosaico",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportvmosaico",
-    "epg": "#"
+    "id": "premiereclubesalternativo",
+    "name": "Premiere (Alternativo)",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiereclubesalternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportvalternativo",
-    "epg": "#"
+    "id": "premiere2",
+    "name": "Premiere 2",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere2",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv 2 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportv2alternativo",
-    "epg": "#"
+    "id": "premiere2alternativo",
+    "name": "Premiere 2 (Alternativo)",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere2alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv 3 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportv3alternativo",
-    "epg": "#"
+    "id": "premiere3",
+    "name": "Premiere 3",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere3",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv 4 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportv4alternativo",
-    "epg": "#"
+    "id": "premiere3alternativo",
+    "name": "Premiere 3 (Alternativo)",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere3alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Sportv Mosaico (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/eHJ8Vm3.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sportvmosaicoalternativo",
-    "epg": "#"
+    "id": "premiere4",
+    "name": "Premiere 4",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere4",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere Clubes",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiereclubes",
-    "epg": "#"
+    "id": "premiere4alternativo",
+    "name": "Premiere 4 (Alternativo)",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere4alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere2",
-    "epg": "#"
+    "id": "premiere5",
+    "name": "Premiere 5",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere5",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 3",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere3",
-    "epg": "#"
+    "id": "premiere5alternativo",
+    "name": "Premiere 5 (Alternativo)",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere5alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 4",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere4",
-    "epg": "#"
+    "id": "premiere6",
+    "name": "Premiere 6",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere6",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 5",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere5",
-    "epg": "#"
+    "id": "premiere6alternativo",
+    "name": "Premiere 6 (Alternativo)",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere6alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 6",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere6",
-    "epg": "#"
+    "id": "premiere7",
+    "name": "Premiere 7",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere7",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 7",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere7",
-    "epg": "#"
+    "id": "premiere7alternativo",
+    "name": "Premiere 7 (Alternativo)",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere7alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 8",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere8",
-    "epg": "#"
+    "id": "premiere8",
+    "name": "Premiere 8",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere8",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere Clubes (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiereclubesalternativo",
-    "epg": "#"
+    "id": "premiere8alternativo",
+    "name": "Premiere 8 (Alternativo)",
+    "logo": "https://reidoscanais.vip/img/premiere.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=premiere8alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 2 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere2alternativo",
-    "epg": "#"
+    "id": "primevideo",
+    "name": "Prime Video",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=disneychannel",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 3 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere3alternativo",
-    "epg": "#"
+    "id": "primevideo2",
+    "name": "Prime Video 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=primevideo2",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 4 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere4alternativo",
-    "epg": "#"
+    "id": "primevideo3",
+    "name": "Prime Video 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=primevideo3",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 5 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere5alternativo",
-    "epg": "#"
+    "id": "primevideo4",
+    "name": "Prime Video 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=primevideo4",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 6 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere6alternativo",
-    "epg": "#"
+    "id": "sportv",
+    "name": "Sportv",
+    "logo": "https://i.imgur.com/eHJ8Vm3.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sportv",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 7 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere7alternativo",
-    "epg": "#"
+    "id": "sportvalternativo",
+    "name": "Sportv (Alternativo)",
+    "logo": "https://i.imgur.com/eHJ8Vm3.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sportvalternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Premiere 8 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/reidoscanais.cc\/img\/premiereclubes.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=premiere8alternativo",
-    "epg": "#"
+    "id": "sportv2",
+    "name": "Sportv 2",
+    "logo": "https://i.imgur.com/eHJ8Vm3.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sportv2",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Paramount+",
-    "categoria": "Esportes",
-    "img": "https:\/\/logodownload.org\/wp-content\/uploads\/2021\/03\/paramount-plus-logo-0.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountplus",
-    "epg": "#"
+    "id": "sportv2alternativo",
+    "name": "Sportv 2 (Alternativo)",
+    "logo": "https://i.imgur.com/eHJ8Vm3.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sportv2alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Paramount+ 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/logodownload.org\/wp-content\/uploads\/2021\/03\/paramount-plus-logo-0.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountplus2",
-    "epg": "#"
+    "id": "sportv3",
+    "name": "Sportv 3",
+    "logo": "https://i.imgur.com/eHJ8Vm3.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sportv3",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Paramount+ 3",
-    "categoria": "Esportes",
-    "img": "https:\/\/logodownload.org\/wp-content\/uploads\/2021\/03\/paramount-plus-logo-0.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountplus3",
-    "epg": "#"
+    "id": "sportv3alternativo",
+    "name": "Sportv 3 (Alternativo)",
+    "logo": "https://i.imgur.com/eHJ8Vm3.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sportv3alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Paramount+ 4",
-    "categoria": "Esportes",
-    "img": "https:\/\/logodownload.org\/wp-content\/uploads\/2021\/03\/paramount-plus-logo-0.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountplus4",
-    "epg": "#"
+    "id": "sportv4",
+    "name": "Sportv 4",
+    "logo": "https://i.imgur.com/eHJ8Vm3.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sportv4",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Paramount+ (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/logodownload.org\/wp-content\/uploads\/2021\/03\/paramount-plus-logo-0.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountplusalternativo",
-    "epg": "#"
+    "id": "sportv4alternativo",
+    "name": "Sportv 4 (Alternativo)",
+    "logo": "https://i.imgur.com/eHJ8Vm3.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sportv4alternativo",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Paramount+ 2 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/logodownload.org\/wp-content\/uploads\/2021\/03\/paramount-plus-logo-0.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountplus2alternativo",
-    "epg": "#"
+    "id": "tntsports",
+    "name": "TNT Sports",
+    "logo": "https://i.imgur.com/XA3zxEE.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tntsports",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Paramount+ 3 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/logodownload.org\/wp-content\/uploads\/2021\/03\/paramount-plus-logo-0.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountplus3alternativo",
-    "epg": "#"
+    "id": "ufcfightpass",
+    "name": "UFC Fight Pass",
+    "logo": "https://raichu-uploads.s3.amazonaws.com/logo_ufc-fight-pass_J5LrAt.png",
+    "category": "esportes",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=ufcfightpass",
+    "category_name": "Esportes"
   },
   {
-    "titulo": "Paramount+ 4 (Alternativo)",
-    "categoria": "Esportes",
-    "img": "https:\/\/logodownload.org\/wp-content\/uploads\/2021\/03\/paramount-plus-logo-0.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountplus4alternativo",
-    "epg": "#"
+    "id": "aee",
+    "name": "A&E",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=aee",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Combate",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/ZPYK5jr.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=combate",
-    "epg": "#"
+    "id": "adultswim",
+    "name": "Adult Swim",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=adultswim",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "UFC Fight Pass",
-    "categoria": "Esportes",
-    "img": "https:\/\/raichu-uploads.s3.amazonaws.com\/logo_ufc-fight-pass_J5LrAt.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=ufcfightpass",
-    "epg": "#"
+    "id": "agromais",
+    "name": "Agro+",
+    "logo": "https://i.imgur.com/sFcOZeo.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=agromais",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Fox Sports 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/VbPBoYF.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=foxsports2",
-    "epg": "#"
+    "id": "agrobrasil",
+    "name": "AgroBrasil TV",
+    "logo": "https://i.imgur.com/aNkP7Zd.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=agrobrasil",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Band Sports",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/EuPvzJe.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=bandsports",
-    "epg": "#"
+    "id": "amc",
+    "name": "AMC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=amc",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Nosso Futebol",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.pinimg.com\/originals\/fe\/1a\/e9\/fe1ae9abc45d5d2c7f6cf83e0c76ac7b.webp",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=nossofutebol",
-    "epg": "#"
+    "id": "animalplanet",
+    "name": "Animal Planet",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=animalplanet",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "TNT Sports",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/XA3zxEE.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tntsports",
-    "epg": "#"
+    "id": "aparecida",
+    "name": "Aparecida",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=aparecida",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Telecine Premium",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/uVFgIr8.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=telecinepremium",
-    "epg": "#"
+    "id": "arte1",
+    "name": "Arte1",
+    "logo": "https://i.imgur.com/Ivnk7A6.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=arte1",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Telecine Pipoca",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/hW9JYXr.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=telecinepipoca",
-    "epg": "#"
+    "id": "axn",
+    "name": "AXN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=axn",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Telecine Action",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/BHYWG0h.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=telecineaction",
-    "epg": "#"
+    "id": "bis",
+    "name": "BIS",
+    "logo": "https://i.imgur.com/VUt1lmH.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=bis",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Telecine Touch",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/Nky0hRo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=telecinetouch",
-    "epg": "#"
+    "id": "brasilparalelo",
+    "name": "Brasil Paralelo",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d6/Logo_BPL.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=brasilparalelo",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Telecine Fun",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/MO2Ynki.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=telecinefun",
-    "epg": "#"
+    "id": "canalbrasil",
+    "name": "Canal Brasil",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=canalbrasil",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Telecine Cult",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/6GuHXnr.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=telecinecult",
-    "epg": "#"
+    "id": "canaldoboi",
+    "name": "Canal do Boi",
+    "logo": "https://i.imgur.com/pVM5MhS.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=canaldoboi",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "HBO",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/de\/HBO_logo.svg\/512px-HBO_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=hbo",
-    "epg": "#"
+    "id": "canaloff",
+    "name": "Canal Off",
+    "logo": "https://i.imgur.com/1biaLgJ.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=canaloff",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "HBO 2",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/HBO2_logo.svg\/512px-HBO2_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=hbo2",
-    "epg": "#"
+    "id": "canalrural",
+    "name": "Canal Rural",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/3/38/Canalrural.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=canalrural",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "HBO Plus",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f9\/Logohboplus2019.svg\/512px-Logohboplus2019.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=hboplus",
-    "epg": "#"
+    "id": "cartoonnetwork",
+    "name": "Cartoon Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cartoonnetwork",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "HBO Family",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/22\/HBO_Family.svg\/512px-HBO_Family.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=hbofamily",
-    "epg": "#"
+    "id": "cartoonito",
+    "name": "Cartoonito",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cartoonito",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "HBO Signature",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9e\/HBO_Signature.svg\/512px-HBO_Signature.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=hbosignature",
-    "epg": "#"
+    "id": "cinecanal",
+    "name": "Cinecanal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cinecanal",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "HBO Xtreme",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/HBO_Xtreme.svg\/512px-HBO_Xtreme.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=hboxtreme",
-    "epg": "#"
+    "id": "cinemax",
+    "name": "Cinemax",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cinemax",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Discovery Channel",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f1\/2019_Discovery_logo.svg\/512px-2019_Discovery_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=discoverychannel",
-    "epg": "#"
+    "id": "cnninternational",
+    "name": "CNN International",
+    "logo": "https://i.imgur.com/05S3yYZ.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cnninternational",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Discovery World",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/Yb3oUls.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=discoveryworld",
-    "epg": "#"
+    "id": "comedycentral",
+    "name": "Comedy Central",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=comedycentral",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Discovery Turbo",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/WuOhLl4.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=discoveryturbo",
-    "epg": "#"
+    "id": "curta",
+    "name": "Curta!",
+    "logo": "https://i.imgur.com/Rwrh0zU.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=curta",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Discovery ID",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/35\/InvestigationDiscoveryLogo2020.svg\/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=discoveryid",
-    "epg": "#"
+    "id": "discoverychannel",
+    "name": "Discovery Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=discoverychannel",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Discovery Kids",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/C0VEHXU.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=discoverykids",
-    "epg": "#"
+    "id": "discoveryheh",
+    "name": "Discovery H&H",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=discoveryheh",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Discovery H&H",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/90\/Discovery_H%26H_Logo_2022.webp\/500px-Discovery_H%26H_Logo_2022.webp.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=discoveryheh",
-    "epg": "#"
+    "id": "discoveryid",
+    "name": "Discovery ID",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=discoveryid",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Discovery Theater",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/T07gvEb.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=discoverytheater",
-    "epg": "#"
+    "id": "discoverykids",
+    "name": "Discovery Kids",
+    "logo": "https://i.imgur.com/C0VEHXU.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=discoverykids",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Discovery Science",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8b\/Discovery_science_new_logo_2017.png\/512px-Discovery_science_new_logo_2017.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=discoveryscience",
-    "epg": "#"
+    "id": "discoveryscience",
+    "name": "Discovery Science",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=discoveryscience",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Comedy Central",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/aa\/Comedy_Central_2018.svg\/512px-Comedy_Central_2018.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=comedycentral",
-    "epg": "#"
+    "id": "discoverytheater",
+    "name": "Discovery Theater",
+    "logo": "https://i.imgur.com/T07gvEb.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=discoverytheater",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "MTV",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/68\/MTV_2021_%28brand_version%29.svg\/512px-MTV_2021_%28brand_version%29.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=mtv",
-    "epg": "#"
+    "id": "discoveryturbo",
+    "name": "Discovery Turbo",
+    "logo": "https://i.imgur.com/WuOhLl4.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=discoveryturbo",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "MTV Live",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/3UByLqb.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=mtvlive",
-    "epg": "#"
+    "id": "discoveryworld",
+    "name": "Discovery World",
+    "logo": "https://i.imgur.com/Yb3oUls.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=discoveryworld",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Nick Jr",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a1\/Nick_Jr._logo_2009.svg\/512px-Nick_Jr._logo_2009.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=nickjr",
-    "epg": "#"
+    "id": "disneychannel",
+    "name": "Disney Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=disneychannel",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Lifetime",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Logo_Lifetime_2020.svg\/512px-Logo_Lifetime_2020.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=lifetime",
-    "epg": "#"
+    "id": "e",
+    "name": "E!",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=e",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Agro+",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/sFcOZeo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=agromais",
-    "epg": "#"
+    "id": "empreender",
+    "name": "Empreender",
+    "logo": "https://i.ibb.co/2nVmDJC/transferir.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=empreender",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Arte1",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/Ivnk7A6.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=arte1",
-    "epg": "#"
+    "id": "fashiontv",
+    "name": "Fashion TV",
+    "logo": "https://i.imgur.com/cZWKyuM.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=fashiontv",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Terra Viva",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/wnYsE3O.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=terraviva",
-    "epg": "#"
+    "id": "filmearts",
+    "name": "Film & Arts Brazil",
+    "logo": "https://i.imgur.com/2kHUsl7.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=filmearts",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "AMC",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/34\/AMC_logo_2019.svg\/512px-AMC_logo_2019.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=amc",
-    "epg": "#"
+    "id": "fishtv",
+    "name": "Fish TV",
+    "logo": "https://bravi.tv/wp-content/uploads/2019/09/Logo-Fish-TV-versao-mono-principal-1-1-768x219.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=fishtv",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "AXN",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/52\/AXN_logo_%282015%29.svg\/512px-AXN_logo_%282015%29.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=axn",
-    "epg": "#"
+    "id": "foodnetwork",
+    "name": "Food Network",
+    "logo": "https://i.imgur.com/6l7us9Y.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=foodnetwork",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "BIS",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/VUt1lmH.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=bis",
-    "epg": "#"
+    "id": "futura",
+    "name": "Futura",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=futura",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Canal Brasil",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8e\/CanalBrasil_logos_700px_0-03.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=canalbrasil",
-    "epg": "#"
+    "id": "fx",
+    "name": "FX",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=fx",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "E!",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/96\/E%21_Logo_2012.svg\/512px-E%21_Logo_2012.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=e",
-    "epg": "#"
+    "id": "globoplaynovelas",
+    "name": "Globoplay Novelas",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/5/5f/Logotipo_do_Globoplay_Novelas.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=globoplaynovelas",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "FX",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4d\/FX_International_logo.svg\/512px-FX_International_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=fx",
-    "epg": "#"
+    "id": "gloob",
+    "name": "Gloob",
+    "logo": "https://i.imgur.com/N1BUULh.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=gloob",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Gloob",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/N1BUULh.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=gloob",
-    "epg": "#"
+    "id": "gloobinho",
+    "name": "Gloobinho",
+    "logo": "https://i.imgur.com/UWkHErt.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=gloobinho",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Gloobinho",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/UWkHErt.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=gloobinho",
-    "epg": "#"
+    "id": "gnt",
+    "name": "GNT",
+    "logo": "https://i.imgur.com/XymcvMy.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=gnt",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "GNT",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/XymcvMy.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=gnt",
-    "epg": "#"
+    "id": "hbo",
+    "name": "HBO",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=hbo",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "History",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/01\/History_%282021%29.svg\/512px-History_%282021%29.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=history",
-    "epg": "#"
+    "id": "hbo2",
+    "name": "HBO 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=hbo2",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "History 2",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c9\/History2_logo_%282022%29.svg\/512px-History2_logo_%282022%29.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=history2",
-    "epg": "#"
+    "id": "hbofamily",
+    "name": "HBO Family",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=hbofamily",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Megapix",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/qTYv5jt.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=megapix",
-    "epg": "#"
+    "id": "hboplus",
+    "name": "HBO Plus",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=hboplus",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Modo Viagem",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/ff\/Logotipo_do_Modo_Viagem.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=modoviagem",
-    "epg": "#"
+    "id": "hbosignature",
+    "name": "HBO Signature",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=hbosignature",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Multishow",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/bqVg8nT.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=multishow",
-    "epg": "#"
+    "id": "hboxtreme",
+    "name": "HBO Xtreme",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=hboxtreme",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Canal Off",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/1biaLgJ.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=canaloff",
-    "epg": "#"
+    "id": "hgtv",
+    "name": "HGTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=hgtv",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Studio Universal",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/74\/StudioUniversal2016.png\/512px-StudioUniversal2016.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=studiouniversal",
-    "epg": "#"
+    "id": "history",
+    "name": "History",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=history",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "SyFy",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/4fMWhUE.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=syfy",
-    "epg": "#"
+    "id": "history2",
+    "name": "History 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=history2",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Universal TV",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/Jt0B1Ac.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=universaltv",
-    "epg": "#"
+    "id": "lifetime",
+    "name": "Lifetime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=lifetime",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Cinemax",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/11\/Cinemax_%28Yellow%29.svg\/512px-Cinemax_%28Yellow%29.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cinemax",
-    "epg": "#"
+    "id": "megapix",
+    "name": "Megapix",
+    "logo": "https://i.imgur.com/qTYv5jt.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=megapix",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Cinecanal",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e6\/CinecanalLA.png\/512px-CinecanalLA.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cinecanal",
-    "epg": "#"
+    "id": "modoviagem",
+    "name": "Modo Viagem",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=modoviagem",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Paramount Network",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9f\/Paramount_Network.svg\/512px-Paramount_Network.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=paramountnetwork",
-    "epg": "#"
+    "id": "mtv",
+    "name": "MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=mtv",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Animal Planet",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/2018_Animal_Planet_logo.svg\/512px-2018_Animal_Planet_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=animalplanet",
-    "epg": "#"
+    "id": "mtvs_00",
+    "name": "MTV 00s",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=mtvs_00",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Cartoon Network",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/80\/Cartoon_Network_2010_logo.svg\/512px-Cartoon_Network_2010_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cartoonnetwork",
-    "epg": "#"
+    "id": "mtvlive",
+    "name": "MTV Live",
+    "logo": "https://i.imgur.com/3UByLqb.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=mtvlive",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Disney Channel",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f4\/Disney_Channel_logo_%282014%29.svg\/512px-Disney_Channel_logo_%282014%29.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=disneychannel",
-    "epg": "#"
+    "id": "multishow",
+    "name": "Multishow",
+    "logo": "https://i.imgur.com/bqVg8nT.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=multishow",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "National Geographic",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/Natgeologo.svg\/512px-Natgeologo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=nationalgeographic",
-    "epg": "#"
+    "id": "musicboxbrasil",
+    "name": "Music Box Brazil",
+    "logo": "https://i.imgur.com/CDPCF2X.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=musicboxbrasil",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Nickelodeon",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7a\/Nickelodeon_2009_logo.svg\/512px-Nickelodeon_2009_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=nickelodeon",
-    "epg": "#"
+    "id": "nationalgeographic",
+    "name": "National Geographic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=nationalgeographic",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Sony Channel",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b9\/Sony_Channel_Logo.png\/512px-Sony_Channel_Logo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sonychannel",
-    "epg": "#"
+    "id": "nickjr",
+    "name": "Nick Jr",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=nickjr",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Sony Movies",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9b\/Sony_Movies_Logo.svg\/512px-Sony_Movies_Logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sonymovies",
-    "epg": "#"
+    "id": "nickelodeon",
+    "name": "Nickelodeon",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=nickelodeon",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Space",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1a\/SpaceLogo.svg\/512px-SpaceLogo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=space",
-    "epg": "#"
+    "id": "paramountnetwork",
+    "name": "Paramount Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=paramountnetwork",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Star Channel",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/Star_Channel_2020.svg\/512px-Star_Channel_2020.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=starchannel",
-    "epg": "#"
+    "id": "primeboxbrazil",
+    "name": "Prime Box Brazil",
+    "logo": "https://i.imgur.com/BMqSDNn.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=primeboxbrazil",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Food Network",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/6l7us9Y.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=foodnetwork",
-    "epg": "#"
+    "id": "ratimbum",
+    "name": "Rá-Tim-Bum",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=ratimbum",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Warner TV",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5e\/Warner2018LA.png\/512px-Warner2018LA.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=warnertv",
-    "epg": "#"
+    "id": "redegospel",
+    "name": "Rede Gospel",
+    "logo": "https://i.imgur.com/mttSwgO.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=redegospel",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "TruTV",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/TruTV_2014.svg\/512px-TruTV_2014.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=trutv",
-    "epg": "#"
+    "id": "redevida",
+    "name": "Rede Vida",
+    "logo": "https://i.imgur.com/mP1qfp2.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=redevida",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "TLC",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/74\/TLC_Logo.svg\/512px-TLC_Logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tlc",
-    "epg": "#"
+    "id": "saborearte",
+    "name": "Sabor & Arte",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=saborearte",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Viva",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/14\/Canal_Viva_2018_wordmark.svg\/512px-Canal_Viva_2018_wordmark.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=viva",
-    "epg": "#"
+    "id": "sonychannel",
+    "name": "Sony Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sonychannel",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "A&E",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/df\/A%26E_Network_logo.svg\/512px-A%26E_Network_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=aee",
-    "epg": "#"
+    "id": "sonymovies",
+    "name": "Sony Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=sonymovies",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "TNT",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/24\/TNT_Logo_2016.svg\/512px-TNT_Logo_2016.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tnt",
-    "epg": "#"
+    "id": "space",
+    "name": "Space",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=space",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Eleven 1 Portugal",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/STN37zd.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=elevensports_pt",
-    "epg": "#"
+    "id": "starchannel",
+    "name": "Star Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=starchannel",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Eleven 2 Portugal",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/bGRgFwo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=elevensports2_pt",
-    "epg": "#"
+    "id": "studiouniversal",
+    "name": "Studio Universal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=studiouniversal",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Eleven 3 Portugal",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/lrcWrFs.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=elevensports3_pt",
-    "epg": "#"
+    "id": "syfy",
+    "name": "SyFy",
+    "logo": "https://i.imgur.com/4fMWhUE.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=syfy",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Eleven 4 Portugal",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/OUGHmuH.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=elevensports4_pt",
-    "epg": "#"
+    "id": "tcm",
+    "name": "TCM",
+    "logo": "https://i.imgur.com/UUxM3yD.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tcm",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Eleven 5 Portugal",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/rw8Qr1l.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=elevensports5_pt",
-    "epg": "#"
+    "id": "telecineaction",
+    "name": "Telecine Action",
+    "logo": "https://i.imgur.com/BHYWG0h.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=telecineaction",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Eleven 6 Portugal",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.imgur.com\/0dAM5uT.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=elevensports6_pt",
-    "epg": "#"
+    "id": "telecinecult",
+    "name": "Telecine Cult",
+    "logo": "https://i.imgur.com/6GuHXnr.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=telecinecult",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Empreender",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.ibb.co\/2nVmDJC\/transferir.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=empreender",
-    "epg": "#"
+    "id": "telecinefun",
+    "name": "Telecine Fun",
+    "logo": "https://i.imgur.com/MO2Ynki.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=telecinefun",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Sabor & Arte",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/pt\/9\/98\/Saborearte.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=saborearte",
-    "epg": "#"
+    "id": "telecinepipoca",
+    "name": "Telecine Pipoca",
+    "logo": "https://i.imgur.com/hW9JYXr.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=telecinepipoca",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Aparecida",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/pt\/1\/1e\/Logotipo_da_TV_Aparecida.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=aparecida",
-    "epg": "#"
+    "id": "telecinepremium",
+    "name": "Telecine Premium",
+    "logo": "https://i.imgur.com/uVFgIr8.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=telecinepremium",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "R\u00e1-Tim-Bum",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/de\/TV_R%C3%A1-Tim-Bum.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=ratimbum",
-    "epg": "#"
+    "id": "telecinetouch",
+    "name": "Telecine Touch",
+    "logo": "https://i.imgur.com/Nky0hRo.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=telecinetouch",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "TNT Novelas",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3a\/Logo_TNT_Novelas.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tntnovelas",
-    "epg": "#"
+    "id": "terraviva",
+    "name": "Terra Viva",
+    "logo": "https://i.imgur.com/wnYsE3O.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=terraviva",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Fish TV",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/bravi.tv\/wp-content\/uploads\/2019\/09\/Logo-Fish-TV-versao-mono-principal-1-1-768x219.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=fishtv",
-    "epg": "#"
+    "id": "tlc",
+    "name": "TLC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tlc",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": " Cartoonito",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a5\/Cartoonito_-_Logo_2021.svg\/512px-Cartoonito_-_Logo_2021.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cartoonito",
-    "epg": "#"
+    "id": "tnt",
+    "name": "TNT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tnt",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Fashion TV",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/cZWKyuM.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=fashiontv",
-    "epg": "#"
+    "id": "tntnovelas",
+    "name": "TNT Novelas",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tntnovelas",
+    "category_name": "Entretenimento"
   },
   {
-    "titulo": "Curta!",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/Rwrh0zU.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=curta",
-    "epg": "#"
-  },
-  {
-    "titulo": "HGTV",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c5\/HGTV_US_Logo_2015.svg\/512px-HGTV_US_Logo_2015.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=hgtv",
-    "epg": "#"
-  },
-  {
-    "titulo": "WooHoo",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/me622pa.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=woohoo",
-    "epg": "#"
-  },
-  {
-    "titulo": "ZooMoo",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/ciTJrnl.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=zoomoo",
-    "epg": "#"
-  },
-  {
-    "titulo": "Music Box Brazil",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/CDPCF2X.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=musicboxbrasil",
-    "epg": "#"
-  },
-  {
-    "titulo": "MTV 00s",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f8\/MTV_00s_remaster.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=mtvs_00",
-    "epg": "#"
-  },
-  {
-    "titulo": " Film & Arts Brazil",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/2kHUsl7.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=filmearts",
-    "epg": "#"
-  },
-  {
-    "titulo": "Prime Box Brazil",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/BMqSDNn.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=primeboxbrazil",
-    "epg": "#"
-  },
-  {
-    "titulo": "CNN International",
-    "categoria": "Noticias",
-    "img": "https:\/\/i.imgur.com\/05S3yYZ.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cnninternational",
-    "epg": "#"
-  },
-  {
-    "titulo": "TV Gazeta",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/0sksWse.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=gazeta",
-    "epg": "#"
-  },
-  {
-    "titulo": "Rede Gospel",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/mttSwgO.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=redegospel",
-    "epg": "#"
-  },
-  {
-    "titulo": "TV Senado",
-    "categoria": "Noticias",
-    "img": "https:\/\/i.imgur.com\/duy6waL.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tvsenado",
-    "epg": "#"
-  },
-  {
-    "titulo": "TV Camara",
-    "categoria": "Noticias",
-    "img": "https:\/\/i.imgur.com\/Sdou1Ab.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tvcamara",
-    "epg": "#"
-  },
-  {
-    "titulo": "Brasil Paralelo",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/pt\/d\/d6\/Logo_BPL.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=brasilparalelo",
-    "epg": "#"
-  },
-  {
-    "titulo": "Futura",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8e\/Canal_Futura.png\/512px-Canal_Futura.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=futura",
-    "epg": "#"
-  },
-  {
-    "titulo": "Canal do Boi",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/pVM5MhS.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=canaldoboi",
-    "epg": "#"
-  },
-  {
-    "titulo": " AgroBrasil TV",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/aNkP7Zd.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=agrobrasil",
-    "epg": "#"
-  },
-  {
-    "titulo": "Canal Rural",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/exdDHml.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=novotempo",
-    "epg": "#"
-  },
-  {
-    "titulo": "Rede Vida",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/mP1qfp2.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=redevida",
-    "epg": "#"
-  },
-  {
-    "titulo": "TV Pai Eterno",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/iuoXchN.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tvpaieterno",
-    "epg": "#"
-  },
-  {
-    "titulo": "TV Evangelizar",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/IrYR7Kp.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tvevangelizar",
-    "epg": "#"
-  },
-  {
-    "titulo": "TV Cancao Nova",
-    "categoria": "Canais Abertos",
-    "img": "https:\/\/i.imgur.com\/OaM9hkH.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cancaonova",
-    "epg": "#"
-  },
-  {
-    "titulo": "USA",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/canalusa.com.br\/img\/logorojo.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=usa",
-    "epg": "#"
-  },
-  {
-    "titulo": "Adult Swim",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e4\/Adult_Swim_2003_logo.svg\/512px-Adult_Swim_2003_logo.svg.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=adultswim",
-    "epg": "#"
-  },
-  {
-    "titulo": "TCM",
-    "categoria": "Entretenimento",
-    "img": "https:\/\/i.imgur.com\/UUxM3yD.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=tcm",
-    "epg": "#"
-  },
-  {
-    "titulo": "Playboy TV",
-    "categoria": "Adulto",
-    "img": "https:\/\/i.imgur.com\/5di4Nis.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=playboy",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sex Prive",
-    "categoria": "Adulto",
-    "img": "https:\/\/i.imgur.com\/irp3iLP.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sexprive",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sextreme",
-    "categoria": "Adulto",
-    "img": "https:\/\/i.imgur.com\/jWsW2Rd.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sextreme",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sexy Hot",
-    "categoria": "Adulto",
-    "img": "https:\/\/i.imgur.com\/Fs8xVoY.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sexyhot",
-    "epg": "#"
-  },
-  {
-    "titulo": "Venus",
-    "categoria": "Adulto",
-    "img": "https:\/\/i.imgur.com\/4LFXPMk.png",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=venus",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sport TV PT",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Logo_SportTV.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sporttvpt",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sport TV PT 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Logo_SportTV.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sporttvpt2",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sport TV PT 3",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Logo_SportTV.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sporttvpt3",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sport TV PT 4",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Logo_SportTV.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sporttvpt4",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sport TV PT 5",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Logo_SportTV.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sporttvpt5",
-    "epg": "#"
-  },
-  {
-    "titulo": "Sport TV PT 6",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Logo_SportTV.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=sporttvpt6",
-    "epg": "#"
-  },
-  {
-    "titulo": "Prime Video",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/11\/Amazon_Prime_Video_logo.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=primevideo",
-    "epg": "#"
-  },
-  {
-    "titulo": "Prime Video 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/11\/Amazon_Prime_Video_logo.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=primevideo2",
-    "epg": "#"
-  },
-  {
-    "titulo": "Prime Video 3",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/11\/Amazon_Prime_Video_logo.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=primevideo3",
-    "epg": "#"
-  },
-  {
-    "titulo": "Prime Video 4",
-    "categoria": "Esportes",
-    "img": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/11\/Amazon_Prime_Video_logo.svg",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=primevideo4",
-    "epg": "#"
-  },
-  {
-    "titulo": "Caz\u00e9TV",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.ibb.co\/JcnN7Xj\/Perfil-casimito.webp",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cazetv",
-    "epg": "#"
-  },
-  {
-    "titulo": "Caz\u00e9TV 2",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.ibb.co\/JcnN7Xj\/Perfil-casimito.webp",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cazetv2",
-    "epg": "#"
-  },
-  {
-    "titulo": "Caz\u00e9TV 3",
-    "categoria": "Esportes",
-    "img": "https:\/\/i.ibb.co\/JcnN7Xj\/Perfil-casimito.webp",
-    "url": "https:\/\/reidoscanais.cc\/embed\/?id=cazetv3",
-    "epg": "#"
+    "id": "trutv",
+    "name": "TruTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=trutv",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "tvcamara",
+    "name": "TV Camara",
+    "logo": "https://i.imgur.com/Sdou1Ab.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tvcamara",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "cancaonova",
+    "name": "TV Cancao Nova",
+    "logo": "https://i.imgur.com/OaM9hkH.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=cancaonova",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "tvevangelizar",
+    "name": "TV Evangelizar",
+    "logo": "https://i.imgur.com/IrYR7Kp.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tvevangelizar",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "gazeta",
+    "name": "TV Gazeta",
+    "logo": "https://i.imgur.com/0sksWse.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=gazeta",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "tvpaieterno",
+    "name": "TV Pai Eterno",
+    "logo": "https://i.imgur.com/iuoXchN.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tvpaieterno",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "tvsenado",
+    "name": "TV Senado",
+    "logo": "https://i.imgur.com/duy6waL.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=tvsenado",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "universaltv",
+    "name": "Universal TV",
+    "logo": "https://i.imgur.com/Jt0B1Ac.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=universaltv",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "usa",
+    "name": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=usa",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "viva",
+    "name": "Viva",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/512px-Canal_Viva_2018_wordmark.svg.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=viva",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "warnertv",
+    "name": "Warner TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=warnertv",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "woohoo",
+    "name": "WooHoo",
+    "logo": "https://i.imgur.com/me622pa.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=woohoo",
+    "category_name": "Entretenimento"
+  },
+  {
+    "id": "zoomoo",
+    "name": "ZooMoo",
+    "logo": "https://i.imgur.com/ciTJrnl.png",
+    "category": "entretenimento",
+    "streamUrl": "https://reidoscanais.lol/embed/?id=zoomoo",
+    "category_name": "Entretenimento"
   }
 ]
