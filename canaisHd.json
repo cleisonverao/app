@@ -5,14 +5,6 @@
     "tvg_logo": "",
     "group": "",
     "name": "A&E",
-    "url": "http://15.235.15.230:14218"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "A&E",
     "url": "http://79.127.238.228:14551"
   },
   {
@@ -28,8 +20,8 @@
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "A&E",
-    "url": "http://15.235.15.230:14218"
+    "name": "AMC",
+    "url": "http://148.113.160.49:14207"
   },
   {
     "tvg_id": "",
@@ -37,7 +29,7 @@
     "tvg_logo": "",
     "group": "",
     "name": "AMC",
-    "url": "http://15.235.15.230:14221"
+    "url": "http://148.113.160.49:14208"
   },
   {
     "tvg_id": "",
@@ -45,23 +37,7 @@
     "tvg_logo": "",
     "group": "",
     "name": "AMC",
-    "url": "http://15.235.15.230:14221"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "BAND",
-    "url": "http://79.127.238.228:14298"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "BAND",
-    "url": "http://15.235.50.115:14522"
+    "url": "http://148.113.160.49:14209"
   },
   {
     "tvg_id": "",
@@ -77,663 +53,183 @@
     "tvg_logo": "",
     "group": "",
     "name": "BAND",
-    "url": "http://15.235.50.115:14522"
+    "url": "http://79.127.238.228:14298"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BAND NEWS",
-    "url": "http://15.235.11.7:14121"
+    "name": "CANAL UOL",
+    "url": "http://148.113.160.49:14489"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BAND NEWS",
-    "url": "http://15.235.11.7:14121"
+    "name": "CINEMAX USA",
+    "url": "http://148.113.160.49:14200"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BAND SPORTS",
-    "url": "http://15.235.15.230:14043"
+    "name": "CINEMAX USA",
+    "url": "http://148.113.160.49:14199"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BAND SPORTS",
-    "url": "http://15.235.15.230:14042"
+    "name": "CINEMAX USA",
+    "url": "http://148.113.160.49:14198"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BAND SPORTS",
-    "url": "http://15.235.15.230:14041"
+    "name": "DANZ",
+    "url": "http://148.113.160.49:14468"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BAND SPORTS",
-    "url": "http://15.235.15.230:14043"
+    "name": "DANZ",
+    "url": "http://148.113.160.49:14467"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BAND SPORTS",
-    "url": "http://15.235.15.230:14042"
+    "name": "DANZ",
+    "url": "http://148.113.160.49:14476"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BAND SPORTS",
-    "url": "http://15.235.15.230:14041"
+    "name": "DANZ",
+    "url": "http://148.113.160.49:14477"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BIS",
-    "url": "http://15.235.11.7:14162"
+    "name": "DANZ",
+    "url": "http://148.113.160.49:14475"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "BIS",
-    "url": "http://15.235.11.7:14162"
+    "name": "DANZ 2",
+    "url": "http://148.113.160.49:14474"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CANAL BRASIL",
-    "url": "http://15.235.11.7:14172"
+    "name": "DANZ 2",
+    "url": "http://148.113.160.49:14472"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CANAL BRASIL",
-    "url": "http://15.235.11.7:14172"
+    "name": "DANZ 2",
+    "url": "http://148.113.160.49:14473"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CANAL RURAL",
-    "url": "http://15.235.15.230:14174"
+    "name": "DANZ 3",
+    "url": "http://148.113.160.49:14471"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CANAL RURAL",
-    "url": "http://15.235.15.230:14174"
+    "name": "DANZ 3",
+    "url": "http://148.113.160.49:14470"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CINEMAX",
-    "url": "http://15.235.15.230:14227"
+    "name": "DANZ 3",
+    "url": "http://148.113.160.49:14469"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CINEMAX",
-    "url": "http://15.235.15.230:14227"
+    "name": "DANZ 5",
+    "url": "http://148.113.160.49:14466"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CNN",
-    "url": "http://15.235.11.7:14128"
+    "name": "ESPN USA",
+    "url": "http://148.113.160.49:14480"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CNN",
-    "url": "http://15.235.11.7:14128"
+    "name": "ESPN USA",
+    "url": "http://148.113.160.49:14482"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CNN BRASIL",
-    "url": "http://15.235.11.7:14118"
+    "name": "ESPN USA",
+    "url": "http://148.113.160.49:14485"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "CNN BRASIL",
-    "url": "http://15.235.11.7:14118"
+    "name": "FILM&ARTS",
+    "url": "http://148.113.160.49:14212"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "COMBATE",
-    "url": "http://15.235.15.230:14044"
+    "name": "FILM&ARTS",
+    "url": "http://148.113.160.49:14210"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "COMBATE",
-    "url": "http://15.235.15.230:14044"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "COMBATE",
-    "url": "http://15.235.15.230:14045"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "COMBATE",
-    "url": "http://15.235.15.230:14045"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "COMBATE",
-    "url": "http://15.235.15.230:14046"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "COMBATE",
-    "url": "http://15.235.15.230:14046"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "COMEDY CENTRAL",
-    "url": "http://15.235.11.7:14156"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "COMEDY CENTRAL",
-    "url": "http://15.235.11.7:14156"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "CURTA!",
-    "url": "http://15.235.11.7:14171"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "CURTA!",
-    "url": "http://15.235.11.7:14171"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DICOVERY KIDS",
-    "url": "http://15.235.50.112:14561"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DICOVERY KIDS",
-    "url": "http://15.235.50.112:14561"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY ID",
-    "url": "http://15.235.50.112:14115"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY ID",
-    "url": "http://15.235.50.112:14115"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY ID",
-    "url": "http://15.235.50.112:14115"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY ID",
-    "url": "http://15.235.50.112:14115"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY ID",
-    "url": "http://15.235.50.112:14115"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY ID",
-    "url": "http://15.235.50.112:14115"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY KIDS",
-    "url": "http://15.235.50.112:14561"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY KIDS",
-    "url": "http://15.235.50.112:14561"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY SCIENCE",
-    "url": "http://15.235.50.112:14106"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY SCIENCE",
-    "url": "http://15.235.50.112:14106"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY SCIENCE",
-    "url": "http://15.235.50.112:14106"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY SCIENCE",
-    "url": "http://15.235.50.112:14106"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY THEATER",
-    "url": "http://15.235.50.112:14103"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY THEATER",
-    "url": "http://15.235.50.112:14103"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY THEATER",
-    "url": "http://15.235.50.112:14103"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY THEATER",
-    "url": "http://15.235.50.112:14103"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY TURBO",
-    "url": "http://15.235.50.112:14097"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY TURBO",
-    "url": "http://15.235.50.112:14097"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY TURBO",
-    "url": "http://15.235.50.112:14097"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY TURBO",
-    "url": "http://15.235.50.112:14097"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY WORLD",
-    "url": "http://15.235.50.112:14112"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY WORLD",
-    "url": "http://15.235.50.112:14112"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY WORLD",
-    "url": "http://15.235.50.112:14112"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY WORLD",
-    "url": "http://15.235.50.112:14112"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY WORLD",
-    "url": "http://15.235.50.112:14112"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "DISCOVERY WORLD",
-    "url": "http://15.235.50.112:14112"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "E!",
-    "url": "http://15.235.11.7:14151"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "E!",
-    "url": "http://15.235.11.7:14151"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN",
-    "url": "http://15.235.50.115:14056"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN",
-    "url": "http://15.235.50.115:14056"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 2",
-    "url": "http://15.235.15.230:14065"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 2",
-    "url": "http://15.235.15.230:14065"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 3",
-    "url": "http://15.235.15.230:14068"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 3",
-    "url": "http://15.235.15.230:14068"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 4",
-    "url": "http://15.235.15.230:14070"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 4",
-    "url": "http://15.235.50.115:14056"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 4",
-    "url": "http://15.235.15.230:14069"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 4",
-    "url": "http://15.235.15.230:14070"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 4",
-    "url": "http://15.235.50.115:14056"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 4",
-    "url": "http://15.235.15.230:14069"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 5",
-    "url": "http://15.235.15.230:14059"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 5",
-    "url": "http://15.235.15.230:14059"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 6",
-    "url": "http://15.235.15.230:14071"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "ESPN 6",
-    "url": "http://15.235.15.230:14071"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "FISHTV",
-    "url": "http://15.235.11.7:14165"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "FISHTV",
-    "url": "http://15.235.11.7:14165"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "FOOD NETWORK",
-    "url": "http://15.235.11.7:14168"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "FOOD NETWORK",
-    "url": "http://15.235.11.7:14168"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "FX CROSS ROLES",
-    "url": "http://15.235.15.230:14175"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "FX CROSS ROLES",
-    "url": "http://15.235.15.230:14175"
+    "name": "FILM&ARTS",
+    "url": "http://148.113.160.49:14211"
   },
   {
     "tvg_id": "",
@@ -789,14 +285,6 @@
     "tvg_logo": "",
     "group": "",
     "name": "GLOBOPLAY",
-    "url": "http://79.127.238.228:14455"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "GLOBOPLAY",
     "url": "http://79.127.238.228:14455/GLOBOPLAY"
   },
   {
@@ -805,23 +293,7 @@
     "tvg_logo": "",
     "group": "",
     "name": "GLOBOPLAY",
-    "url": "http://15.235.15.230:14177"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "GLOBOPLAY",
-    "url": "http://15.235.15.230:14177"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "GNT",
-    "url": "http://79.127.238.228:14402/GNT"
+    "url": "http://79.127.238.228:14455"
   },
   {
     "tvg_id": "",
@@ -836,96 +308,56 @@
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "H&H",
-    "url": "http://15.235.50.112:14100"
+    "name": "GNT",
+    "url": "http://79.127.238.228:14402/GNT"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "H&H",
-    "url": "http://15.235.50.112:14100"
+    "name": "HBO + USA",
+    "url": "http://148.113.160.49:14193"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "H&H",
-    "url": "http://15.235.50.112:14100"
+    "name": "HBO + USA",
+    "url": "http://148.113.160.49:14192"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "H&H",
-    "url": "http://15.235.50.112:14100"
+    "name": "HBO + USA",
+    "url": "http://148.113.160.49:14194"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HBO",
-    "url": "http://15.235.50.112:14186"
+    "name": "HBO FAMILY USA",
+    "url": "http://148.113.160.49:14190"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HBO",
-    "url": "http://15.235.50.112:14186"
+    "name": "HBO FAMILY USA",
+    "url": "http://148.113.160.49:14191"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HBO 2",
-    "url": "http://15.235.50.112:14189"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "HBO 2",
-    "url": "http://15.235.50.112:14189"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "HBO 2",
-    "url": "http://15.235.50.112:14189"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "HBO 2",
-    "url": "http://15.235.50.112:14189"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "HBO FAMILY",
-    "url": "http://15.235.50.112:14192"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "HBO FAMILY",
-    "url": "http://15.235.50.112:14192"
+    "name": "HBO FAMILY USA",
+    "url": "http://148.113.160.49:14189"
   },
   {
     "tvg_id": "",
@@ -933,7 +365,7 @@
     "tvg_logo": "",
     "group": "",
     "name": "HBO MUNDI",
-    "url": "http://15.235.50.112:14195"
+    "url": "http://148.113.160.49:14184"
   },
   {
     "tvg_id": "",
@@ -941,7 +373,7 @@
     "tvg_logo": "",
     "group": "",
     "name": "HBO MUNDI",
-    "url": "http://15.235.50.112:14195"
+    "url": "http://148.113.160.49:14183"
   },
   {
     "tvg_id": "",
@@ -949,79 +381,71 @@
     "tvg_logo": "",
     "group": "",
     "name": "HBO MUNDI",
-    "url": "http://15.235.50.112:14195"
+    "url": "http://148.113.160.49:14185"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HBO MUNDI",
-    "url": "http://15.235.50.112:14195"
+    "name": "HBO POP USA",
+    "url": "http://148.113.160.49:14181"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HGTV",
-    "url": "http://15.235.11.7:14144"
+    "name": "HBO POP USA",
+    "url": "http://148.113.160.49:14182"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HGTV",
-    "url": "http://15.235.11.7:14144"
+    "name": "HBO POP USA",
+    "url": "http://148.113.160.49:14180"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HISTORY",
-    "url": "http://15.235.11.7:14132"
+    "name": "HBO USA",
+    "url": "http://148.113.160.49:14188"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HISTORY",
-    "url": "http://15.235.11.7:14132"
+    "name": "HBO USA",
+    "url": "http://148.113.160.49:14187"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HOB FAMILY",
-    "url": "http://15.235.50.112:14192"
+    "name": "HBO XTREME USA",
+    "url": "http://148.113.160.49:14175"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "HOB FAMILY",
-    "url": "http://15.235.50.112:14192"
+    "name": "HBO XTREME USA",
+    "url": "http://148.113.160.49:14174"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "JP NEWS",
-    "url": "http://15.235.11.7:14124"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "JP NEWS",
-    "url": "http://15.235.11.7:14124"
+    "name": "HBO XTREME USA",
+    "url": "http://148.113.160.49:14176"
   },
   {
     "tvg_id": "",
@@ -1029,7 +453,23 @@
     "tvg_logo": "",
     "group": "",
     "name": "MEGAPIX",
-    "url": "http://79.127.238.228:14592/MEGAPIX"
+    "url": "http://148.113.160.49:14173"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MEGAPIX",
+    "url": "http://148.113.160.49:14172"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "MEGAPIX",
+    "url": "http://148.113.160.49:14171"
   },
   {
     "tvg_id": "",
@@ -1044,680 +484,360 @@
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "MTV COLORS",
-    "url": "http://15.235.11.7:14149"
+    "name": "MEGAPIX",
+    "url": "http://79.127.238.228:14592/MEGAPIX"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "MTV COLORS",
-    "url": "http://15.235.11.7:14149"
+    "name": "MODO VIAGEM",
+    "url": "http://148.113.160.49:14214"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "MULTSHOW",
-    "url": "http://15.235.11.7:14146"
+    "name": "MODO VIAGEM",
+    "url": "http://148.113.160.49:14213"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "MULTSHOW",
-    "url": "http://15.235.11.7:14146"
+    "name": "SONY CHANNEL USA",
+    "url": "http://148.113.160.49:14205"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "OFF",
-    "url": "http://15.235.11.7:14076"
+    "name": "SONY CHANNEL USA",
+    "url": "http://148.113.160.49:14206"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "OFF",
-    "url": "http://15.235.11.7:14075"
+    "name": "SONY CHANNEL USA",
+    "url": "http://148.113.160.49:14204"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "OFF",
-    "url": "http://15.235.11.7:14074"
+    "name": "SPACE USA",
+    "url": "http://148.113.160.49:14169"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "OFF",
-    "url": "http://15.235.11.7:14076"
+    "name": "SPACE USA",
+    "url": "http://148.113.160.49:14170"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "OFF",
-    "url": "http://15.235.11.7:14075"
+    "name": "SPACE USA",
+    "url": "http://148.113.160.49:14168"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "OFF",
-    "url": "http://15.235.11.7:14074"
+    "name": "SPORT.TV",
+    "url": "http://148.113.160.49:14447"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "PREMIERE",
-    "url": "http://15.235.50.112:14020"
+    "name": "SPORT.TV",
+    "url": "http://148.113.160.49:14444"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "PREMIERE",
-    "url": "http://15.235.50.112:14020"
+    "name": "SPORT.TV",
+    "url": "http://148.113.160.49:14445"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "PREMIERE",
-    "url": "http://15.235.50.112:14020"
+    "name": "SPORT.TV",
+    "url": "http://148.113.160.49:14446"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "PREMIERE",
-    "url": "http://15.235.15.230:14771"
+    "name": "SPORT.TV +",
+    "url": "http://148.113.160.49:14460"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "PREMIERE",
-    "url": "http://15.235.50.112:14020"
+    "name": "SPORT.TV 1",
+    "url": "http://148.113.160.49:14458"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "PREMIERE",
-    "url": "http://15.235.15.230:14771"
+    "name": "SPORT.TV 1",
+    "url": "http://148.113.160.49:14459"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "RECORD SP",
-    "url": "http://15.235.15.230:14538"
+    "name": "SPORT.TV 1",
+    "url": "http://148.113.160.49:14456"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "RECORD SP",
-    "url": "http://15.235.15.230:14538"
+    "name": "SPORT.TV 2",
+    "url": "http://148.113.160.49:14454"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "SONY CHANNEL",
-    "url": "http://15.235.15.230:14230"
+    "name": "SPORT.TV 3",
+    "url": "http://148.113.160.49:14452"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "SONY CHANNEL",
-    "url": "http://15.235.15.230:14230"
+    "name": "SPORT.TV 3",
+    "url": "http://148.113.160.49:14451"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "SPORTV",
-    "url": "http://15.235.15.230:14047"
+    "name": "SPORT.TV 3",
+    "url": "http://148.113.160.49:14453"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "SPORTV",
-    "url": "http://15.235.15.230:14047"
+    "name": "SPORT.TV 4",
+    "url": "http://148.113.160.49:14450"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "SPORTV 2",
-    "url": "http://15.235.15.230:14050"
+    "name": "SPORT.TV 4",
+    "url": "http://148.113.160.49:14449"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "SPORTV 2",
-    "url": "http://15.235.15.230:14050"
+    "name": "SPORT.TV 4",
+    "url": "http://148.113.160.49:14448"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "SPORTV 3",
-    "url": "http://15.235.15.230:14053"
+    "name": "STUDIO UNIVERSAL USA",
+    "url": "http://148.113.160.49:14162"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "SPORTV 3",
-    "url": "http://15.235.15.230:14053"
+    "name": "STUDIO UNIVERSAL USA",
+    "url": "http://148.113.160.49:14163"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14015"
+    "name": "STUDIO UNIVERSAL USA",
+    "url": "http://148.113.160.49:14164"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14015"
+    "name": "TELECINE ACTION USA",
+    "url": "http://148.113.160.49:14160"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14015"
+    "name": "TELECINE ACTION USA",
+    "url": "http://148.113.160.49:14161"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14014"
+    "name": "TELECINE ACTION USA",
+    "url": "http://148.113.160.49:14159"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14013"
+    "name": "TELECINE CULT USA",
+    "url": "http://148.113.160.49:14158"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14013"
+    "name": "TELECINE CULT USA",
+    "url": "http://148.113.160.49:14156"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14014"
+    "name": "TELECINE CULT USA",
+    "url": "http://148.113.160.49:14157"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14014"
+    "name": "TELECINE FUN USA",
+    "url": "http://148.113.160.49:14154"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14015"
+    "name": "TELECINE FUN USA",
+    "url": "http://148.113.160.49:14153"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE CULT",
-    "url": "http://15.235.50.115:14014"
+    "name": "TELECINE FUN USA",
+    "url": "http://148.113.160.49:14155"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14017"
+    "name": "TELECINE PIPOCA USA",
+    "url": "http://148.113.160.49:14151"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14018"
+    "name": "TELECINE PIPOCA USA",
+    "url": "http://148.113.160.49:14150"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14016"
+    "name": "TELECINE PIPOCA USA",
+    "url": "http://148.113.160.49:14152"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14018"
+    "name": "TELECINE PREMIUM USA",
+    "url": "http://148.113.160.49:14149"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14018"
+    "name": "TELECINE PREMIUM USA",
+    "url": "http://148.113.160.49:14147"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14017"
+    "name": "TELECINE PREMIUM USA",
+    "url": "http://148.113.160.49:14148"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14018"
+    "name": "TELECINE TOUCH USA",
+    "url": "http://148.113.160.49:14145"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14017"
+    "name": "TELECINE TOUCH USA",
+    "url": "http://148.113.160.49:14146"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14016"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14016"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14016"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE FUN",
-    "url": "http://15.235.50.115:14017"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PIPOCA",
-    "url": "http://15.235.50.115:14005"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PIPOCA",
-    "url": "http://15.235.50.115:14006"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PIPOCA",
-    "url": "http://15.235.50.115:14006"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PIPOCA",
-    "url": "http://15.235.50.115:14006"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PIPOCA",
-    "url": "http://15.235.50.115:14006"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PIPOCA",
-    "url": "http://15.235.50.115:14005"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PIPOCA",
-    "url": "http://15.235.50.115:14005"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PIPOCA",
-    "url": "http://15.235.50.115:14005"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14007"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14009"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14009"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14008"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14009"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14009"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14007"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14008"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14008"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14007"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14007"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE PREMIUM",
-    "url": "http://15.235.50.115:14008"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14011"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14012"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14013"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14011"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14012"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14010"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14012"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14011"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14011"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14013"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14012"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TELECINE TOUCH",
-    "url": "http://15.235.50.115:14010"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TLC",
-    "url": "http://15.235.50.112:14109"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TLC",
-    "url": "http://15.235.50.112:14109"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TLC",
-    "url": "http://15.235.50.112:14109"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TLC",
-    "url": "http://79.127.238.228:14433"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group": "",
-    "name": "TLC",
-    "url": "http://15.235.50.112:14109"
+    "name": "TELECINE TOUCH USA",
+    "url": "http://148.113.160.49:14144"
   },
   {
     "tvg_id": "",
@@ -1726,6 +846,14 @@
     "group": "",
     "name": "TLC",
     "url": "http://79.127.238.228:14433/TLC"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TLC",
+    "url": "http://79.127.238.228:14433"
   },
   {
     "tvg_id": "",
@@ -1748,16 +876,96 @@
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "UNIVERSAL CHANNEL",
-    "url": "http://15.235.15.230:14232"
+    "name": "TNT SERIES USA",
+    "url": "http://148.113.160.49:14139"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "UNIVERSAL CHANNEL",
-    "url": "http://15.235.15.230:14232"
+    "name": "TNT SERIES USA",
+    "url": "http://148.113.160.49:14138"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TNT SERIES USA",
+    "url": "http://148.113.160.49:14140"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TNT USA",
+    "url": "http://148.113.160.49:14141"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TNT USA",
+    "url": "http://148.113.160.49:14142"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "TNT USA",
+    "url": "http://148.113.160.49:14143"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "UNIVERSAL USA",
+    "url": "http://148.113.160.49:14137"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "UNIVERSAL USA",
+    "url": "http://148.113.160.49:14135"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "UNIVERSAL USA",
+    "url": "http://148.113.160.49:14136"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "USA usa",
+    "url": "http://148.113.160.49:14133"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "USA usa",
+    "url": "http://148.113.160.49:14132"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group": "",
+    "name": "USA usa",
+    "url": "http://148.113.160.49:14134"
   },
   {
     "tvg_id": "",
@@ -1772,23 +980,23 @@
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "WARNER",
-    "url": "http://15.235.15.230:14234"
+    "name": "WARNER USA",
+    "url": "http://148.113.160.49:14131"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "WARNER",
-    "url": "http://15.235.15.230:14234"
+    "name": "WARNER USA",
+    "url": "http://148.113.160.49:14129"
   },
   {
     "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group": "",
-    "name": "WARNER",
-    "url": "http://79.127.238.228:14647"
+    "name": "WARNER USA",
+    "url": "http://148.113.160.49:14130"
   }
 ]
