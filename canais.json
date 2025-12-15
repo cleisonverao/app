@@ -2,645 +2,645 @@
   {
     "id": "paramountplus",
     "name": "paramountplus",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/eb919ca8ef8aee37db2bcc6fdd08c4df/paramountplus.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/9e165df87b60d423b59b365ede29858a/paramountplus.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:14:57.547Z"
+    "lastCheck": "2025-12-15T22:54:50.218Z"
   },
   {
     "id": "primevideo",
     "name": "primevideo",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/0feaf68f3e1e6504297de18065946686/primevideo.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/4bceac3a2a32db580f5f813a2d3266f0/primevideo.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:14:58.848Z"
+    "lastCheck": "2025-12-15T22:54:50.817Z"
   },
   {
     "id": "primevideo2",
     "name": "primevideo",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/12820abca86cd1b1c733e0bde46143f7/primevideo2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/d4cc53163ac1c7b1b4f47506cf46ef70/primevideo2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:00.798Z"
+    "lastCheck": "2025-12-15T22:54:51.582Z"
   },
   {
     "id": "primevideo3",
     "name": "primevideo",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/c3d1525fe60c5cba986757fa64d61cfa/primevideo3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/ccf531ef4857083c7520979b24c4710e/primevideo3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:02.782Z"
+    "lastCheck": "2025-12-15T22:54:52.025Z"
   },
   {
     "id": "primevideo4",
     "name": "primevideo",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/d1ca96fc2c464b9d333d3b7d53c8baad/primevideo4.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/5cdccbe074b17f378b9c25a7ef8f5893/primevideo4.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:04.796Z"
+    "lastCheck": "2025-12-15T22:54:52.453Z"
   },
   {
     "id": "sportv",
     "name": "sportv",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/3bdb8af5c11e282bef9bcea9faf52f06/sportv.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/61dd42e9f0768a63975c87ba07e268f5/sportv.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:06.819Z"
+    "lastCheck": "2025-12-15T22:54:52.881Z"
   },
   {
     "id": "sportv2",
     "name": "sportv 2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/45e800766536862c5b7f869106d0de55/sportv2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/298ed7474b215ff1dae3cb41b8c922b1/sportv2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:08.053Z"
+    "lastCheck": "2025-12-15T22:54:53.267Z"
   },
   {
     "id": "sportv3",
     "name": "sportv 3",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/d5ca7a3ce7620dc35ebbf7c726c9299e/sportv3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/02ab5d0d051b5cd485479eccc30122a9/sportv3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:10.090Z"
+    "lastCheck": "2025-12-15T22:54:53.685Z"
   },
   {
     "id": "espn",
     "name": "espn",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/04abb054944852452436e254c889091b/espn.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/51f4c3171d74e7eec8fd1af32343e475/espn.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:11.529Z"
+    "lastCheck": "2025-12-15T22:54:54.103Z"
   },
   {
     "id": "espn2",
     "name": "espn 2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/e79096b099a7329829f4c39ea90e1db0/espn2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/5190d8180b3ec2afa9c427a521f52461/espn2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:12.631Z"
+    "lastCheck": "2025-12-15T22:54:54.510Z"
   },
   {
     "id": "espn3",
     "name": "espn 3",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/dbbb81f364bdbd7d3be6893b7b0f8ec1/espn3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/d976fcb9439194d125fbe068fd8f43c3/espn3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:14.574Z"
+    "lastCheck": "2025-12-15T22:54:54.924Z"
   },
   {
     "id": "espn4",
     "name": "espn 4",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/f553cf58fb169840856d982f0fe05dc7/espn4.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/ee440d20a2a4e6ac3ba51ffbfc6c09eb/espn4.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:15.960Z"
+    "lastCheck": "2025-12-15T22:54:55.384Z"
   },
   {
     "id": "espn5",
     "name": "espn 5",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/ba70103312a4efcadbd0a036dedb3aa6/espn5.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/eee2716e7847134358a8b6ef76e825aa/espn5.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:17.201Z"
+    "lastCheck": "2025-12-15T22:54:55.834Z"
   },
   {
     "id": "espn6",
     "name": "espn 6",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/0bcfd412ee771214559c98c7d196b898/espn6.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/44980ea693c1634188f478bfde000894/espn6.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:19.230Z"
+    "lastCheck": "2025-12-15T22:54:56.296Z"
   },
   {
     "id": "caze1",
     "name": "caze1",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/71858a3a1e6bf76c7b920c2049b59ef7/caze1.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/d67e47707bfb8027a37d50667af34cc3/caze1.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:20.604Z"
+    "lastCheck": "2025-12-15T22:54:56.701Z"
   },
   {
     "id": "caze2",
     "name": "caze2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/8f193eda2a17e2f096a6ebedffd7453d/caze2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/856bf644deabc43c0a8c99179a71f16e/caze2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:21.648Z"
+    "lastCheck": "2025-12-15T22:54:57.134Z"
   },
   {
     "id": "caze3",
     "name": "caze3",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/3c502a0affff79eb67f8ccae99ae448c/caze3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/a7d313b59fa4f0599fe96643a5a21e32/caze3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:22.707Z"
+    "lastCheck": "2025-12-15T22:54:57.572Z"
   },
   {
     "id": "caze 4",
     "name": "caze4",
     "stream": "",
     "status": "offline",
-    "lastCheck": "2025-12-15T13:15:23.404Z"
+    "lastCheck": "2025-12-15T22:54:58.277Z"
   },
   {
     "id": "premiere",
     "name": "premiere clubes",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/c6f818ebecf89057b806f0cfee930ba8/premiere.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/ab956eb0891d8660c2d833acbd8c738e/premiere.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:24.617Z"
+    "lastCheck": "2025-12-15T22:54:58.847Z"
   },
   {
     "id": "premiere2",
     "name": "premiere 2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/720925ba32976a7fc7801fcd92f6d446/premiere2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/7c5080d0a3139ea04ee98bb8a70f2fd2/premiere2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:25.872Z"
+    "lastCheck": "2025-12-15T22:54:59.271Z"
   },
   {
     "id": "premiere3",
     "name": "premiere 3",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/8019c534eabe107230f8d9d898018473/premiere3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/9e8b103213385c87bf52ef786e64bc18/premiere3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:27.269Z"
+    "lastCheck": "2025-12-15T22:54:59.678Z"
   },
   {
     "id": "premiere4",
     "name": "premiere 4",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/125b743f52d7ba5969aba609dcaf5079/premiere4.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/8f16d11730eda8662010a62ea5c3ffd6/premiere4.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:29.306Z"
+    "lastCheck": "2025-12-15T22:55:00.082Z"
   },
   {
     "id": "premiere5",
     "name": "premiere 5",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/ba4240fc2d52d26ef3ca2f4a5a96c82a/premiere5.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/ef8dbf595eddbd15856ed92e4f2c0f7b/premiere5.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:30.422Z"
+    "lastCheck": "2025-12-15T22:55:00.491Z"
   },
   {
     "id": "premiere6",
     "name": "premiere 6",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/45e6d78224de8540f328350fea619a3f/premiere6.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/7d442f7a8370371092373b124c47415b/premiere6.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:31.536Z"
+    "lastCheck": "2025-12-15T22:55:00.872Z"
   },
   {
     "id": "premiere7",
     "name": "premiere 7",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/d45f28c214215102cb0ad8fd89038cb0/premiere7.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/a3bd29fb1cb737c073edb9efc78fc65a/premiere7.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:33.565Z"
+    "lastCheck": "2025-12-15T22:55:01.369Z"
   },
   {
     "id": "premiere8",
     "name": "premiere 8",
     "stream": "",
     "status": "offline",
-    "lastCheck": "2025-12-15T13:15:34.253Z"
+    "lastCheck": "2025-12-15T22:55:02.069Z"
   },
   {
     "id": "nossofutebol",
     "name": "nossofutebol",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/881fd7f5c2468eac0b3c96b01c2a515a/nossofutebol.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/7e78b83e28b21d099ab9f2820788474a/nossofutebol.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:35.365Z"
+    "lastCheck": "2025-12-15T22:55:02.644Z"
   },
   {
     "id": "goat1",
     "name": "goat",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/30158afcce4d0e39a63f59288c3651e7/goat1.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/05ff5af192bf38a8c559eed8978e1617/goat1.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:37.431Z"
+    "lastCheck": "2025-12-15T22:55:03.134Z"
   },
   {
     "id": "goat2",
     "name": "goat2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/059d8888b3b15f0ee9531cc9859ce291/goat2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b5794ddb138f8b6f0bee6752a5ace437/goat2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:38.693Z"
+    "lastCheck": "2025-12-15T22:55:03.562Z"
   },
   {
     "id": "goat3",
     "name": "goat",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/30678f87b1f3ef7ddeea3503a8372d60/goat3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/0f5a2f96363ac5be824063c072d5081d/goat3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:39.922Z"
+    "lastCheck": "2025-12-15T22:55:03.973Z"
   },
   {
     "id": "tnt",
     "name": "tnt",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/dcc56c1ff5d81ef606dcdb33f2beb509/tnt.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/6f3321d47f00e53709e53c997d4abb4f/tnt.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:41.016Z"
+    "lastCheck": "2025-12-15T22:55:04.390Z"
   },
   {
     "id": "space",
     "name": "space",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/7bbc1b6d169abb023d0c3b29d4c1755b/space.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/afa5dc7041be8e77d65f8cefdeb29375/space.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:42.247Z"
+    "lastCheck": "2025-12-15T22:55:04.803Z"
   },
   {
     "id": "bandsports",
     "name": "band sports",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/897f84f74454a0e730bccf77039dd8ab/bandsports.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/087f0ab9e0ca174dbd9745338fd48322/bandsports.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:43.457Z"
+    "lastCheck": "2025-12-15T22:55:05.234Z"
   },
   {
     "id": "combate",
     "name": "combate",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/6c1475b1700fc42cac0adbbcaf72ac59/combate.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/be0f38dba3d89e46abf3eb4a50540d2f/combate.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:44.672Z"
+    "lastCheck": "2025-12-15T22:55:05.632Z"
   },
   {
     "id": "ufcfightpass",
     "name": "ufc fight pass",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/6585dd03cde59fadde917817337e1eb7/ufcfightpass.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/ac00d6064052fa30995c9d5360a95b41/ufcfightpass.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:45.918Z"
+    "lastCheck": "2025-12-15T22:55:06.045Z"
   },
   {
     "id": "pt_sportv1",
     "name": "pt_sportv1",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/3ab2625f8dde89329f3d7f4a2e14d8b7/pt_sportv1.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/cc35ba12603885481c1dcbffc82deaaf/pt_sportv1.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:46.917Z"
+    "lastCheck": "2025-12-15T22:55:06.437Z"
   },
   {
     "id": "pt_sportv2",
     "name": "pt_sportv2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/745b9ebee2478b23e41299ca20968f7e/pt_sportv2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/9972b379b5333c395a73ab9449e41840/pt_sportv2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:48.230Z"
+    "lastCheck": "2025-12-15T22:55:06.863Z"
   },
   {
     "id": "pt_sportv3",
     "name": "pt_sportv3",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/f896165044a70d453156ffd94fb86912/pt_sportv3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/eb13a8360729335429c587f2b6c4ae4e/pt_sportv3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:49.404Z"
+    "lastCheck": "2025-12-15T22:55:07.266Z"
   },
   {
     "id": "pt_sportv4",
     "name": "pt_sportv4",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/1601a234b6151cf30ff4b93fef15c0cb/pt_sportv4.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b1bd06a5528862f4f7848d6ff9804b37/pt_sportv4.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:50.453Z"
+    "lastCheck": "2025-12-15T22:55:07.682Z"
   },
   {
     "id": "pt_sportv5",
     "name": "pt_sportv5",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/a4969a5160c5a1f60046a5057237bd41/pt_sportv5.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b0c5135b4dbcb4a388723a239b1afb42/pt_sportv5.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:51.707Z"
+    "lastCheck": "2025-12-15T22:55:08.093Z"
   },
   {
     "id": "pt_eleven1",
     "name": "pt_eleven1",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/cef3cc755942ccdef3cdda57b12ba0f8/pt_eleven1.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/cbe321dd8c40d72e251c087410c073bc/pt_eleven1.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:52.944Z"
+    "lastCheck": "2025-12-15T22:55:08.499Z"
   },
   {
     "id": "pt_eleven2",
     "name": "pt_eleven2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/41f565c7b8f4adb57a119c1a44497818/pt_eleven2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/d6dab620164a4ed5df2e1ee167de4116/pt_eleven2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:54.343Z"
+    "lastCheck": "2025-12-15T22:55:08.915Z"
   },
   {
     "id": "pt_eleven3",
     "name": "pt_eleven3",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/6ba92b0c45e9074e3dffc9192b472b23/pt_eleven3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/dadd1040075fd28eab622e11cedf87a0/pt_eleven3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:55.444Z"
+    "lastCheck": "2025-12-15T22:55:09.328Z"
   },
   {
     "id": "pt_eleven4",
     "name": "pt_eleven4",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/1928e8d01912ed7bfb5305966a11be41/pt_eleven4.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b84ba629859ac100b3a42ddd47d3b0e7/pt_eleven4.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:56.836Z"
+    "lastCheck": "2025-12-15T22:55:09.731Z"
   },
   {
     "id": "max1",
     "name": "max - 1",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/fe04846133bbc3d2fb59e82113909724/max1.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/f5cf350bb233ff4cce0eb8a9d86aa03c/max1.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:58.079Z"
+    "lastCheck": "2025-12-15T22:55:10.716Z"
   },
   {
     "id": "max2",
     "name": "max - 2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/3f94e258c94eacd28c4251d9962c1ec8/max2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/f8f43cceb33b050308b502930972a47c/max2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:15:59.180Z"
+    "lastCheck": "2025-12-15T22:55:11.507Z"
   },
   {
     "id": "max3",
     "name": "max - 3",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/475d573a9ec8ca81c0101e19ddfb76d6/max3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/8a80e14851949376bad565c8415d3151/max3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:00.383Z"
+    "lastCheck": "2025-12-15T22:55:11.940Z"
   },
   {
     "id": "max4",
     "name": "max - 4",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/e7ecf244234e2473c6f10230142df1ae/max4.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b262d193268b9eab0984a94474d7908c/max4.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:02.401Z"
+    "lastCheck": "2025-12-15T22:55:12.351Z"
   },
   {
     "id": "max5",
     "name": "max - 5",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/c698bd69e4fa388c576b0a4aba5815d2/max5.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/d7596949d7ea90e1357c03801f868928/max5.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:04.433Z"
+    "lastCheck": "2025-12-15T22:55:12.759Z"
   },
   {
     "id": "max6",
     "name": "max - 6",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/970be278831242228e8933b31fb23b78/max6.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/da9dc87595653f7a9b9848a4f8e68bd5/max6.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:05.674Z"
+    "lastCheck": "2025-12-15T22:55:13.192Z"
   },
   {
     "id": "disneyplus1",
     "name": "disney plus 1",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/9b805f63090448fe798f8b335295dd8b/disneyplus1.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b1e344d46b285e1676a5b6ac236f6bcf/disneyplus1.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:06.907Z"
+    "lastCheck": "2025-12-15T22:55:13.608Z"
   },
   {
     "id": "disneyplus2",
     "name": "disney plus 2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/60f9b41404ff91efbbd7181fc7ac5f7e/disneyplus2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/1455caeec37a64b229c377f59153581a/disneyplus2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:08.167Z"
+    "lastCheck": "2025-12-15T22:55:13.994Z"
   },
   {
     "id": "disneyplus3",
     "name": "disney plus 3",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/2dce72d461f516f41bcb73c28929a3bc/disneyplus3.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/0066ee5bfb8725baa8723d2425e4843e/disneyplus3.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:09.337Z"
+    "lastCheck": "2025-12-15T22:55:14.379Z"
   },
   {
     "id": "disneyplus4",
     "name": "disney plus 4",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/2f95f40ccd881cb11f5fe8f20e143b1f/disneyplus4.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b7a77b291cdfc1e156f3cb741a69de44/disneyplus4.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:10.430Z"
+    "lastCheck": "2025-12-15T22:55:14.791Z"
   },
   {
     "id": "disneyplus5",
     "name": "disney plus 5",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/c9941820d42cbbabcb2e9654c3c9c280/disneyplus5.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/45a125fa697298feea537557181a0af3/disneyplus5.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:11.507Z"
+    "lastCheck": "2025-12-15T22:55:15.204Z"
   },
   {
     "id": "disneyplus6",
     "name": "disney plus 6",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/9f0b561bc33224b8a4d093f248317b65/disneyplus6.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/016b4643465e7228219cfc40f61cd65f/disneyplus6.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:13.542Z"
+    "lastCheck": "2025-12-15T22:55:15.612Z"
   },
   {
     "id": "globorj",
     "name": "globo rj",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/e311196503009340e797a24c6bb2dbae/globorj.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/100122e256444b2568e08f9d78f0a15f/globorj.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:14.755Z"
+    "lastCheck": "2025-12-15T22:55:16.031Z"
   },
   {
     "id": "globosp",
     "name": "globo sp",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/fcdafd2c7ab7f67c38bf751a54a4fbfd/globosp.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e00cc6747aed060177a3d22c181bde1f/globosp.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:15.970Z"
+    "lastCheck": "2025-12-15T22:55:16.415Z"
   },
   {
     "id": "globors",
     "name": "globo sp",
     "stream": "",
     "status": "offline",
-    "lastCheck": "2025-12-15T13:16:17.753Z"
+    "lastCheck": "2025-12-15T22:55:18.895Z"
   },
   {
     "id": "globomg",
     "name": "globo sp",
     "stream": "",
     "status": "offline",
-    "lastCheck": "2025-12-15T13:16:18.379Z"
+    "lastCheck": "2025-12-15T22:55:19.563Z"
   },
   {
     "id": "sbt",
     "name": "sbt ",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/e14cd69219c38a4c41d932524366bc73/sbt.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/a1e2d90d96e49099736af0c01d5159eb/sbt.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:19.593Z"
+    "lastCheck": "2025-12-15T22:55:20.186Z"
   },
   {
     "id": "band",
     "name": "band",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/15925f2fef74cf384d9947859b685d15/band.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/baa92625951bf66957977b45bc72d615/band.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:20.817Z"
+    "lastCheck": "2025-12-15T22:55:20.663Z"
   },
   {
     "id": "record",
     "name": "record",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/7210934b1001697624e633b4ad813e99/record.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/ec8a17ca905bccaff9ec39af6b58c3fc/record.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:22.047Z"
+    "lastCheck": "2025-12-15T22:55:21.086Z"
   },
   {
     "id": "redetv",
     "name": "redetv",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/2d74b5094cabb64d7ff90315dae28fd8/redetv.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/6d021e777633ab14da1d72c73ad707ee/redetv.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:23.232Z"
+    "lastCheck": "2025-12-15T22:55:21.498Z"
   },
   {
     "id": "cultura",
     "name": "cultura",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/5f7006d5a569f1e037e4935d6077bc23/cultura.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/355370a53fca0fd91e1ab6af837f8fd0/cultura.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:24.413Z"
+    "lastCheck": "2025-12-15T22:55:21.917Z"
   },
   {
     "id": "axn",
     "name": "axn",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/c7e67c069882eaaf8a5de46a249c118d/axn.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/1378c55de94005a88926cb60ca2da019/axn.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:25.603Z"
+    "lastCheck": "2025-12-15T22:55:22.341Z"
   },
   {
     "id": "cartoonnetwork",
     "name": "cartoon network",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/e4ddd3a4d2d18ebe49b09fa0f93f47e0/cartoonnetwork.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/900b2eeed751a5289f954a2b54b1c8ae/cartoonnetwork.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:26.806Z"
+    "lastCheck": "2025-12-15T22:55:22.769Z"
   },
   {
     "id": "comedycentral",
     "name": "comedy central",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/5d08bc9523f4e72e219183ee86a9a8ec/comedycentral.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/daa8fc388922ce2d8d831c26fd4238ff/comedycentral.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:27.985Z"
+    "lastCheck": "2025-12-15T22:55:23.187Z"
   },
   {
     "id": "discovery_channel_hd",
     "name": "discovery channel",
     "stream": "",
     "status": "offline",
-    "lastCheck": "2025-12-15T13:16:28.729Z"
+    "lastCheck": "2025-12-15T22:55:23.919Z"
   },
   {
     "id": "discoverykids",
     "name": "discovery kids",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/3e807b65d182cc4438b0a170a41c5939/discoverykids.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e287b5c36c9fc239d8bbf0e0f0e90131/discoverykids.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:30.705Z"
+    "lastCheck": "2025-12-15T22:55:24.329Z"
   },
   {
     "id": "discoveryturbo",
     "name": "discovery turbo",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/79306e0d6727a420b3e8bded78a2f94d/discoveryturbo.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/6e29a3be1712ba3ad8c0a81d36e0c00e/discoveryturbo.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:31.892Z"
+    "lastCheck": "2025-12-15T22:55:24.749Z"
   },
   {
     "id": "hbo",
     "name": "hbo",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/b210e630f50e0884dab10c4523014015/hbo.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/ced6551931eed9dd0a78d6f55c16b54e/hbo.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:33.887Z"
+    "lastCheck": "2025-12-15T22:55:25.156Z"
   },
   {
     "id": "hbo2",
     "name": "hbo 2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/2ed38a326dcc56867c79ff6e4f0bf363/hbo2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e5a02baba11ebab9f998e546ffc8fca6/hbo2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:35.088Z"
+    "lastCheck": "2025-12-15T22:55:25.590Z"
   },
   {
     "id": "hbofamily",
     "name": "hbo family",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/b3bf437bf277bf809782571b2ce5e304/hbofamily.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/59438d3803559da5c936f91144046c73/hbofamily.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:36.145Z"
+    "lastCheck": "2025-12-15T22:55:25.998Z"
   },
   {
     "id": "hboplus",
     "name": "hbo plus",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/4fca009f39000cd31a3e0052abbede78/hboplus.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/7b4234045ab5183503541b58b10ec74c/hboplus.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:38.136Z"
+    "lastCheck": "2025-12-15T22:55:26.423Z"
   },
   {
     "id": "hboxtreme",
     "name": "hbo xtreme",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/6135ae92efedd06be90a64fb0e00a9cb/hboxtreme.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/528246d3cbd438ed7e238c48a0245c19/hboxtreme.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:39.197Z"
+    "lastCheck": "2025-12-15T22:55:26.837Z"
   },
   {
     "id": "hgtv",
     "name": "hgtv",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/8bb2fb3d8727e6e4e4d238e1c7c32720/hgtv.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/6a6a5e880152807e1e599216d03cf60c/hgtv.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:40.232Z"
+    "lastCheck": "2025-12-15T22:55:27.245Z"
   },
   {
     "id": "history",
     "name": "history",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/7f7bfebb48a1282ea3bc4cb95dc6dba3/history.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/000e286d45983f7f9418ea08bca7eec9/history.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:41.419Z"
+    "lastCheck": "2025-12-15T22:55:27.645Z"
   },
   {
     "id": "history2",
     "name": "history 2",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/d915ab2a9e7294c41054d0282747d545/history2.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/83ee173266fa683cf2efcd0b4b190922/history2.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:42.596Z"
+    "lastCheck": "2025-12-15T22:55:28.063Z"
   },
   {
     "id": "megapix",
     "name": "megapix",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/2252f0e937f4ae69c9a9a473db92c501/megapix.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/525b372d5f831ffdf12cae6536179a30/megapix.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:43.797Z"
+    "lastCheck": "2025-12-15T22:55:28.486Z"
   },
   {
     "id": "multishow",
     "name": "multishow",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/72c90b331c63a76e362adb1392eb3687/multishow.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/54dabd76a07b43c2d636472dc57de268/multishow.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:45.761Z"
+    "lastCheck": "2025-12-15T22:55:28.895Z"
   },
   {
     "id": "nickelodeon",
     "name": "nickelodeon",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/ed33aca5fb660987ed09015313f44428/nickelodeon.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/91501fce018f634f615d99ad60a47bdb/nickelodeon.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:47.744Z"
+    "lastCheck": "2025-12-15T22:55:29.304Z"
   },
   {
     "id": "tlc",
     "name": "tlc",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/badff9f5279fe78a81b1f832cd004219/tlc.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/a7d31b2b31e02da3162889b0df3bcb5a/tlc.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:48.936Z"
+    "lastCheck": "2025-12-15T22:55:29.716Z"
   },
   {
     "id": "tntnovelas",
     "name": "tnt novelas",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/308e90379c0f227a93b628ee823dba62/tntnovelas.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/241090355c7cb1cfd656ae890e8f6f63/tntnovelas.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:50.142Z"
+    "lastCheck": "2025-12-15T22:55:30.131Z"
   },
   {
     "id": "tntseries",
     "name": "tnt series",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/a7c419af5407a6ab5215be925f5749bf/tntseries.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/30a59e4d1c1beee5f4ab79a793d68f9a/tntseries.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:52.127Z"
+    "lastCheck": "2025-12-15T22:55:30.548Z"
   },
   {
     "id": "viva",
     "name": "viva",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/31a5c06faba0030d2856a5ad8171c98b/viva.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/b975e274177c5f5edcaf20a7077efdd1/viva.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:53.323Z"
+    "lastCheck": "2025-12-15T22:55:30.961Z"
   },
   {
     "id": "telecinepremium",
     "name": "telecine premium",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/659c11f10378a4b093e4b82bf19eb8bb/telecinepremium.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/0f69a7f916bf07ac7d13ae1d5ff9e31d/telecinepremium.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:54.494Z"
+    "lastCheck": "2025-12-15T22:55:31.358Z"
   },
   {
     "id": "telecineaction",
     "name": "telecine action",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/aba42ebde9e6b3cbd7d37ae2614573a4/telecineaction.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/44d185264f6a3bb358284a73335d7029/telecineaction.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:55.533Z"
+    "lastCheck": "2025-12-15T22:55:31.774Z"
   },
   {
     "id": "telecinepipoca",
     "name": "telecine pipoca",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/f76ef9cb00688d9467c8092d42b1fc40/telecinepipoca.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/e6b0cdbbc0ff5a681b1956e09ad20475/telecinepipoca.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:56.598Z"
+    "lastCheck": "2025-12-15T22:55:32.207Z"
   },
   {
     "id": "telecinetouch",
     "name": "telecine touch",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/ed2e9ece58c807e85c6bd13b4d9de980/telecinetouch.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/8796da9c89bcf19c462a4123cd98b5bb/telecinetouch.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:57.642Z"
+    "lastCheck": "2025-12-15T22:55:32.616Z"
   },
   {
     "id": "telecinefun",
     "name": "telecine fun",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/cf44abe9c671435d8444eb10e249f94b/telecinefun.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/20b2378bfa20e72f2188cf6a4f21909b/telecinefun.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:16:58.998Z"
+    "lastCheck": "2025-12-15T22:55:33.034Z"
   },
   {
     "id": "telecinecult",
     "name": "telecine cult",
-    "stream": "https://d1muf25xa12so8hp15.s27-usa-cloudfront-net.online/token/e1893d2b13308263625a506444ca8652/telecinecult.m3u8",
+    "stream": "https://d1muf25xa12so8hp16.s27-usa-cloudfront-net.online/token/2c9abec4569f3b7c80a5fd6480b7844d/telecinecult.m3u8",
     "status": "online",
-    "lastCheck": "2025-12-15T13:17:00.054Z"
+    "lastCheck": "2025-12-15T22:55:33.453Z"
   }
 ]
